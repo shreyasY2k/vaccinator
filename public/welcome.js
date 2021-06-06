@@ -1,56 +1,47 @@
 function centerRender(length, centers) {
-  var table = document.getElementById("centers");
-  var header = table.createTHead(0);
-  var row = header.insertRow(0);
-  var centerId = row.insertCell(0);
-  var centerName = row.insertCell(1);
-  var centerAddr = row.insertCell(2);
-  var vaccine = row.insertCell(3);
-  var selectButton = row.insertCell(4);
-  centerId.innerHTML = "SL.NO";
-  centerName.innerHTML = "Name";
-  centerAddr.innerHTML = "Address";
-  vaccine.innerHTML = "Vaccine";
-  selectButton.innerHTML = "Select";
-  for (i = 1; i < length; i++) {
-    var row = table.insertRow(i);
+  var table = document.getElementById("centerValues");
+  for (i = 0; i < length; i++) {
+    var row = table.insertRow();
     var centerId = row.insertCell(0);
     var centerName = row.insertCell(1);
     var centerAddr = row.insertCell(2);
-    var vaccine = row.insertCell(3);
-    var selectButton = row.insertCell(4);
-
-    centerId.innerHTML = centers[i].center_id;
-    centerName.innerHTML = centers[i].name;
-    centerAddr.innerHTML = centers[i].address;
-    vaccine.innerHTML = centers[i].vaccine;
+    var pincode = row.insertCell(3);
+    var vaccine = row.insertCell(4);
+    var slots = row.insertCell(5);
+    var selectButton = row.insertCell(6);
+    var centerData = centers[i].split("|");
+    centerId.innerHTML = centerData[0];
+    centerName.innerHTML = centerData[1];
+    centerAddr.innerHTML = centerData[2];
+    pincode.innerHTML = centerData[3];
+    vaccine.innerHTML = centerData[4];
+    slots.innerHTML = centerData[5];
     var btn = document.createElement("a");
     btn.setAttribute("class", "btn btn-primary");
     btn.setAttribute(
       "href",
       "/book?id=" +
-        centers[i].center_id +
+        centerData[0] +
         "&name=" +
-        centers[i].name +
+        centerData[1] +
         "&address=" +
-        centers[i].address +
+        centerData[2] +
         "&vaccine=" +
-        centers[i].vaccine
+        centerData[4]
     );
     btn.textContent = "Select";
-    btn.id = centers[i].center_id;
-    console.log(btn.id);
+    btn.id = centerData[0];
     selectButton.appendChild(btn);
   }
 }
-if ((username = Cookies.get("name"))) {
-  console.log(username);
-  document.getElementById("username").textContent = `Welcome ${username}`;
+if ((username = Cookies.get("userDetails"))) {
+  var user = JSON.parse(username.slice(2, username.length));
+  document.getElementById("username").textContent = `Welcome: ${user.name}`;
   fetch("centers.txt")
     .then(response => response.text())
     .then(data => {
-      data = JSON.parse(data).centers;
-      centerRender(data.length, data);
+      dataArr = data.split("\n");
+      centerRender(dataArr.length, dataArr);
     });
 } else {
   window.location = "index.html";

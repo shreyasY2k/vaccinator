@@ -1,3 +1,6 @@
+window.onbeforeunload = function () {
+  return Cookies.remove("userDetails");
+};
 function centerRender(length, centers) {
   var table = document.getElementById("centerValues");
   for (i = 0; i < length; i++) {

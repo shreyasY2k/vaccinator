@@ -42,14 +42,12 @@ function bookVaccine(
           if (err) throw err;
           var centerList = data.toString().split("\n");
           for (i = 0; i < centerList.length; i++) {
-            if (centerList[i].includes(centerId)) {
-              console.log(centerList[i]);
+            if (centerList[i].split("|")[0] == centerId) {
               var matchCenter = centerList[i].split("|");
               matchCenter[5] = parseInt(matchCenter[5]) - 1;
               centerList[i] = matchCenter.join("|");
-              console.log(centerList[i]);
+              break;
             }
-            break;
           }
           fs.writeFile(
             "./public/centers.txt",

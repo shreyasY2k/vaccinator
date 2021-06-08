@@ -36,21 +36,18 @@
   <body>
     <div class="container">
       <h2 id="username"></h2>
-      <h3>Centers List</h3>
-      <table id="centers" class="table table-bordered table-striped">
-        <thead class="bg-info">
-          <tr>
-            <td>Sl.No</td>
-            <td>Center Name</td>
-            <td>Address</td>
-            <td>Pincode</td>
-            <td>Vaccine Name</td>
-            <td>Slots Remaining</td>
-            <td>Select</td>
-          </tr>
-        </thead>
-        <tbody id="centerValues" class="table-info"></tbody>
-      </table>
+      <h3 class="h3">Search Center:</h3>
+      <input
+        class="input-group-text"
+        type="text"
+        id="pincode"
+        placeholder="Pincode/District"
+        style="float: left"
+      />
+      <button id="search" class="btn btn-primary" style="margin: 0 0 20px 20px">
+        Search
+      </button>
+      <table id="centers" class="table table-bordered table-striped"></table>
     </div>
   </body>
   <script src="welcome.js"></script>

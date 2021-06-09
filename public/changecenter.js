@@ -1,5 +1,5 @@
 window.onunload = function () {
-  return Cookies.remove("userDetails");
+  return Cookies.remove("change");
 };
 function centerRender(length, centers, pincode) {
   if (pincode != "") {
@@ -44,7 +44,7 @@ function centerRender(length, centers, pincode) {
           "<td>" +
           centerData[5] +
           "</td>" +
-          `<td><a href='/book?id=${centerData[0]}&name=${centerData[1]}&address=${centerData[2]}&vaccine=${centerData[4]}' class='btn btn-primary'>Select</a>` +
+          `<td><a href='/change?id=${centerData[0]}&name=${centerData[1]}&address=${centerData[2]}&vaccine=${centerData[4]}' class='btn btn-primary'>Select</a>` +
           "</td>" +
           "</tr>"
       );
@@ -52,9 +52,8 @@ function centerRender(length, centers, pincode) {
     }
   }
 }
-if ((username = Cookies.get("userDetails"))) {
-  console.log(username);
-  var user = JSON.parse(username.slice(2, username.length));
+if ((username = Cookies.get("change"))) {
+  var user = JSON.parse(Cookies.get("change"));
   document.getElementById("username").textContent = `Welcome: ${user.name}`;
   fetch("centers.txt")
     .then(response => response.text())

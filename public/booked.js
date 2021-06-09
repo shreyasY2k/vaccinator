@@ -1,4 +1,4 @@
-window.onbeforeunload = function () {
+window.onunload = function () {
   return Cookies.remove("userDetails");
 };
 function bookedUserData(aadhar, dataArr) {
@@ -24,3 +24,7 @@ if ((username = Cookies.get("userDetails"))) {
 } else {
   window.location = "index.html";
 }
+document.querySelector("#changecenter").addEventListener("click", () => {
+  Cookies.set("change", `{"name":"${user.name}","aadhar":"${user.aadhar}"}`);
+  // window.location = "changecenter.html";
+});

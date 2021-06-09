@@ -1,3 +1,3 @@
-1|Shimoga PHC|Shimoga|577201|COVAXIN|97
-2|Banglore PHC|Banglore|560048|COVISHIELD|98
-3|Dhavangere PHC|Dhavangere|574201|SPUTNIK|70
+1|Shimoga PHC|M G Road|577201|COVAXIN|96
+2|Banglore PHC|Cubbon Park|560048|COVISHIELD|98
+3|Davangere PHC|Basaveshwara Nagar|574201|SPUTNIK|67

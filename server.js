@@ -2,7 +2,6 @@ const express = require("express");
 const app = express();
 var cookieParser = require("cookie-parser");
 const fs = require("fs");
-// var multer = require("multer");
 const path = require("path");
 
 //check whether user has already booked for vaccination
@@ -13,6 +12,65 @@ function isUserBooked(data, aadhar) {
       return true;
     }
   }
+}
+
+//change booked center
+function changeCenter(
+  centerId,
+  centerName,
+  centerAddress,
+  vaccineSelected,
+  userDetails
+) {
+  fs.readFile("users.txt", function (err, data) {
+    if (err) throw err;
+    data = data.toString().split("\n");
+    for (i = 0; i < data.length; i++) {
+      if (data[i].split("|")[2] == userDetails.aadhar) {
+        data[i] = data[i].split("|");
+        var oldId = data[i][3];
+        var oldName = data[i][4];
+        fs.readFile("./public/centers.txt", function (err, data) {
+          if (err) throw err;
+          var centerList = data.toString().split("\n");
+          for (i = 0; i < centerList.length; i++) {
+            if (centerList[i].split("|")[0] == oldId) {
+              var matchCenter = centerList[i].split("|");
+              matchCenter[5] = parseInt(matchCenter[5]) + 1;
+              centerList[i] = matchCenter.join("|");
+              console.log(`Slot Increased at ${oldId}:${oldName}`);
+            }
+            if (centerList[i].split("|")[0] == centerId) {
+              var matchCenter = centerList[i].split("|");
+              matchCenter[5] = parseInt(matchCenter[5]) - 1;
+              centerList[i] = matchCenter.join("|");
+              console.log(`Slot Reduced at ${centerId}:${centerName}`);
+            }
+          }
+          fs.writeFile(
+            "./public/centers.txt",
+            centerList.join("\n"),
+            function (err) {
+              if (err) throw err;
+            }
+          );
+        });
+
+        data[i][3] = centerId;
+        data[i][4] = centerName;
+        data[i][5] = centerAddress;
+        data[i][6] = vaccineSelected;
+        data[i] = data[i].join("|");
+        fs.writeFile("users.txt", data.join("\n"), function (err) {
+          if (err) throw err;
+          console.log(
+            `User:${userDetails.name}'s Slot Changed to ${centerId}:${centerName}`
+          );
+        });
+        break;
+      }
+    }
+  });
 }
 
 //book vaccine appointment for the user and update users.txt file accordingly
@@ -125,6 +183,24 @@ app.get("/book*", (req, res) => {
   res.end(
     `Slot Booked for ${vaccineSelected} at ${centerName}, ${centerAddress}`
   );
+});
+
+app.get("/change*", (req, res) => {
+  var userDetails = JSON.parse(req.cookies["change"]);
+  var centerId = req.query.id;
+  var centerName = req.query.name;
+  var centerAddress = req.query.address;
+  var vaccineSelected = req.query.vaccine;
+
+  changeCenter(
+    centerId,
+    centerName,
+    centerAddress,
+    vaccineSelected,
+    userDetails
+  );
+  res.clearCookie("change");
+  res.end(`Your Slot successfully changed to ${centerName}, ${centerAddress}`);
 });
 
 app.get("/userfile", function (req, res) {

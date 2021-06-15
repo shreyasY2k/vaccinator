@@ -1,3 +1,1887 @@
-1|Shimoga PHC|M G Road|577201|COVAXIN|96
-2|Banglore PHC|Cubbon Park|560048|COVISHIELD|98
-3|Davangere PHC|Basaveshwara Nagar|574201|SPUTNIK|67
+1|NANDIKESHWAR PHC COVAXINE|NANDIKESHWAR PHC BADAMI|Bagalkot|587201|COVAXIN|100
+3|UPHC NAVANAGAR COVAXIN|AMO UPHC NAVANGAR|Bagalkot|587102|COVAXIN|100
+2|KonnurPHC|Phc Hospital|Bagalkot|587121|COVISHIELD|100
+4|Togunasi PHC|Togunasi PHC Badami|Bagalkot|587203|COVISHIELD|100
+5|Kulageri Cross PHC|Hubli Road Kulageri Cross|Bagalkot|587155|COVISHIELD|100
+6|SC DAVALESHWAR|DAVALESHWAR|Bagalkot|587313|COVISHIELD|100
+7|Marol PHC|Marol|Bagalkot|587118|COVISHIELD|100
+8|PHC GALAGALI COVAXIN|AMO GALAGALI|Bagalkot|587117|COVAXIN|100
+9|Hipparagi PHC|Govt Hospital Hipparagi|Bagalkot|587311|COVISHIELD|100
+10|SC ANAVALA|ANAVALA|Bagalkot|587206|COVISHIELD|100
+11|PHC Shirur|Bagalkot Raod|Bagalkot|587120|COVISHIELD|100
+12|PHC Halagali|PHC Halagali|Bagalkot|587121|COVISHIELD|100
+13|Nagur PHC|Nagur|Bagalkot|587118|COVISHIELD|100
+14|LOKAPUR PHC COVAXIN|Lokapur PHC|Bagalkot|587122|COVAXIN|100
+15|Kakanur PHC|Kakanur PHC Badami|Bagalkot|587201|COVISHIELD|100
+16|Bilagi TH Covaxin|Taluka Hospital Bilagi|Bagalkot|587116|COVAXIN|100
+17|Rabakavi UPHC|Vidyanagar Behind KEB Rabakavi|Bagalkot|587311|COVISHIELD|100
+18|Dhannur PHC|Primary Health Center Dhannur Murarjee School Road Dhannur|Bagalkot|587118|COVISHIELD|100
+19|Girisagar CHC|Girisagar CHC Tq Bilagi|Bagalkot|587116|COVISHIELD|100
+20|SC Jagadal|JAGADALA|Bagalkot|587311|COVISHIELD|100
+21|Mudhol KEM TH|Mudhol Taluka Hospital|Bagalkot|587313|COVISHIELD|100
+22|Sutagundar PHC|Sutagundar|Bagalkot|587207|COVISHIELD|100
+23|Jamakhandi TH Covaxin|Taluka Hospital Jamakhandi|Bagalkot|587301|COVAXIN|100
+24|Kamatagi PHC|Primary Health Center Kamatagi Near KEB|Bagalkot|587120|COVISHIELD|100
+25|Sulebhavi PHC|Aihole -Aminagad Road Sulebhavi|Bagalkot|587124|COVISHIELD|100
+26|PHC Gudur Covaxin|PHC Gudur|Bagalkot|587202|COVAXIN|100
+27|Navnagar UPHC|Sector No.47 Near Bajantri Hanuman Temple Navanagar|Bagalkot|587103|COVISHIELD|100
+28|Taluk Hospital Bilagi|Bilagi Taluk Hospital|Bagalkot|587116|COVISHIELD|100
+29|Karadi PHC|Karadi|Bagalkot|587125|COVISHIELD|100
+30|Kudalsangam CHC Covaxin|Kudalsangam CHC Hungund Taluka|Bagalkot|587112|COVAXIN|100
+31|SC PATTADAKAL B|PATTADAKAL|Bagalkot|587201|COVISHIELD|100
+32|Halakurki PHC|Bagalkot Road|Bagalkot|587201|COVISHIELD|100
+33|PHC Navalagi|Phc Navalagi Tq Rabakavi Banahatti|Bagalkot|587311|COVISHIELD|100
+34|PHC Terdal|Govt Hospital|Bagalkot|587315|COVISHIELD|100
+35|Mustigeri PHC|Karadigudda Road Mustigeri|Bagalkot|587206|COVISHIELD|100
+36|Mustigeri PHC Covaxin|Mustigeri PHC Badami|Bagalkot|587206|COVAXIN|100
+37|PHC Linganur|Primary Health Center Linganur|Bagalkot|587301|COVISHIELD|100
+38|Guledgudda CHC|Market Area Guledgudda|Bagalkot|587203|COVISHIELD|100
+39|Kudalasangam CHC|Arachakra Colony Kudalasangam|Bagalkot|587115|COVISHIELD|100
+40|Havaragi PHC Covaxin|Havaragi PHC|Bagalkot|587118|COVAXIN|100
+41|50 Bedded Hospital Covaxin|Old Bagalkot|Bagalkot|587101|COVAXIN|100
+42|Nandikeshwar|PHC Nandikeshwar|Bagalkot|587201|COVISHIELD|100
+43|Hiresingangutti PHC|PHC H S Gutti|Bagalkot|587154|COVISHIELD|100
+44|Galagali Phc|Galagali Bilagi Taluk|Bagalkot|587117|COVISHIELD|100
+45|Belur PHC|Belur PHC Gadag Road|Bagalkot|587114|COVISHIELD|100
+46|UPHC Ilkal|UPHC Ilkal Hospital|Bagalkot|587121|COVISHIELD|100
+47|SC SEETIMANI|SEETIMANI|Bagalkot|587207|COVISHIELD|100
+48|Jamakhandi TH|Taluka Hospital Jamkhandi|Bagalkot|587301|COVISHIELD|100
+49|PHC Navalagi Covaxin|PHC Navalagi|Bagalkot|587311|COVAXIN|100
+50|SC HANGARAGI|HANGARAGI|Bagalkot|587205|COVISHIELD|100
+51|Chimmad PHC|Phc Chimmad|Bagalkot|587312|COVISHIELD|100
+52|MALALI PHC COVAXIN|MALALI PHC MUDHOL|Bagalkot|587313|COVAXIN|100
+53|RampurPHC|Phc Rampur|Bagalkot|587207|COVISHIELD|100
+54|PHC Gothe Covaxin|PHC Gothe|Bagalkot|587330|COVAXIN|100
+55|Taluk Hospital Badami|Badami Taluk Hospital|Bagalkot|587201|COVISHIELD|100
+56|Terdal UPHC|Ambedkar Circle Terdal|Bagalkot|587315|COVISHIELD|100
+57|Ilkal GH|General Hospital Ilkal NH 50 Road Opposite DIET College Ilkal|Bagalkot|587125|COVISHIELD|100
+58|PHC Shirol|Shirol|Bagalkot|587313|COVISHIELD|100
+59|Dhannur PHC Covaxin|Dhannur Phc|Bagalkot|587118|COVAXIN|100
+60|Gudur Primary Health Center|Primary Health Center Gudur|Bagalkot|587202|COVISHIELD|100
+61|Halagali PHC Covaxin|Halahalgali PHC|Bagalkot|587121|COVAXIN|100
+62|Kaladagi PHC|Kaladagi PHC|Bagalkot|587204|COVISHIELD|100
+63|Kandagal PHC|Kandagal PHC Hunagund|Bagalkot|587154|COVISHIELD|100
+64|PHC Savalagi Covaxin|PHC Savalagi|Bagalkot|587330|COVAXIN|100
+65|PHC Malali|Phc Malali|Bagalkot|587113|COVISHIELD|100
+66|TOGUNSHI PHC COVAXIN|TOGUNSHI PHC BADAMI|Bagalkot|587203|COVAXIN|100
+67|KAKANUR PHC COVAXIN|KAKANUR PHC BADAMI|Bagalkot|587115|COVAXIN|100
+68|Guledgudd CHC Covaxin|Guledgudd CHC Badami|Bagalkot|587203|COVAXIN|100
+69|SC Hulyal|SC Hulyal|Bagalkot|587301|COVISHIELD|100
+70|Katageri PHC|Primay Health Center Katageri|Bagalkot|587205|COVISHIELD|100
+71|Hunagund TH|Hunagund TH|Bagalkot|587118|COVISHIELD|100
+72|Jamkhandi UPHC Covaxin|Jamkhandi UPHC|Bagalkot|587301|COVAXIN|100
+73|PHC Uttur|Mirji Road Uttur|Bagalkot|587313|COVISHIELD|100
+74|Girisagar CHC Covaxin|Girisagar Chc Bilagi|Bagalkot|587116|COVAXIN|100
+75|Pattadkal PHC|Primary Health Center Pattadkal|Bagalkot|587201|COVISHIELD|100
+76|Bagalkote 50 Bed Hospital|Chc 50 Bedded Hospital|Bagalkot|587101|COVISHIELD|100
+77|Kundargi PHC|Kundargi PHC Tq Bilagi|Bagalkot|587204|COVISHIELD|100
+78|KULAGERI CROSS PHC COVAXIN|KULAGERI CROSS BADAMI|Bagalkot|587155|COVAXIN|100
+79|Kerur CHC|Community Health Center Kerur|Bagalkot|587206|COVISHIELD|100
+80|PATTADAKALLU PHC COVAXINE|PATTADAKALLU PHC BADAMI|Bagalkot|587201|COVAXIN|100
+81|SC LAYADAGUNDI|LAYADAGUNDI|Bagalkot|587203|COVISHIELD|100
+82|Phc Belagali|Phc Belagali|Bagalkot|587113|COVISHIELD|100
+83|PHC BEVOOR COVAXIN|AMO PHC KALADAGI|Bagalkot|586113|COVAXIN|100
+84|Mahalingpur CHC Covaxin|Mahalingpur|Bagalkot|587312|COVAXIN|100
+85|SC HALAKURKI|HALAKURKI|Bagalkot|587201|COVISHIELD|100
+86|PHC Linganur Covaxin|PHC Linganur|Bagalkot|587301|COVAXIN|100
+87|Karadi PHC Covaxin|Karadi PHC|Bagalkot|587125|COVAXIN|100
+88|PHC SUTAGUNDAR COVAXIN|AMO PHC SUTAGUNDAR|Bagalkot|587207|COVAXIN|100
+89|Lokapur PHC|Lokapur PHC|Bagalkot|587122|COVISHIELD|100
+90|PHC Konnur Covaxin|PHC Konnur|Bagalkot|587121|COVAXIN|100
+91|Phc Bennur|Phc Bennur|Bagalkot|587111|COVISHIELD|100
+92|BELAGALI PHC COVAXIN|BELAGALI PHC MUDHOL|Bagalkot|587313|COVAXIN|100
+93|SHIROL PHC COVAXIN|SHIROL PHC|Bagalkot|587313|COVAXIN|100
+94|Banahatti CHC|Banahatti Chc|Bagalkot|587314|COVISHIELD|100
+95|HALAKURKI PHC COVAXIN|HALAKURKI PHC BADAMI|Bagalkot|587201|COVAXIN|100
+96|Mudhol UPHC|Mudhol UPHC|Bagalkot|587313|COVISHIELD|100
+97|Ilkal CHC Covaxin|Ilkal|Bagalkot|587125|COVAXIN|100
+98|Old Bagalkote UPHC|Old Ac Office Building|Bagalkot|587101|COVISHIELD|100
+99|PHC Metagudda Covaxin|PHC Metagudda|Bagalkot|587313|COVAXIN|100
+100|Chittaragi PHC|Chittaragi|Bagalkot|587112|COVISHIELD|100
+101|PHC Terdal Covaxin|PHC Terdal|Bagalkot|587315|COVAXIN|100
+102|Rabakavi Banahatti CHC Covaxin|Rabakavi Banahatti|Bagalkot|587314|COVAXIN|100
+103|PHC Chikkalaki Cross Covaxin|PHC Chikkalaki Cross|Bagalkot|587301|COVAXIN|100
+104|SC HEGGUR|CHC Girisagar|Bagalkot|587117|COVISHIELD|100
+105|Aihole PHC Cavaxin|Aihole PHC|Bagalkot|587124|COVAXIN|100
+106|PHC KALADAGI COVAXIN|AMO PHC KALADAGI|Bagalkot|587204|COVAXIN|100
+107|PHC YADAHALLI|YADAHALLI PHC|Bagalkot|587313|COVISHIELD|100
+108|PHC Chikkalaki Cross|PHC Chikkalaki Cross|Bagalkot|586113|COVISHIELD|100
+109|PHC Uttur COVAXIN|PHC Uttur|Bagalkot|587313|COVAXIN|100
+110|Kamatagi PHC Covaxin|Kamatagi PHC|Bagalkot|587120|COVAXIN|100
+111|Chittaragi PHC Covaxin|Chittaragi PHC|Bagalkot|587112|COVAXIN|100
+112|Aminagada PHC Covaxin|Ameenagada PHC|Bagalkot|587112|COVAXIN|100
+113|Havaragi PHC|Havaragi|Bagalkot|587118|COVISHIELD|100
+114|BELUR PHC COVAXINE|BELUR PHC BADAMI|Bagalkot|587114|COVAXIN|100
+115|Kandgall PHC Covaxin|Kandgall PHC|Bagalkot|587154|COVAXIN|100
+116|Aminagad PHC|Primary Health Center Aminagad|Bagalkot|587112|COVISHIELD|100
+117|Badami TH Covaxin|Badami Taluka Hospital|Bagalkot|587201|COVAXIN|100
+118|Phc Savalagi|Phc Savalagi|Bagalkot|587330|COVISHIELD|100
+119|Kasaba Jambagi Covaxin|PHC Kasaba Jambagi|Bagalkot|587122|COVAXIN|100
+120|Hunagund TH Covaxin|Taluka Hospital Hunagund|Bagalkot|587118|COVAXIN|100
+121|Kasaba Jambagi PHC|Kasaba Jambagi|Bagalkot|587122|COVISHIELD|100
+123|Mudhol TH Covaxin|Mudhol KEM Hospital Mahalingpur Road Mudhol|Bagalkot|587313|COVAXIN|100
+125|SC SONNA|CHC Girisagar|Bagalkot|587116|COVISHIELD|100
+122|SC BALLUR PLOT|BALLUR PLOT|Bagalkot|587313|COVISHIELD|100
+127|PHC Hipparagi COvaxin|PHC Hipparagi|Bagalkot|587311|COVAXIN|100
+124|Kerur CHC COVAXIN|Kerur CHC Badami Taluk|Bagalkot|587206|COVAXIN|100
+128|Jamakhandi UPHC|Kanakadas Badawane Uphc Jamkhandi|Bagalkot|587301|COVISHIELD|100
+130|RABAKAVI UPHC COVAXIN|RABAKAVI UPHC JAMAKANDI|Bagalkot|587311|COVAXIN|100
+131|Aihole PHC|Aihole|Bagalkot|587124|COVISHIELD|100
+129|SC BADAGANDI|SC Badagandi|Bagalkot|587116|COVISHIELD|100
+132|Yadahalli PHC COVAXIN|YADAHALLI PHC|Bagalkot|587313|COVAXIN|100
+133|PHC Chimmada Covaxin|PHC Chimmad|Bagalkot|587312|COVAXIN|100
+134|Phc Bewoor|Phc Bewoor|Bagalkot|587115|COVISHIELD|100
+135|KATAGERI PHC COVAXIN|KATAGERI PHC BADAMI|Bagalkot|587205|COVAXIN|100
+137|PHC BENNUR COVAXIN|AMO PHC BENNUR|Bagalkot|587111|COVAXIN|100
+138|SC ALAGUNDI|ALAGUNDI|Bagalkot|587313|COVISHIELD|100
+126|SC Madurkhandi|MADURKHANDI|Bagalkot|587119|COVISHIELD|100
+136|PHC SHIRUR COVAXIN|AMO SHIRUR|Bagalkot|587120|COVAXIN|100
+138|Nandagudi Phc|Near Bus Stand NandagudiHoskote Taluk Bangalore Rural|Bangalore Rural|562122|COVISHIELD|100
+139|Koraluru Mallasandra PHC|Koraluru Mallasandra PHCHosakote Taluk Bangalore Rural|Bangalore Rural|560067|COVISHIELD|100
+140|Gundumgere Hosahalli PHC|Gundumgere Hosahalli PHCDoddaballapura TalukBangalore Rural|Bangalore Rural|561204|COVISHIELD|100
+141|Hosakote Uphc|Near Nagareshwara Templemarket Road HoskoteBangalore Rural|Bangalore Rural|562114|COVISHIELD|100
+142|Kanasawadi PHC|Kanasawadi Doddaballapura TalukBangalore Rural|Bangalore Rural|561203|COVISHIELD|100
+143|Hoskote UPHC Covaxin|Near Nagareswara Temple  Market RoadHoskote Taluk  Bangalore Rural Dist|Bangalore Rural|562114|COVAXIN|100
+144|Kundana PHC|Kundana PhcDevanahalli Taluk Bangalore Rural|Bangalore Rural|562110|COVISHIELD|100
+145|Karahalli PHC|Karahalli PHC Devanahalli TalukBangalore Rural|Bangalore Rural|562110|COVISHIELD|100
+146|KADANUR PHC|KADANUR|Bangalore Rural|561204|COVISHIELD|100
+147|Hosakote TH COVAXIN|Santhe Gate Hosakote Taluk Bangalore Rural|Bangalore Rural|562114|COVAXIN|100
+148|Boys Hihg School Hosakote TH|Santhe Gate Hosakote TaluSk Bangalore Rural|Bangalore Rural|562114|COVISHIELD|100
+149|Konaghatta PHC|Nandi Hills Cross Doddaballapura TalukBangalore Rural|Bangalore Rural|562163|COVISHIELD|100
+150|Channarayapatna PHC|Channarayapatna PHCDevanahalli Taluk Bangalore Rural|Bangalore Rural|562135|COVISHIELD|100
+151|Shivanapura PHC 1|Shivanapura Nandigudi HobbliHoskote Taluk Bangalore Rural|Bangalore Rural|562114|COVISHIELD|100
+152|Vishwanathapura PHC|Vishwanathapura PHCDevanahalli Taluk Bangalore Rural|Bangalore Rural|562110|COVISHIELD|100
+153|Arudi PHC|Arudi Sasalu Hobli Doddaballapura TalukBangalore Rural|Bangalore Rural|561203|COVISHIELD|100
+154|Nelamangala TH Covishield|Beside Taluk Office Nelamangla Bus StandNelamangla Bangalore Rural|Bangalore Rural|562123|COVISHIELD|100
+155|KAMMASANDRA PHC|KAMMASANDRA|Bangalore Rural|561204|COVISHIELD|100
+156|HALENAHALLI|HALENAHALLI|Bangalore Rural|561204|COVISHIELD|100
+157|Sasalu PHC|Sasalu PHCDoddaballapura TalukBangalore Rural|Bangalore Rural|561204|COVISHIELD|100
+158|Mugabala PHC|Mugabala PHC Hosakote Taluk Bangalore Rural|Bangalore Rural|562114|COVISHIELD|100
+159|Aradeshanahalli PHC|I V C Road Aradeshanahalli PHC Devanahalli TalukBangalore Rural|Bangalore Rural|562110|COVISHIELD|100
+160|Doddatumakuru|DoddatumakuruDoddaballapura TalukBangalore Rural|Bangalore Rural|562163|COVISHIELD|100
+161|Hulikunte PHC|Hulikunte PHC Near Bus Stop|Bangalore Rural|561203|COVISHIELD|100
+162|Godlumuddenahalli PHC|Godlumuddenahalli PHCDevanahalli Taluk Bangalore Rural|Bangalore Rural|562110|COVISHIELD|100
+163|Doddaballapura UPHC Covaxin|Uphc Doddaballapura|Bangalore Rural|561203|COVAXIN|100
+164|Vijayapura CHC|Devanahalli RoadDevanahalli Taluk Bangalore Rural|Bangalore Rural|562135|COVISHIELD|100
+165|Devanahalli TH Site COVAXIN|Devanahalli TH Site|Bangalore Rural|562110|COVAXIN|100
+166|Shri Subramanya Ghati PHC|Shri Subramanya Ghati PHC Doddaballapura TalukBangalore Rural|Bangalore Rural|561203|COVISHIELD|100
+169|Konenahalli PHC|Konenahalli Phc Doddaballapura TalukBangalore Rural|Bangalore Rural|561204|COVISHIELD|100
+167|Doddaballapura TH|Govt Ayurvedic Hospital Building Beside LIC Office Doddaballapura Taluk Bangalore Rural|Bangalore Rural|561203|COVISHIELD|100
+171|Bendiganahalli PHC|Sidlaghatta Main Road BendiganahalliHosakote Taluk Bangalore Rural|Bangalore Rural|562129|COVISHIELD|100
+172|Doddahejjaji PHC|Doddahejjaji PHC Doddaballapura TalukBangalore Rural|Bangalore Rural|561204|COVISHIELD|100
+168|Devanahalli TH COVIDSHIELD|Devanahalli THDevanahalli Taluk Bangalore Rural|Bangalore Rural|562110|COVISHIELD|100
+173|Doddballapura UPHC|Uphc Near Old Bus Stand Area Doddaballapura Taluk Bangalore Rural|Bangalore Rural|561203|COVISHIELD|100
+175|Melekote PHC|Melekote PHC Doddaballapura TalukBangalore Rural|Bangalore Rural|561203|COVISHIELD|100
+176|Kajihosahalli|Kajihosahalli Hoskote Taluk Bangalore Rural|Bangalore Rural|562114|COVISHIELD|100
+174|Muthsandra Phc|Muthsandra PhcHosakote Taluk Bangalore Rural|Bangalore Rural|562114|COVISHIELD|100
+177|Bylanarasapura PHC|Bylanarasapura Main Road Hosakote TalukBangalore Rural|Bangalore Rural|562122|COVISHIELD|100
+179|Sulibele Phc|Sulibele Road Hosakote Taluk Bangalore Rural|Bangalore Rural|562129|COVISHIELD|100
+170|Sadahalli PHC|Sadahalli PHCDevanahalli Taluk Bangalore Rural|Bangalore Rural|562110|COVISHIELD|100
+180|Maralenahalii PHC|Maralenahalii PHC Doddaballapura TalukBangalore Rural|Bangalore Rural|561203|COVISHIELD|100
+182|Doddaballapura TH COVAXIN Site|Near TB Circal Doddaballapura|Bangalore Rural|561203|COVAXIN|100
+181|Anugondanahalli PHC|Anugondanahalli Hosakote TalukBangalore Rural|Bangalore Rural|562114|COVISHIELD|100
+184|Tubagere PHC|Tubagere PHC Doddaballapura TalukBangalore Rural|Bangalore Rural|561203|COVISHIELD|100
+178|Jadigenahalli Phc|Malur Road JadigenahalliHosakote TalukBangalore Rural|Bangalore Rural|562114|COVISHIELD|100
+183|Nalluru Phc|Nalluru PhcDevanahalli Taluk Bangalore Rural|Bangalore Rural|562129|COVISHIELD|100
+185|Avathi PHC|Avathi PHC Devanahalli Taluk Bangalore Rural|Bangalore Rural|562164|COVISHIELD|100
+186|Budigere PHC|Budigere PHCDevanahalli Taluk Bangalore Rural|Bangalore Rural|562129|COVISHIELD|100
+187|Koira PHC|Koira PHCDevanahalli Taluk Bangalore Rural|Bangalore Rural|562110|COVISHIELD|100
+188|Balluru PHC|Dasanapura Road|Bangalore Urban|562107|COVISHIELD|100
+189|Yelahanka TH.|Yelahanka Old Town Behind Veeranjaneya Temple|Bangalore Urban|562157|COVISHIELD|100
+190|Kumbalagodu Gollahalli PHC|Gonipura Main Road|Bangalore Urban|560074|COVISHIELD|100
+191|Chikkabanavara PHC|Dwarakanagar|Bangalore Urban|560090|COVISHIELD|100
+192|Dommasandra PHC|Sarjapura Main Road|Bangalore Urban|562125|COVISHIELD|100
+193|Avalahalli CHC|Old Madras Road|Bangalore Urban|560049|COVISHIELD|100
+194|Indalwadi PHC|Indalvadi Govt Hospital|Bangalore Urban|562106|COVISHIELD|100
+195|Chandapura PHC|Hosur Main Road|Bangalore Urban|560099|COVISHIELD|100
+196|TATAGUNI|TATAGUNI MAIN ROAD|Bangalore Urban|560082|COVISHIELD|100
+197|ASC CENTRE SOUTH MI ROOM|CMIR ASC CENTRE SOUTH 2ATC AGARAM POST|Bangalore Urban|560007|COVISHIELD|100
+198|ECHS POLY CLINIC|CAMBRIDGE ROAD|Bangalore Urban|560007|COVISHIELD|100
+199|Hulimangala Sub Center|G S P SCHOOLMARAGONANAHALLI VILLAGE|Bangalore Urban|562106|COVISHIELD|100
+200|AVALAHALLI Sub Centre|Kithaganoor|Bangalore Urban|560036|COVISHIELD|100
+201|Vaderahalli Subcentre|Vaderahalli Bangalore North Abbigere|Bangalore Urban|560049|COVISHIELD|100
+202|Machohalli PHC Valmiki Bhavana|Valmiki Samudaya Bhavana Machohalli Colony|Bangalore Urban|560091|COVISHIELD|100
+203|Rajanukunte PHC|Doddaballapur Main Road|Bangalore Urban|560064|COVISHIELD|100
+204|Guddadahalli Sub Centre|Guddadahali Anganawadi Center|Bangalore Urban|560088|COVISHIELD|100
+205|Bolare PHC|Kanakapura Main Road|Bangalore Urban|560116|COVISHIELD|100
+206|SULIKERE Sub Centre|Sulikere Sub Centre|Bangalore Urban|560060|COVISHIELD|100
+207|Chunchunakuppe S/C C.circle|Chunchunakuppe Chandrappa Circle Bengaluru|Bangalore Urban|562130|COVISHIELD|100
+208|KANNAMANGALA Sub Centre|KANNAMANGALA Sub Centre|Bangalore Urban|560067|COVISHIELD|100
+211|Haragadde PHC|Bannerghatta Main Road|Bangalore Urban|560105|COVISHIELD|100
+212|Makali PHC 1|Alur Main Road|Bangalore Urban|562162|COVISHIELD|100
+210|Guddahatti PHC|Near Budda Temple|Bangalore Urban|562107|COVISHIELD|100
+213|Sonnenahalli PHC|Sonnenahalli Bytha Post Hesaraghatta Hobli Bengaluru North Bengaluru Urban District|Bangalore Urban|560089|COVISHIELD|100
+209|Chikkajala PHC|Airport Main Road|Bangalore Urban|562157|COVISHIELD|100
+214|Kadusonnappanahalli PHC|Bagaluru Main Road|Bangalore Urban|562149|COVISHIELD|100
+215|Sulikere PHC|Near Sulikere Government School|Bangalore Urban|560060|COVISHIELD|100
+216|Jigani PHC|APC Circle Bannerghatta Road|Bangalore Urban|560105|COVISHIELD|100
+217|Somshettihalli Sub Centre|Somashetti Halli|Bangalore Urban|560090|COVISHIELD|100
+218|Rajankunte Sub Center|Doddaballapur Main Road|Bangalore Urban|560064|COVISHIELD|100
+219|Kannuru PHC|Yelahanka Main Road|Bangalore Urban|562149|COVISHIELD|100
+220|Hesaraghatta PHC|Near IIHR|Bangalore Urban|560088|COVISHIELD|100
+221|Marasuru PHC|Marasuru Main Road|Bangalore Urban|562106|COVISHIELD|100
+222|Kaggalipura CHC|Kanakapura Main Road|Bangalore Urban|560116|COVISHIELD|100
+223|Ramasagara SC Chandapura|Ramasagara Village Chandapura|Bangalore Urban|560099|COVISHIELD|100
+224|Bagaluru PHC|Jala Hobli|Bangalore Urban|562149|COVISHIELD|100
+225|Gopalpura PHC|Railway Gollahalli Post|Bangalore Urban|562123|COVISHIELD|100
+226|Doddabanahalli Sub Centre|Konadaspura Governament School|Bangalore Urban|560049|COVISHIELD|100
+227|Mugaluru Sub Centre|Mugalur Sub Centre|Bangalore Urban|562125|COVISHIELD|100
+228|Bidarahalli PHCSamudaya Bhavan|Samudaya Bhavan Bidarahalli Circle Behind Chennakeshava High School|Bangalore Urban|560049|COVISHIELD|100
+229|Mahanthalingapura PHC|Harohalli Main Road|Bangalore Urban|560083|COVISHIELD|100
+230|Mayasandra Sub Center|Mayasandra|Bangalore Urban|562107|COVISHIELD|100
+231|Tavarekere PHC|Magadi Main Road|Bangalore Urban|562130|COVISHIELD|100
+232|Sarjapura PHC|Near Sarjapura Police Station|Bangalore Urban|562125|COVISHIELD|100
+233|Guddahatti PHC Sub Centre|Near Budda Temple|Bangalore Urban|562107|COVISHIELD|100
+234|Kannalli PHC|Near Veerabhadraswamy Temple Kannalli|Bangalore Urban|560112|COVISHIELD|100
+235|E D HOSPITAL|Indira Nagara 1st Stage Hoysala Nagar|Bangalore Urban|560038|COVISHIELD|100
+236|KUMBALAGODU SUB CENTER|GERUPALYA VILLAGE KUMBALAGODU|Bangalore Urban|560074|COVISHIELD|100
+237|NERALURU SUB CENTRE|NERALURU SUB CENTRE|Bangalore Urban|562107|COVISHIELD|100
+238|Anekal TH|Tali Road Opp Taluk Office|Bangalore Urban|562106|COVISHIELD|100
+239|Kumbalgodu PHC|Mysore Main Road|Bangalore Urban|560074|COVISHIELD|100
+240|Bettahalsuru PHC|Near Govt School Bettahalsuru Post|Bangalore Urban|562157|COVISHIELD|100
+241|ASC CENTRE NORTH MI ROOM|GATE NO 5 CENTRE MI ROOM ASC CENTRE NORTH EJIPURA SIGNAL BENGALURU|Bangalore Urban|560007|COVISHIELD|100
+242|Narayana Hrudayalaya Pvt Ltd|258 A Hosur Road Anekal Taluk Bommasandra Industrial Area|Bangalore Urban|560099|COVISHIELD|100
+243|Doddagubbi Sub Centre|Government Higher Primary School|Bangalore Urban|560077|COVISHIELD|100
+244|H Agara Subcentre Kaggalipura.|Banjarapalya Village Kaggalipura Bangalore|Bangalore Urban|560082|COVISHIELD|100
+245|Kuvempunagara Sc Anekal|Kuvempunagara Anekal|Bangalore Urban|562106|COVISHIELD|100
+246|K Gollahalli SUB CENTRE|Near K Gollahalli PHC|Bangalore Urban|560074|COVISHIELD|100
+247|ANEKAL TH COVAXIN|Weaver Colony Anekal|Bangalore Urban|560106|COVAXIN|100
+248|BALLURU SUB CENTRE|BALLURU ANEKal Taluk|Bangalore Urban|562107|COVISHIELD|100
+249|Hebbagodi PHC|Nathal Bihari Vajapayee Circle|Bangalore Urban|560099|COVISHIELD|100
+250|General Hospital K R Puram|Hosakote Main Road|Bangalore Urban|560036|COVISHIELD|100
+251|Yelahanka TH COVAXIN|Yelahanka Old Town Behind Veeranjaneya Temple|Bangalore Urban|560064|COVAXIN|100
+252|Manduru PHC|Opp Manduru Government School|Bangalore Urban|560049|COVISHIELD|100
+253|Chandrappa Circle CHC|Tavarekere Main Road|Bangalore Urban|562130|COVISHIELD|100
+254|KODATHI PHC|Ambedkarnagar|Bangalore Urban|560035|COVISHIELD|100
+255|RAMOHALLI SUB CENTRE|RAMOHALLI SUB CENTRE GOVT SCHOOL|Bangalore Urban|560060|COVISHIELD|100
+256|Kyalasana Halli SUB CENTER|Near Anjaneya Temple Kyalasanahalli|Bangalore Urban|560105|COVISHIELD|100
+257|Halanayakanahalli PHC|Sarjapura Main Road|Bangalore Urban|560035|COVISHIELD|100
+258|SHANTIPURA SUB CENTRE|SHANTIPURA SC NEW AGE PUBLIC SCHOOL|Bangalore Urban|560099|COVISHIELD|100
+259|GANTIGANAHALLI SUB CENTRE|GANTIGANAHALLI SUB CENTRE|Bangalore Urban|560064|COVISHIELD|100
+260|COMMAND HOSPITAL AIR FORCE|COMMAND HOSPITAL AIR FORCE CAMBRIDGE ROADCAMBRIDGE LAYOUT JOGUPALYA BANGALORE|Bangalore Urban|560007|COVISHIELD|100
+261|KOLUR (SUB CENTRE)|Koluru Sub Centre|Bangalore Urban|562130|COVISHIELD|100
+262|Hulimavu GOVT SCHOOL|Near Rama Temple|BBMP|560076|COVISHIELD|99
+263|P G Halli UPHC|Near Jataka Stand Palace Guttahalli|BBMP|560003|COVAXIN|100
+264|Chickpete Ward 109|13KV Temple Street Crosssowrashtrapetchickpetbengaluru 560053|BBMP|560053|COVISHIELD|100
+265|Dasappa Uphc Covaxin|Hhs And Hms Complex Cubbonpet Main Road Bangalore|BBMP|560002|COVAXIN|100
+266|PUTTENAHALLI BBMP WARD OFFICE| 4th Main Rd BOB Colony JP Nagar 7th Phase J. P. Nagar Bengaluru|BBMP|560078|COVISHIELD|100
+267|APOLLO JAYANAGAR-COVAXIN|21 2 14TH CROSS 3RD BLOCK NEAR MADAVAN PARK|BBMP|560011|COVAXIN|100
+268|APOLLO HOSPITAL SHESHADRIPURAM|Seshadripuram Bangalore|BBMP|560020|COVISHIELD|100
+269|Koramangala UPHC|Near Dog Pound L R Nagar|BBMP|560047|COVISHIELD|100
+270|Govt School Garudacharpalya|GOVERNMENT SCHOOLRHB COLONY Garudacharpalya|BBMP|560048|COVISHIELD|100
+271|MANIPAL HOSPITAL WHITEFEILD P3|NO143212-215 EPIP Industrial Area Hoodi VillageKR Puram|BBMP|560066|COVISHIELD|100
+272|Government School Doddanekundi|Government Higher Primary School Doddanekkundi|BBMP|560037|COVISHIELD|100
+273|Pobbathi UPHC|SARJAN RAO CIRCLE VVPURAM BENGALORE 04|BBMP|560004|COVISHIELD|100
+274|JAYAPRAKASHNAGARA UPHC COVAXIN|OPPOSITE BANGLORE ONE 12TH CROSS 35TH MAIN J P NAGAR|BBMP|560078|COVAXIN|100
+275|Jayaprakashnagara UPHC|Opposite Bangalore One 12th Cross35th MainJP Nagar|BBMP|560078|COVISHIELD|100
+276|Bowring Hospital C1|Lady Curzon Rd Shivaji Nagar|BBMP|560051|COVAXIN|100
+277|WILSON GARDEN DISPENSARY|ALBILAL DIALYSIS CENTER 2ND FLOOR 39TH CROSS JAYNAGAR 9TH BLOCK|BBMP|560069|COVISHIELD|100
+278|Maruthi Mandir Ward 126|402 A2nd Block Govindaraja Nagar Ward Kalayan NagarNaagarabhavi Bengaluru 560040|BBMP|560040|COVISHIELD|100
+279|CYTE CARE HOSPITAL|Venkatala bagalur Cross|BBMP|560064|COVISHIELD|100
+280|Ward No 111 FOOT BALL STADIUM|OPP INDIRA CANTEEN ASHOK NAGAR|BBMP|560047|COVISHIELD|100
+281|Gooripalya UPHC|3rd CrossGoripalya|BBMP|560026|COVISHIELD|100
+282|Ward 48 Govt Karantaka School|Opp To Footbal Ground Muneshwarnagar|BBMP|560045|COVISHIELD|100
+283|WARD 47 MODI GARDEN WELLFARE|MODI GARDEN WEL FARE ASSOCIATION D J HALLI|BBMP|560045|COVISHIELD|100
+284|WARD 62 INDIRA GANDHI CANTEEN|CHINAPPA GARDEN|BBMP|560046|COVISHIELD|100
+285|Vidyapeet UPHC COVAXIN|ASHOK NAGAR BEHIND HANUMANTH NAGARA POLICE STATION BANGLORE|BBMP|560050|COVAXIN|100
+286|Gandhi Grama UPHC|3rd CrossGandhi Grama Near East West Academy School|BBMP|560021|COVISHIELD|100
+287|WARD 114 Bbmp Girls Pu College|ORC Road Girls Pu College Austin Town|BBMP|560047|COVISHIELD|100
+288|Gvg Invivo Hospital|No 647 5th Main Road  RBI Layout JP Nagar 7th Phase J. P. Nagar|BBMP|560078|COVAXIN|100
+289|JNANA SANJEEVINI HOSPITAL|No2 1st A Cross Marenahalli JP Nagar 2nd Phase Bangalore|BBMP|560078|COVAXIN|100
+290|Azadnagar UPHC|Pipeline Road K B Nagar|BBMP|560026|COVISHIELD|100
+291|Kumaraswamylayout UPHC|Opposite Police Station Near Brindavan Hotel 18th CrossKumaraswamy Layout|BBMP|560078|COVISHIELD|100
+292|Vasanthapura UPHC|Uttarahalli Main Road|BBMP|560061|COVISHIELD|100
+293|Apollo Clinic Indiranagar|1st Floor Above Vision Express 100 Feet RdHAL 2nd Stage Indiranagar|BBMP|560038|COVISHIELD|100
+294|Shiva Nagar 107|Gangamma Thimaiah Government School 2nd Main Road Shivanagar Bangalore 560010|BBMP|560010|COVISHIELD|100
+295|Apollo Hospital-JAYANAGAR|No.21-2 14th Cross Road Near Madhavan Park Circle Jayanagar East Jayanagar Bengaluru Karnataka 560011|BBMP|560011|COVISHIELD|100
+296|WARD 115 YOGA HALL|Near Vivek Nagar NEAR PARK|BBMP|560047|COVISHIELD|100
+298|WARD NO 29 CMR SCHOOL|BEHIND JALAVAYU VIHAR GATE|BBMP|560084|COVISHIELD|100
+299|APOLLO CRADLE - Koramangala|18th Main Road 58 Pipe Line Rd Near Anand Sweets 6th Block Koramangala|BBMP|560030|COVISHIELD|100
+297|APOLLO HOSPITAL 1|Imperial Hospital Research Centre Limited|BBMP|560076|COVAXIN|100
+300|Mallige Hospital Block 1|Crescent Rd Madhava Nagar Gandhi Nagar Bengaluru|BBMP|560001|COVISHIELD|100
+301|Narayana Multispecialty Clinic|No. 17 1 Uday House 30th Cross 8th Main Road 4th Block Jayanagar Bangalore|BBMP|560011|COVISHIELD|100
+302|MOHAMMED SAB PALYA UPHC|MOHAMED SAB PALYA|BBMP|560097|COVISHIELD|100
+303|Kodichikkanahalli UPHC|Rotarynagara|BBMP|560076|COVISHIELD|100
+304|WARD 93 VASANTHNAGAR UPHC|19 MV Jayaram Rd Vasanth Nagar|BBMP|560001|COVISHIELD|100
+305|Ward No 21 Old Moh Office|RBI COLONY 11 MAIN RAOD HEEBAL|BBMP|560052|COVISHIELD|100
+306|Ward 113 Bbmp Ward Office|Opp UPHC Beside Indira Canteen|BBMP|560008|COVISHIELD|100
+307|SLV Samudaya Bhavana RM Nagar|Bovi Colony Anganwadi Center Opp Samudaya Bhavana Rammurthynagar|BBMP|560016|COVISHIELD|100
+308|ABBIGERE UPHC 1|NEAR ABBIGERE PARK ABBIGERE|BBMP|560015|COVISHIELD|100
+309|YASHAVANTHPUR UPHC|Yeshwantpur Uphc Model Colony Bangalore|BBMP|560022|COVISHIELD|100
+310|Dr.Raj Kumar Ward 106|Block .No93rd Main Rd Police Quarters rajajinagarbengaluru 560023|BBMP|560023|COVISHIELD|100
+311|Yelahanka KODIGEHALLI UPHC|Kodigehalli Main Road|BBMP|560092|COVISHIELD|100
+312|VASAVI HOSPITAL - COVAXIN|No.15 70th Cross 14th Main 1st Stage Kumaraswamy Layout Bangalore|BBMP|560078|COVAXIN|100
+313|NEL COVAXIN|Near Maheswaramma Temple Ward No. 14 Kalyan Nagar Maheswari Nagar T. Dasarahalli Bengaluru Karnataka 560057|BBMP|560057|COVAXIN|100
+314|Laggere UPHC|Muneshwara Layout|BBMP|560058|COVISHIELD|100
+315|Subhashnagar UPHC|5th Main Road Opposite BBMP School Srirampur|BBMP|560021|COVISHIELD|100
+316|WARD NO 24 JSS PUBLIC SCHOOL|NO 5 2 ND BLOCK 1 ST STAGE HBR LAYOUT|BBMP|560045|COVISHIELD|100
+317|Government School Yemaluru|Kempapura MAIN ROADBellandur Bengaluru|BBMP|560037|COVISHIELD|100
+318|APTS UPHC|Armed Police Training School|BBMP|560063|COVISHIELD|100
+319|WARD 91 Deo Office|Kamaraja Road Bharathi NAGAR|BBMP|560001|COVISHIELD|100
+320|Cloudnine Horamavu|No6361 1st Floor - North Wing Cloudnine Hospital Horamavu Village K R Puram Hobli Bengaluru 560043|BBMP|560043|COVISHIELD|100
+321|WARD 58 NEW THIPPASANDRA|SHAKTHI GANAPATHI TEMPLE NEWTHIPPASANDRA|BBMP|560075|COVISHIELD|100
+322|NANDHINI LAYOUT PHC 1|JAI BHUVANESHWARI NAGAR NANDHINI LAYOUT|BBMP|560096|COVISHIELD|100
+323|Matthikere UPHC|Opp. Keshav Theater B.K Nagara|BBMP|560022|COVISHIELD|100
+324|Magadi Road UPHC|2nd Cross Magadi Road|BBMP|560023|COVISHIELD|100
+325|NU HOSPITALS C1 RAJAJINAGAR|West Of Chord Road Near To ISKONRajajinagar|BBMP|560010|COVAXIN|100
+326|KR Market Ward 139|1571st Main 2nd Cross S R Market 560053|BBMP|560053|COVISHIELD|100
+327|Ward 57 C V RAMAN NAGAR|GOVT PRIMARY SCHOOL SUDDAGUNTE PALYA|BBMP|560093|COVISHIELD|100
+328|Roopenagrahara UPHC|Govt Hospital|BBMP|560068|COVISHIELD|100
+329|Yalachenahalli UPHC|Yalachenahalli PHC Kanakapur Main Road|BBMP|560078|COVISHIELD|100
+330|JALAHALLI UPHC 1|NEAR GOVT SCHOOL KATHANAGAR JALAHALLLI|BBMP|560013|COVISHIELD|100
+331|CLOUDNINE HOSPITAL-KIDS CLINIC|47 11TH MAIN 17TH CROSS MALLESHWARAM BANGALORE|BBMP|560055|COVISHIELD|100
+332|APOLLO CLINIC BASAVANAGUDI|NO 99 BULL TEMPLE BASAVANAGUDI|BBMP|560019|COVISHIELD|100
+333|KCG-C1|Police Station Road Srirampura Bengaluru Karnataka India|BBMP|560003|COVAXIN|100
+334|Bowring Block 1A|Lady Curzon Rd Shivaji Nagar|BBMP|560051|COVISHIELD|100
+335|West Of ChordroadUPHC|9th MainNear Shivaganapathi Temple Vijaya Nagar|BBMP|560040|COVISHIELD|100
+336|Shankar Nagar UPHC|SHANKAR NAGAR UPHC - 110-111 7TH CROSS SHANKAR NAGAR NANDINI LAYOUT BANGALORE|BBMP|560096|COVISHIELD|100
+338|BANGARAPPA NAGAR UPHC|RAJARAJESHWARI NAGAR|BBMP|560098|COVISHIELD|100
+339|JAYNAGAR GEN HOSPITAL|JAYNAGAR GH 4TH BLOCK BLORE|BBMP|560011|COVISHIELD|100
+341|THIPPENAHALLI DAS SITE 2|Nelgadana Halli School Road Shivapura Peenya Bengaluru Karnataka|BBMP|560058|COVISHIELD|100
+340|Cloudnine Hospital-Jayanagar|No.1553 1st Floor 9th Main Road Jayanagar 1st Block Jayanagar East Blore - 560011|BBMP|560011|COVAXIN|100
+343|Basaveshwara Nagar Ward 100|Governament High School Sanegorvanahalli2nd E Cross 3rd Stage 3rd Blocknear Basaveshwaranagar Bangalore -79|BBMP|560079|COVISHIELD|100
+344|MANIPAL WHITEFIELD COVAXIN|NO143212-215 EPIP Industrial Area Hoodi VillageKR Puram|BBMP|560066|COVAXIN|100
+346|Manjunathanagar UPHC|1st Main Road Manjunathanagar Banglore-560010|BBMP|560010|COVISHIELD|100
+337|NU HOSPITALS PADMANABHANAGAR -|No.6 15th Main 11th Cross Padmanabhanagar|BBMP|560070|COVAXIN|100
+348|AGRAHARA LAYOUT UPHC|Tirumenahalli Main Road|BBMP|560064|COVISHIELD|100
+347|Hsiddaiah Road UPHC1|NEAR BBMP CAR PARKING J C ROAD|BBMP|560027|COVISHIELD|100
+350|Vanivillas Hospital 1|VICTORIA|BBMP|560018|COVISHIELD|100
+342|Columbia Asia Sarjapur P3|Columbia Asia Hospital -Sarjapur Road|BBMP|560103|COVISHIELD|100
+351|APOLLO CRADLE JAYANAGAR|No.25 46th Cross 5TH BLOCK JAYANAGAR Bangalore|BBMP|560011|COVISHIELD|100
+352|Ward No 33 Subash School|Chamundinagar Slum|BBMP|560045|COVISHIELD|100
+353|WARD 78 BBMP Hihg School|BBMP High School Clewland Tounrobertson Roadbanglore|BBMP|560005|COVISHIELD|100
+354|JAGAJIVANARAM Nagar Ward 136|9th Main Near Auto Stand Old Guddadahalli Vinayak Nagar Bangalore 560026|BBMP|560026|COVISHIELD|100
+355|VIDYAPEETA UPHC|ASHOKNAGAR BEHIND HANUMANTHNAGAR POLICE STATION BANGALORE|BBMP|560050|COVISHIELD|100
+356|Padarayanapura Ward 135|29-547 9th Cross Rd Padarayana Pura Bengaluru Karnataka 560026|BBMP|560026|COVISHIELD|100
+357|WARD 50 Beniganahalli GOVT SCH|B CHANNASANDRA GOVT SCHOOL NEAR AMAX SUPER MARKET|BBMP|560043|COVISHIELD|100
+345|Agara UPHC|Sarjapura Main Road|BBMP|560102|COVISHIELD|100
+349|Hosahalli UPHC|4th CrossM C Layout|BBMP|560040|COVAXIN|100
+360|Kodandarampura UPHC|Sirur Park Road Seshadripuram Bangalore|BBMP|560020|COVISHIELD|100
+359|Narayana Medical Centre|Building No.9 Langford Road Civil Station Hosur Road|BBMP|560025|COVISHIELD|100
+362|APOLLO CLINIC KORMANAGALA|NO 51 5TH BLOCK OPP TO JYOTHI NIVAS COLLEGE KORMANAGALA|BBMP|560095|COVISHIELD|100
+363|Fortis Hospital BG ROAD P3|154 9 Bannerghatta Main Rd Opposite IIM Sahyadri Layout Panduranga Nagar Bengaluru Karnataka|BBMP|560076|COVISHIELD|100
+358|GVT PRIMARY SCHOOL VIBUTHIPURA|GOVERNMENT PRIMARY SCHOOL VIBUTHIPURA WARD 87|BBMP|560037|COVISHIELD|100
+361|WARD 19 SANJAY NAGAR|16 TH CROSS AECS LAYOUT|BBMP|560094|COVISHIELD|100
+365|Ramaiah Memorial Hospital FF1|M S Ramaiah Nagar MSRIT Post Bangalore|BBMP|560054|COVISHIELD|100
+364|Matthikere UPHC C1|Opp. Keshav Theater B.K Nagara|BBMP|560022|COVAXIN|100
+366|C V Raman Hospital Block 2|4th B Cross Rd Kalyan Nagar|BBMP|560008|COVISHIELD|100
+368|BEML Medical Center P3|BEML Main Rd GM Palya New Tippasandra Bengaluru Karnataka 560075|BBMP|560075|COVISHIELD|100
+367|MoodalaPalya UPHC|1st MainPanchasheela Nagaraa|BBMP|560040|COVISHIELD|100
+370|THIPPENAHALLI PHC COVISHIELD|THIPPENAHALLI DODDABIDARAKKALU|BBMP|560057|COVISHIELD|100
+369|Sir C V Raman Hospital C1|80 Feet Road Indiranagar|BBMP|560038|COVAXIN|100
+372|WARD 49 DIVYA SHANTHI HEALTH|1ST CROSS SAKAMMA LAYOUT NEAR LINGARAJ PURAM BUS STOP|BBMP|560084|COVISHIELD|100
+373|THAVAREKERE UPHC|TAVAREKERE MAIN ROAD NEAR GOVT SCHOOL|BBMP|560029|COVISHIELD|100
+371|Aster Hospital Whitefield P3|Sadaramangala Industrial Area Of ITPL Main Rd Whitefield Bengaluru Karnataka 560066|BBMP|560066|COVISHIELD|100
+374|GOTTIGERE GOVT SCHOOL|Bannerghatta Main Rd Kalena Agrahara|BBMP|560076|COVISHIELD|100
+376|WARD 23 Saint Dominic School|Saint Dominic School Govindpura|BBMP|560045|COVISHIELD|100
+375|WARD 22 C N HALLI GOVT SCHOOL|INSIDE CHOLANAYAKANAHALLI PRIMARY HEALTH CARE CENTER GOVT SCHOOL|BBMP|560032|COVISHIELD|100
+378|Shankar Matt Ward 75|Athreya Vidyanikethan School 75 9 15th Main 13th Cross J C Nagar Kurubarahalli|BBMP|560086|COVISHIELD|100
+380|Kumaraswamylayout UPHC COVAXIN|Opposite Police Station Near Brindavan Hotel 18th CrossKumaraswamy Layout|BBMP|560078|COVAXIN|100
+377|SUGUNA HOSPITAL|DR RAJ KUMAR ROAD4TH N BLOCK RAJAJINAGAR|BBMP|560010|COVAXIN|100
+379|KANVA DIAGNOSTIC1|KANVA DIAGNOSTIC Dr Raj Kumar Rd Rajajinagar Bengaluru - 560010|BBMP|560010|COVISHIELD|100
+383|Gangondanahalli UPHC|6th CrossAhmed Nagar|BBMP|560039|COVISHIELD|100
+382|Apollo Clinic Bellandur P3|74 1 Near Central Mall Bellandur Ring Road Bengaluru Karnataka 560103|BBMP|560103|COVISHIELD|100
+385|Kaveripura Ward 103|1274th Main Rdgovindaraja Nagar Ward PattegarahpalyaVijayanagar Bengaluru 560079|BBMP|560079|COVISHIELD|100
+384|Dasappa UPHC|HHS AND HMS COMPLEX CUBBUNPET MAIN ROAD BANGALORE|BBMP|560002|COVISHIELD|100
+386|MAHANAGAR LIONS CLUB|Mahanagar Lions Service Foundation Tippasandra|BBMP|560108|COVISHIELD|100
+387|Channammanakeretankbed UHPC|Near SSM School Banashankari 3rd Stage|BBMP|560028|COVISHIELD|100
+388|WARD 80 BBMP Govt School|NEAR Murphy Town UPHC|BBMP|560008|COVISHIELD|100
+390|BANASHANKARI UFWC|Near Banashankari|BBMP|560085|COVISHIELD|100
+389|Nagappablock UPHC|Near Sriranpur Metro Station|BBMP|560021|COVISHIELD|100
+391|Govt School Siddapura|Patel Narayanswamy Layout Siddapura Whitefield Bengaluru|BBMP|560066|COVISHIELD|100
+392|Rajajinagar UPHC|57th Cross5th Block Rajajinagar|BBMP|560010|COVAXIN|100
+394|Govindrajnagar UPHC|7th Main Nagarbhavi Main Road|BBMP|560079|COVISHIELD|100
+393|ATTURU UPHC|Veerasagara Main Road|BBMP|560064|COVISHIELD|100
+395|WARD 27 KARNATAKA GOVT SCHO0L|NEAR MUKUNTAMMA TEMPLE|BBMP|560043|COVISHIELD|100
+396|HEGGANAHALLI UPHC|No. Sanjeevinagar Near Anjaneya Temple 20 2nd Main Rd Narasimharaja Colony Hegganahalli Bengaluru Karnataka 560091|BBMP|560091|COVISHIELD|100
+397|GOVT SCHOOL K NARAYANAPURA|K Narayanapura Main Rd Narayanapura Bengaluru|BBMP|560077|COVISHIELD|100
+398|Jayanagara UPHC|RAMA MANDIRA BEHIND GIRIYAS 5TH CROSS 10 C MAIN ROAD JAYANAGARA 1ST BLOCK|BBMP|560011|COVISHIELD|100
+381|Srirampura UPHC|Near Sai Baba Nagar|BBMP|560021|COVISHIELD|100
+399|Yarab Nagar UPHC|Yarab Nagar UPHC BSNL Telephone Exchange Bsk 2nd Stage|BBMP|560070|COVISHIELD|100
+401|Gvt School MarathalliSanjayngr|PHC MARATHALLI ANANAD NAGAR 2ND CROSS MARATHALLI BANGLORE 560037|BBMP|560037|COVISHIELD|100
+402|Cloudnine Fertility- Jayanagar|No.16A 2nd And 3rd Floor 9th Main 3rd Block Jayanagar|BBMP|560011|COVAXIN|100
+400|Peenya Kamalanagara UPHC|BBMP Building Next To Shankarnag Bus Stop|BBMP|560079|COVISHIELD|100
+403|Government School Kadugodi|Government School Kadugodi Railway Station Kadugodi|BBMP|560067|COVISHIELD|100
+405|Konankunte UPHC-C1|No 122 1st Floor Opp Theerta Ashrama Kothnur Main Road Puttenahalli Jp Nagar 7th Phase RBI Layout Phase 7 J. P. Nagar Bengaluru|BBMP|560078|COVAXIN|100
+407|NELAMAHESHWARI UPHC|Maheswari Nagar T. Dasarahalli Bengaluru Karnataka 560057|BBMP|560057|COVISHIELD|100
+408|Kamakshipalya UPHC|Opp SBI Bank Magadi Road Kamakshipalya|BBMP|560079|COVISHIELD|100
+404|Government School Doddakanalli|Government School Doddakannalli|BBMP|560035|COVISHIELD|100
+409|RAJGOPALNAGAR UPHC|368 6th Cross Rd Kasthuri Badavane Rajagopala Nagar Peenya Bengaluru Karnataka 560058|BBMP|560058|COVISHIELD|100
+406|30 WARD Vinoba Nagar Anganwadi|Near Counselor Office Ward 30|BBMP|560045|COVISHIELD|100
+410|Ward 20 Ganganagar|App To Byraanjaneya Temple KHM Block Ganganagar|BBMP|560032|COVISHIELD|100
+411|ARAKERE UPHC C1|14 Sarvobhogam Nagar|BBMP|560076|COVAXIN|100
+412|BYATARAYANAPURA UPHC|Kuvempunagara|BBMP|560014|COVISHIELD|100
+413|WARD NO 32 LBS COLLEGE|Sulthan Palya|BBMP|560032|COVISHIELD|100
+414|PRISTINE HOSPITAL COVAXIN|NO 877 MODI HOSPITAL ROAD SECOND STAGE EXTENSION WOC ROAD RAJAJINAGAR|BBMP|560086|COVAXIN|100
+415|Government School Varthur P3|Government School Varthur Near Varthuru Police Station|BBMP|560087|COVISHIELD|100
+416|Nagapura Ward 67|118K1st BlockRajajinagar BengaluruKarnataka 560010|BBMP|560010|COVISHIELD|100
+417|WARD NO 46 DAPCO BUILDING|M R Palya J C Nagaraa MAIN ROAD BECIDE GANESH TEMPLE|BBMP|560006|COVISHIELD|100
+418|WARD 92 BBMP(HAFIZA)SCHOOL)|NEAR TASKERT TOWN UPHC|BBMP|560001|COVISHIELD|100
+419|WARD 116 Neelsandra DISPENCERY|OPP TO MILLITARY MAIN Gate Neelasandra|BBMP|560047|COVISHIELD|100
+420|Corporator Office Vijinapura|Corporator Office Near Lakshmi Theater Vijinapura|BBMP|560016|COVISHIELD|100
+421|GOVT SCHOOL JARAGANAHALLI|Yelachenahalli Kumaraswamy Layout|BBMP|560078|COVISHIELD|100
+422|Kengeri Upanagara UPHC|Opp Sheshadripuram Composite College|BBMP|560060|COVISHIELD|100
+423|Ward 110 BBMP Building(smpnag)|BBMP Buildind Vasavi Prarthana Mandira OpstAshawath Nagarsampangi Ramanagarbanglore 560027|BBMP|560001|COVISHIELD|100
+424|WARD 61 BBMP College Campus|BBMP Tailoring Institute Williams Tour S.K Garden|BBMP|560005|COVISHIELD|100
+425|Sri Jayadeva Institute Site 1|East End 9th Block Jayanagar Bannerghatta Road Bangalore|BBMP|560069|COVISHIELD|100
+426|ST MARTHAS HOSITAL BLOCK 1|NRUPATHUNGA ROAD NO 5 BANGALORE|BBMP|560001|COVISHIELD|100
+427|K C Gen Hospital|Malleshwarm Circle Bengaluru|BBMP|560003|COVISHIELD|100
+428|BBMP Ward Office A Narayanpura|BBMP Officeward 56near Hanuman Park A Narayanapura|BBMP|560016|COVISHIELD|100
+429|Ward 31 Govt School|1 St Main Road Ashok Nagar Sampura Main Road|BBMP|560045|COVISHIELD|100
+430|Singasandra UPHC|Hosa Road|BBMP|560100|COVISHIELD|100
+431|Avalahalli UPHC|18th Main9th CrossMuneshwara Block|BBMP|560026|COVISHIELD|100
+432|GOVT SCHOOL GUNJURU|VARTHURU MAIN ROAD|BBMP|560087|COVISHIELD|100
+433|Jayanagar General Hospital 18|4th T Block Jayanagar|BBMP|560041|COVISHIELD|100
+434|TOP PALACE FUNCTION HALL|ITI LAYOUT MANGAMMANAPALYA|BBMP|560068|COVISHIELD|100
+435|Sahakarnagar UPHC 1|Canara Bank Layout|BBMP|560097|COVISHIELD|100
+436|Ward 60 Bbmp GOVT School|Pillanna Garden|BBMP|560084|COVISHIELD|100
+437|ITI HOSPITAL P3|Duravani Nagar Dooravani Nagar Bengaluru Karnataka 560016|BBMP|560016|COVISHIELD|100
+438|Vanivillas Hospital -C1|VANIVILLAS HOSPITAL ROAD SULTAN ROAD KALASIPALYA|BBMP|560002|COVAXIN|100
+439|Agrahara Dasarahalli UPHC|AD Halli|BBMP|560079|COVISHIELD|100
+440|SEEGEHALLI M H|Seegehalli Main Rd RT Jaganatha Layout Hosabasavanapura Krishnarajapura Bengaluru Karnataka 560049|BBMP|560049|COVISHIELD|100
+441|Nethaji Circle UPHC|Near BBMP 36 Ward Office Netaji Circle|BBMP|560054|COVISHIELD|100
+442|WARD 63 V K O School|Shivajinagar|BBMP|560051|COVISHIELD|100
+443|Mallathahalli UPHC|Kengeri Main Road|BBMP|560056|COVISHIELD|100
+444|Wilson Garden UPHC|NEAR BBMP OFFICE VENKATAREDDY NAGARA ASHOKA PILLER ROAD SIDDAPURA|BBMP|560011|COVISHIELD|100
+445|Indian Red Cross Society UPHC|Sirsi Circle Chamarajpet|BBMP|560018|COVISHIELD|100
+446|MANIPAL NORTHSIDE CANARA UNIO|42 BETWEEN 13TH AND 15TH CROSS 8TH MAIN MALLESWARAM|BBMP|560003|COVAXIN|100
+447|SUBEDARAPALYA UPHC|1ST CROSS SAVIOUR CHURCH OPPOSITE SUBEDARPALYA|BBMP|560022|COVISHIELD|100
+448|St Johns Hospital|Sarjapura Road|BBMP|560034|COVISHIELD|100
+449|Doddanekkundi UPHC COVAXIN|NEAR RAM TEMPLE VIBHUTIPURA EXTENSION DODDANEKKUNDI|BBMP|560037|COVAXIN|100
+450|Panthara Palya UPHC|Near Nayandanahalli Post Office|BBMP|560039|COVISHIELD|100
+451|Mahalakshmi Layout UPHC|Mahalaxmi Layout UPHC|BBMP|560086|COVISHIELD|100
+452|Thindlu UPHC|GKVK Road|BBMP|560097|COVISHIELD|100
+453|Ashokpuram UPHC|5th Cross Ashokpuram Yeshwanthpur Industrial Surb Bangalore|BBMP|560086|COVISHIELD|100
+454|Manvarthpet UPHC|KV Temple Street Balepete Circle Bangalore|BBMP|560026|COVISHIELD|100
+455|Kengeri CHC|Mysore Road KENGERI|BBMP|560060|COVISHIELD|100
+456|Apollo Clinic Sarjapur P3|769 1st Floor GYR Chambers Above Pai International Marathahalli - Sarjapur Rd Opp. South Indian Bank Kaikondrahalli Bengaluru Karnataka 560034|BBMP|560035|COVISHIELD|100
+457|HAL Hospital P3|Suranjandas Road Vimanapura Post|BBMP|560037|COVISHIELD|100
+458|GOVT SCHOOL HOODI MEDAHALLI|Govt. Upper Primary School Hoodi Thigalarapalya Hoodi Bengaluru Karnataka 560067|BBMP|560049|COVISHIELD|100
+459|WARD 28GOVT HIGH PRIMARY SCHOL|PS PALYA KAMMANA HALLI|BBMP|560005|COVISHIELD|100
+460|VICTORIA|VICTORIA HOSPITAL CAMPUS K R MARKET|BBMP|560002|COVISHIELD|100
+461|Ullalu UPHC|Near Ullal Busstop|BBMP|560056|COVISHIELD|100
+462|K NARAYANAPURA UPHC COVAXIN|K Narayanapura Main Rd Narayanapura Bengaluru|BBMP|560077|COVAXIN|100
+463|Ward No 18RAM GOPALNARAYAN SCL|Nagashetty Halli RMV 2 ND STAGE|BBMP|560094|COVISHIELD|100
+464|Anjanappa Garden UPHC|Behind Banana Market Anjanappa Garden|BBMP|560018|COVISHIELD|100
+465|Ward 90 Shishuvihar Ulsoor|Opposite To Satyanarayana Temple MVGarden|BBMP|560008|COVISHIELD|100
+466|Dr Malathi Manipal Hospitals 1|JAIN COLLEGE DISTRICT FUND ROAD BEHIND BIG BAZAAR JAYANAGAR 9TH|BBMP|560069|COVAXIN|100
+467|WARD 117 WARD OFFICE|NEAR NANJAPPA CIRCLE|BBMP|560027|COVISHIELD|100
+468|Subramanyanagara Ward 66|No.3773 A E Block 2nd Stage Rajaji Nagar Banglore-560021|BBMP|560021|COVISHIELD|100
+469|Bommanahalli UPHC|Back Side CMC Building|BBMP|560068|COVISHIELD|100
+470|Vrisahbhavathi Nagar Ward 102|18 1opp.karyasddi Anjaneya TempleVrushabhavathi Nagar Sannaki Bayalu kamakshipaya 560079|BBMP|560079|COVISHIELD|100
+471|KONANAKUNTE U P H C|Primary Health Centre Konankunte Near Police Station Bangalore|BBMP|560062|COVISHIELD|100
+472|Dattatreya Temple Ward 77|BBMP Ward Office Dattatreya Ward-ward No-775th Cross Near Bigbazar MalleshwaramBengaluru-560003|BBMP|560003|COVISHIELD|100
+473|KENGERI CHC C1|Mysore Road KENGERI|BBMP|560060|COVAXIN|100
+474|Jayanagar Generalhospitalsite2|JAYANAGAR G H 4TH T BLOCK BANGALORE|BBMP|560011|COVAXIN|100
+475|APOLLO CM FERTILITY -JP NAGAR|No.607 15th Cross 6th Phase JP NAGAR BANGALORE|BBMP|560078|COVISHIELD|100
+476|Ward 112 Domlur Senior Citizen|92 1st Floor 2nd Main Domlur Layout Near Domlur|BBMP|560071|COVISHIELD|100
+477|AMRUTHA HALLI UPHC|Amruthahalli Main Road|BBMP|560092|COVISHIELD|100
+478|Subramanyanagar UPHC|9th MainNear GD Park Mariyappanapalya|BBMP|560021|COVISHIELD|100
+479|ESIC HOSPITAL RAJAJINAGAR|41ST CROSS RAJAJINAGAR BANGALORE|BBMP|560010|COVISHIELD|100
+480|WARD NO 79 BBMP GOVT SCHOOL|JEEVANAHALLI|BBMP|560005|COVISHIELD|100
+481|SMV Conventional Hall Hagadur|SMV CONVENTIONAL HALL IMMADIHALLI|BBMP|560066|COVISHIELD|100
+482|BAGALGUNTE UPHC|Vigneshwara Layout Bagalakunte Bengaluru Karnataka 560073|BBMP|560073|COVISHIELD|100
+483|Aramane Nagara Ward 35|Puttaiah Copound 7th Cross Ashwath Nagar BBMP Dry Waste Management Compound Ashwath Nagara|BBMP|560054|COVISHIELD|100
+484|HEROHALLI UPHC|Magadi Main Road|BBMP|560091|COVISHIELD|100
+485|Ward 88 Govt School|9th Crossnear Venugopal Swamy Templekodihalli|BBMP|560008|COVISHIELD|100
+486|Ward 34 Modern Public School|3rd Main Church Road RT Nagar|BBMP|560032|COVISHIELD|100
+487|Ward 89 BBMP BOYS HIGH SCHOOL|NEAR GUNDAPPA PARK Ulsoor|BBMP|560008|COVISHIELD|100
+488|THANISANDRA UPHC|6th Cross|BBMP|560077|COVISHIELD|100
+489|R C Pura UPHC|Near Srirmpur Refferal Hospital|BBMP|560021|COVISHIELD|100
+490|ST THERESAS HOSPITAL|DR RAJ KUMAR ROAD 1ST BLOCK RAJAJINAGAR BANGALORE|BBMP|560010|COVISHIELD|100
+491|Jayanagara Dispensary|BES COLLEGE JAYANAGARA 4TH BLOCK|BBMP|560011|COVISHIELD|100
+492|HOSUR PHC Saudatti|HOSUR|Belgaum|591111|COVISHIELD|50
+493|Konnur PHC Gokak|Konnur Gokak Belagavi|Belgaum|591231|COVISHIELD|50
+494|KLE CCH Yallur Road BGV-Pvt|KLE Centenary Charitable Hospital Yallur Road Belagavi|Belgaum|590005|COVISHIELD|50
+495|Gokak GH - Covishild|Gokak GH|Belgaum|591307|COVISHIELD|50
+496|Mudakavi PHC 1|Mudakavi PHC|Belgaum|591123|COVISHIELD|50
+497|Handignur PHC 1|Handignur PHC|Belgaum|591143|COVISHIELD|50
+498|Ammanagi CHC Hukkeri|Ammanagi CHC Hukkeri|Belgaum|591236|COVISHIELD|50
+499|Telasang PHC Athani|Telasang PHC Athani|Belgaum|591265|COVISHIELD|50
+500|Beniwad PHC Hukkeri|Beniwad PHC Hukkeri|Belgaum|591309|COVISHIELD|50
+501|Ramdurg GH|Ramdurg GH|Belgaum|591123|COVISHIELD|50
+502|Hulloli PHC Hukkeri|Hulloli Hukkeri Belagavi|Belgaum|591305|COVISHIELD|50
+503|KLE Dr Prabhakar Kore Hospital|Neharu Nagar|Belgaum|590010|COVISHIELD|50
+504|Yadwad PHC Gokak|Yadwad|Belgaum|591136|COVISHIELD|50
+505|Kittur CHC|Kittur CHC|Belgaum|591115|COVISHIELD|50
+506|Sangoli PHC|Sangoli PHC|Belgaum|591104|COVISHIELD|50
+507|MILITARY HOSPITAL BELAGAVI|MILITARY HOSPITAL BELAGAVI ONLY FOR DEFENCE PERSONEL AND EX- SERVICE MEN|Belgaum|590009|COVISHIELD|50
+508|Kakamari PHC Athani|Kakamari PHC Athani|Belgaum|591265|COVISHIELD|50
+510|Sankaratti PHC Athani|Sankaratti Athani Belagavi|Belgaum|591220|COVISHIELD|50
+512|Belawadi CHC|Belawadi CHC|Belgaum|591104|COVISHIELD|50
+511|Chachadi PHC 1|Chachadi PHC|Belgaum|591102|COVISHIELD|50
+513|Shivanur PHC Athani|Shivanur Athani Belagavi|Belgaum|591232|COVISHIELD|50
+514|Badakundri PHC Hukkeri|Badakundri Hukkeri Belagavi|Belgaum|591221|COVISHIELD|50
+509|Naganur CHC|Naganur CHC|Belgaum|591102|COVISHIELD|50
+515|Khanagaon PHC Gokak|Khanagaon|Belgaum|591344|COVISHIELD|50
+516|Sureban PHC|Sureban PHC|Belgaum|591127|COVISHIELD|50
+517|Ambadgatti PHC|Ambadgatti PHC|Belgaum|591112|COVISHIELD|50
+518|Batakurki PHC 1|Batakurki PHC|Belgaum|591123|COVISHIELD|50
+519|BUDARKATTI PHC|BUDARKATTI PHC|Belgaum|591104|COVISHIELD|50
+520|Hallur PHC Gokak|Hallur PHC Gokak|Belgaum|591312|COVISHIELD|50
+521|Hulkund PHC|Hulkund PHC|Belgaum|591114|COVISHIELD|50
+522|Kalloli PHC Gokak|Kalloli|Belgaum|591224|COVISHIELD|50
+523|Bassapur PHC Hukkeri|Bassapur Hukkeri Belagavi|Belgaum|591122|COVISHIELD|50
+524|Ankalagi PHC Gokak|Ankalagi Gokak Belagavi|Belgaum|591101|COVISHIELD|50
+525|BIMS GENERAL PUBLIC|BIMS HOSPITAL|Belgaum|590001|COVISHIELD|50
+526|M K Hubli PHC|M K Hubli PHC|Belgaum|591118|COVISHIELD|50
+527|Mamadapur PHC Gokak|Mamadapur Gokak|Belgaum|591233|COVISHIELD|50
+528|Tavag PHC Gokak|Tavag Gokak Belagavi|Belgaum|591101|COVISHIELD|50
+529|Kanagala PHC Hukkeri|Kanagala PHC Hukkeri|Belgaum|591225|COVISHIELD|50
+530|Athani GH - Covaxin|Athani GH - Belagavi|Belgaum|591304|COVAXIN|50
+531|Hunashikatti PHC|Hunashikatti PHC|Belgaum|591153|COVISHIELD|50
+532|Koujalagi PHC Gokak|Koujalagi|Belgaum|591233|COVISHIELD|50
+533|PHC Tallur|PHC Tallur Tq Savadatti Dist Belagavi|Belgaum|591117|COVISHIELD|50
+534|Daddi PHC Hukkeri|Daddi PHC Hukkeri|Belgaum|591254|COVISHIELD|50
+535|Mudalagi CHC Gokak|Mudalagi Gokak Belagavi|Belgaum|591312|COVISHIELD|50
+536|CHC HIREBAGEWADI|CHC HIREBAGEWADI|Belgaum|591109|COVISHIELD|50
+537|Hukkeri GH -General|Hukkeri|Belgaum|591309|COVISHIELD|50
+538|Yamakanamaradi Hukkeri. PHC|Yamakanamaradi Hukkeri. PHC|Belgaum|591254|COVISHIELD|50
+539|Sankeshwar CHC Hukkeri|Sankeshwar Hukkeri Belagavi|Belgaum|591313|COVISHIELD|50
+540|Hosakoti CHC|Hosakoti CHC|Belgaum|591130|COVISHIELD|50
+541|Ramdurg GH COVAXIN|Ramdurg GH COVAXIN|Belgaum|591123|COVAXIN|50
+542|Betageri PHC Gokak|Betageri|Belgaum|591233|COVISHIELD|50
+543|Talakatanal PHC Gokak|Talakatanal|Belgaum|591233|COVISHIELD|50
+544|Neginhal PHC|Neginhal PHC|Belgaum|591102|COVISHIELD|50
+545|Bailur PHC .|Bailur PHC|Belgaum|591106|COVISHIELD|50
+546|Naganur PHC Gokak|Naganur. PHC Gokak|Belgaum|591214|COVISHIELD|50
+547|Hebbal PHC Hukkeri|Hebbal PHC Hukkeri|Belgaum|591221|COVISHIELD|50
+548|Arjunwad PHC Hukkeri|Arjunwad Hukkeri Belagavi|Belgaum|591309|COVISHIELD|50
+549|Vannur PHC|Vannur PHC|Belgaum|591121|COVISHIELD|50
+550|Belgundi PHC|Belgundi PHC|Belgaum|591108|COVISHIELD|50
+551|SIDNAL SC RAMDURG|SIDNAL SC RAMDURG|Belgaum|591316|COVISHIELD|50
+552|NAGANOOR SC Gokak|NAGANOOR SC Gokak|Belgaum|591106|COVISHIELD|50
+553|Bhairanatti PHC Gokak|Bhairanatti. PHC|Belgaum|591310|COVISHIELD|50
+554|Melavanki PHC Gokak|Melavanki|Belgaum|591218|COVISHIELD|50
+555|Udikeri PHC|Udikeri PHC|Belgaum|591104|COVISHIELD|50
+556|Dodwad PHC|Dodwad PHC|Belgaum|591104|COVISHIELD|50
+557|Katakol PHC|Katakol PHC|Belgaum|591114|COVISHIELD|50
+558|Tukanatti PHC Gokak|Tukkanatti|Belgaum|591224|COVISHIELD|50
+559|Bugate Alur PHC Hukkeri|Bugate Alur PHC Hukkeri Belagavi|Belgaum|591313|COVISHIELD|50
+560|DESHNUR PHC|DESHNUR PHC|Belgaum|591147|COVISHIELD|50
+561|Shindhikurbet PHC Gokak|Shindhikurbet|Belgaum|591306|COVISHIELD|50
+562|Akkatangerhal PHC Gokak|Akkatangerhal Gokak Belalgavi|Belgaum|591101|COVISHIELD|50
+563|Bailhongal GH|Bailhongal GH|Belgaum|591102|COVISHIELD|50
+564|Budanur PHC 1|Budanur PHC|Belgaum|591130|COVISHIELD|50
+565|Kuligod PHC Gokak|Kuligod Gokak Belalgavi|Belgaum|591233|COVISHIELD|50
+566|Balobal PHC Gokak|Balobal Gokak Belagavi|Belgaum|591218|COVISHIELD|50
+567|Tigadi PHC|Tigadi PHC|Belgaum|591125|COVISHIELD|50
+568|BIJAGUPPI SC RAMDURG|BIJAGUPPI SC RAMDURG|Belgaum|591316|COVISHIELD|50
+569|Masaguppi PHC Gokka|Masaguppi|Belgaum|591312|COVISHIELD|50
+570|Haralakatti PHC|Haralikatti PHC|Belgaum|591126|COVISHIELD|50
+571|Inamhongal PHC|Inamhongal PHC|Belgaum|591126|COVISHIELD|50
+572|Hirekumbi PHC|Hirekumbi PHC|Belgaum|591110|COVISHIELD|50
+573|Yaragatti CHC|Yaragatti CHC|Belgaum|591129|COVISHIELD|50
+574|Asundi PHC|Asundi PHC|Belgaum|591126|COVISHIELD|50
+575|Kagwad CHC|Kagwad CHC|Belgaum|591223|COVISHIELD|50
+576|Harapanahalli GH COVAXIN|Harapanahalli|Bellary|583131|COVAXIN|50
+577|Damroad UHC|Damroad UHC|Bellary|583201|COVISHIELD|50
+578|Torangallu CHC 1|Torangallu Awc 1Torangallu|Bellary|583123|COVAXIN|50
+579|Hiremegalagere PHC|Hiremegalagere|Bellary|583125|COVISHIELD|50
+580|Kampli CHC 2|Kampli Fort|Bellary|583132|COVAXIN|50
+581|Neelagunda PHC|Neelagunda|Bellary|583131|COVISHIELD|50
+582|Telagi CHC|Harapanahalli Road|Bellary|583127|COVISHIELD|50
+583|Kamalapura PHC|Kamalapura|Bellary|583221|COVISHIELD|50
+584|Gundagatti PHC|Gundagatti|Bellary|583137|COVISHIELD|50
+585|Malapana Gudi PHC|Malapana Gudi|Bellary|583239|COVISHIELD|50
+586|BAGALI PHC|PHC BAGALI|Bellary|583131|COVISHIELD|50
+587|Harakanalu PHC|Harakanalu|Bellary|583131|COVISHIELD|50
+588|DANAPURA|SUBCENTRE DANAPURA|Bellary|583222|COVISHIELD|50
+589|Sasvihalli PHC|Sasvihalli|Bellary|583127|COVISHIELD|50
+590|Kampli CHC|SANAPURA ROAD KAMPLI|Bellary|583132|COVISHIELD|50
+591|Arasikere CHC Covaxin|Harapanahalli|Bellary|583125|COVAXIN|50
+592|Arasikere CHC|Harappanahalli Road|Bellary|583125|COVISHIELD|50
+593|Chigateri PHC|Chigateri|Bellary|583127|COVISHIELD|50
+594|Bhujanganagara S/C|Metriki PHC|Bellary|583119|COVISHIELD|50
+595|Harapanahalli GH|Hospet Road|Bellary|583131|COVISHIELD|50
+596|Alagilawada PHC|Telagi Road|Bellary|583137|COVISHIELD|50
+597|Mariyammanahalli PHC|MM Halli|Bellary|583222|COVISHIELD|50
+598|Mattihalli PHC|Mattihalli|Bellary|573216|COVISHIELD|50
+599|Punabhagatta PHC|Punabhagatta|Bellary|583125|COVISHIELD|50
+600|Chapparadhalli UPHC|OPP UDYOG PETROL BUNK OLD MATERNITY HOSPITAL PREMISES|Bellary|583201|COVAXIN|50
+601|Kanchikere PHC|Harapanahalli|Bellary|583125|COVISHIELD|50
+602|Telagi CHC Covaxin|Telagi A|Bellary|583127|COVAXIN|50
+603|Nandibevoor PHC|Nandibevoor|Bellary|583131|COVISHIELD|50
+604|Madihalli PHC|Madihalli|Bellary|573216|COVISHIELD|50
+606|Sandur TH|General Hospital Sandur|Bellary|583119|COVAXIN|50
+605|CHITTAWADGI PHC|HOSPET|Bellary|583201|COVISHIELD|50
+607|Devasamudra PHC|Devasamudra|Bellary|583129|COVISHIELD|50
+608|Kammathalli PHC|Kammathalli|Bellary|583125|COVISHIELD|50
+609|Bennihalli PHC|Bennihalli|Bellary|583127|COVISHIELD|50
+610|Akashawani UHC|Akashawani UHC|Bellary|583201|COVISHIELD|50
+611|Gadiganur PHC|Gadiganur PHC|Bellary|583223|COVISHIELD|50
+612|Haluwgalu PHC|Kunchoor Road|Bellary|583213|COVISHIELD|50
+613|Ramasagar PHC|Ramasagar|Bellary|583132|COVISHIELD|50
+614|Uchhangidurga PHC|Uchhangidurga|Bellary|583125|COVISHIELD|50
+615|SRR Pura PHC|Srr Pura|Bellary|583129|COVISHIELD|50
+616|GANDHI CHOWK UPHC|PATEL NAGAR 3RD GROSS. 3RD WARD NEAR GOPINATH SCHOOL HOSAPET|Bellary|583201|COVISHIELD|50
+617|AURAD GH COVAXIN|AURAD|Bidar|585326|COVAXIN|50
+618|PHC TALMADGI CVC|TALMADGI HUMNABAD|Bidar|585329|COVISHIELD|50
+619|PHC HALHALLI K RUDNOOR|RUDNOOR|Bidar|585415|COVISHIELD|50
+620|PHC GHATBORAL CHANDANHALLI|CHANDANHALLI HUMNABAD|Bidar|585418|COVISHIELD|50
+621|PHC DONGAON CHIMEGAON|CHIMEGAON DONGAON|Bidar|585417|COVISHIELD|50
+622|PHC LAKHANGAON KASARTUGAON|KASARTUGAON BHALKI|Bidar|585411|COVISHIELD|50
+623|PHC CHILLARGI SHAMRAJPUR SC|SHAMRAJPUR SC|Bidar|585403|COVISHIELD|50
+624|PHC BAGDAL CVC|BAGDAL BIDAR|Bidar|585226|COVISHIELD|50
+625|PHC ANADOOR KOLAR B SC|KOLAR B SC|Bidar|585402|COVISHIELD|50
+626|PHC KOHINOOR BATGERA|BATGERA KOHINOOR|Bidar|585419|COVISHIELD|50
+627|HUNDRED BEDDED COVAXIN|HUNDRED BEDDED  BIDAR|Bidar|585402|COVAXIN|50
+628|PHC HALBARGA CVC|HALBARGA BHALKI|Bidar|585413|COVISHIELD|50
+629|PHC BEERI B CVC|BEERI B BHALKI|Bidar|585328|COVISHIELD|50
+630|UPHC POLICE HC CVC|POLICE HC BIDAR|Bidar|585403|COVISHIELD|50
+631|PHC KODAMAL ITGA|ITGA KODAMBAL|Bidar|585412|COVISHIELD|50
+632|BASAVAKALYAN GH CVC|BASAVAKALYAN COVIN1 SESSION|Bidar|585327|COVISHIELD|50
+633|PHC WARWATTI B CVC|WARWATTI B BHALKI|Bidar|585328|COVISHIELD|50
+634|PHC MANHALLI HOKRANA|MANHALLI PHC|Bidar|585402|COVISHIELD|50
+635|PHC RANJOLKHENI BAMBULAGI SC|BAMBULAGI SC|Bidar|585329|COVISHIELD|50
+636|PHC KANKATTA GADVANTHI|GADVANTHI HUMANABAD|Bidar|585353|COVISHIELD|50
+637|PHC MUDHOL CVC|MUDHOL AURAD|Bidar|585443|COVISHIELD|50
+638|PHC BHATAMBRA CVC|BHATAMBRA BHALKI|Bidar|585411|COVISHIELD|50
+639|PHC NIRNA CVC|NIRNA HUMNABAD|Bidar|585227|COVISHIELD|50
+640|PHC NIRNA MUTANGI|MUTTANGI HUMNABAD|Bidar|585227|COVISHIELD|50
+641|PHC BELURA CVC|BELURA BASAVAKALYAN|Bidar|585327|COVISHIELD|50
+642|Aurad GH CVC|Aurad GH COVIN SESSION 1|Bidar|585326|COVISHIELD|50
+643|UPHC 100 BEDDED SUB CENTER 1|UPHC 100 BEDDED SUB CENTER 1|Bidar|585402|COVISHIELD|50
+644|PHC BEMBALKHEDA KARKNALLI|KARAKNALLI HUMANABAD|Bidar|585227|COVISHIELD|50
+645|PHC GHODAMPALLI MAILOOR SC|MAILOOR SC|Bidar|585403|COVISHIELD|50
+646|PHC K CHINCHOLI Kattitugaon|Kattitugaon BHALKI|Bidar|585328|COVISHIELD|50
+647|UPHC BASAVAKALYAN COVAXIN|BASAVAKALYAN|Bidar|585327|COVAXIN|50
+648|PHC JANWADA CHAMBOL SC|CHAMBOL|Bidar|585402|COVISHIELD|50
+649|CHC CHITAGUPPA COVAXIN|CHITAGUPPA|Bidar|585412|COVAXIN|50
+650|PHC C DAPKA COVAXIN|C DAPKA AURAD|Bidar|585326|COVAXIN|50
+651|PHC KALKORA CHIKKANAGAON|CHIKKANAGAON|Bidar|585437|COVISHIELD|50
+652|UPHC KUMBARWADA COVAXIN|KUMBARWADA|Bidar|585403|COVAXIN|50
+653|CHC NITTUR B|NITTUR B BHALKI|Bidar|585444|COVISHIELD|50
+654|UPHC BIDRI COLONY SUB CENTER 1|UPHC BIDRI COLONY SUB CENTER 1|Bidar|585401|COVISHIELD|50
+655|CHC NITTUR COVAXIN|NITTUR|Bidar|585444|COVAXIN|50
+656|Bidar DH 2 COVAXIN|Bidar DH|Bidar|585401|COVAXIN|50
+657|PHC THANA KUSHANOOR CVC|THANA KUSHANOOR AURAD|Bidar|585436|COVISHIELD|50
+658|PHC MUDHOL COVAXIN|MUDHOL B AURAD|Bidar|585443|COVAXIN|50
+659|PHC HALHALLI K CVC|HALHALLI K BHALKI|Bidar|585415|COVISHIELD|50
+660|PHC K CHINCHOLLI CVC|K CHINCHOLLI BHALKI|Bidar|585328|COVISHIELD|50
+661|PHC DONGAPUR CVC|DONGAPUR BHALKI|Bidar|585328|COVISHIELD|50
+662|PHC KANJI CVC|KANJI BHALKI|Bidar|585413|COVISHIELD|50
+663|PHC DONGAPUR AMBESANGVI|AMBESANGVI DONGAPUR|Bidar|585328|COVISHIELD|50
+664|BASAVAKALYAN GH COVAXIN|BASAVAKALYAN|Bidar|585327|COVAXIN|50
+665|PHC Kitta CVC|Kitta BASAVAKALYAN|Bidar|585327|COVISHIELD|50
+666|CHC SANTAPUR CVC|SANTAPUR AURAD|Bidar|585421|COVISHIELD|50
+667|PHC TORNA CVC|TORNA AURAD|Bidar|585443|COVISHIELD|50
+668|PHC KANKATTA CVC|KANKATTA HUMNABAD|Bidar|585353|COVISHIELD|50
+670|ANADOOR PHC CVC|ANADOR PHC|Bidar|585402|COVISHIELD|50
+669|PHC Kalkhora CVC|Kalkhora BASAVAKALAN|Bidar|585437|COVISHIELD|50
+672|PHC T KUSNOOR HIPALGAON|HIPPALGAON T KUSNOOR|Bidar|585436|COVISHIELD|50
+673|CHC HULSOOR CVC|HULSOOR BASAVAKALYAN|Bidar|585416|COVISHIELD|50
+671|PHC DAWARGAON CVC|DAWARGAON BHALKI|Bidar|585328|COVISHIELD|50
+674|PHC UJALAMB UMAPUR|UMAPUR UJALAMB|Bidar|585419|COVISHIELD|50
+675|PHC Ghotal CVC|GHOTALA BASAVAKALYAN|Bidar|585327|COVISHIELD|50
+676|PHC GHOTAL PRATAPUR|PRATAPUR GHOTAL|Bidar|585327|COVISHIELD|50
+677|PHC DHANNURA S CVC|DHANNURA S CVC|Bidar|585413|COVISHIELD|50
+678|PHC DUBALGUNDI CVC|DUBALGUNDI HUMNABAD|Bidar|585418|COVISHIELD|50
+679|CHC KAMALNAGAR COVIN Dd|KAMALNAGAR AURAD|Bidar|585417|COVISHIELD|50
+680|UPHC POLICE HEALTH COVAXIN|POLICE HEALTH CENTER|Bidar|585401|COVAXIN|50
+681|PHC MANHALLI YAKATPUR SC|YAKATPUR SC|Bidar|585403|COVISHIELD|50
+682|PHC DUBULGUNDI NAMDAPUR|NAMDAPUR HUMNABAD|Bidar|585418|COVISHIELD|50
+683|CHC HALLIKHED B COVAXIN|HALLIKHED B|Bidar|585414|COVAXIN|50
+684|PHC BEERI B KARDIYAL|KARDIYAL|Bidar|585328|COVISHIELD|50
+685|PHC CHILARGI CVC|CHILARGI BIDAR|Bidar|585403|COVISHIELD|50
+686|PHC MUDABI Yarandgi|Yarandgi|Bidar|585437|COVISHIELD|50
+687|CHC MANNEKHALLI CVC|MANNEKHALLI|Bidar|585227|COVISHIELD|50
+688|CHC RAJESHWAR CVC|Rajeshwar BASVAKALYAN|Bidar|585331|COVISHIELD|50
+689|PHC YARNALLI ALIYAMBAR SC|ALIYAMBAR SC|Bidar|585402|COVISHIELD|50
+690|PHC MANTHAL GUNDUR|GUNDUR MANTHAL|Bidar|585419|COVISHIELD|50
+691|PHC HUDGI BENCHINCHOLI|BENCHINCHOLLI HUMNABAD|Bidar|585329|COVISHIELD|50
+692|PHC Mudabi CVC|Mudabi BASVAKALYAN|Bidar|585437|COVISHIELD|50
+693|PHC KITTA RAJOLA|RAJOLA KITTA|Bidar|585327|COVISHIELD|50
+694|BIDAR DH CVC|BIDAR DH COWIN SESSION SITE 1|Bidar|585401|COVISHIELD|50
+697|CHC SANTHPUR COVAXIN|SANTHPUR|Bidar|585421|COVAXIN|50
+695|PHC HEDGAPUR CVC|HEDGAPUR AURAD|Bidar|585436|COVISHIELD|50
+698|PHC BEMALKHEDA CVC|BEMALKHEDA HUMNABAD|Bidar|585227|COVISHIELD|50
+696|PHC DHANURA K GADIGOUNDGAON|GADIGOUNDGAON DHAANURA K|Bidar|585327|COVISHIELD|50
+699|CHC MANNEKHELLI COVAXIN|MANNEKHELLI|Bidar|585227|COVAXIN|50
+700|PHC HALBARGA CHANDAPUR|CHANDAPUR BHALKI|Bidar|585413|COVISHIELD|50
+701|PHC CHINTAKI SUndal|Sundal|Bidar|585326|COVISHIELD|50
+702|PHC HEDGAPUR KOUDGAON|KOUDGAON HEDGAPUR|Bidar|585436|COVISHIELD|50
+703|PHC Dhannura K CVC|Dhannura K BASAVAKALYAN|Bidar|585327|COVISHIELD|50
+704|PHC TORNA KOTGYAL|KOTGYAL TORNA|Bidar|585417|COVISHIELD|50
+705|PHC CHANGALERA CVC|CHANGALERA HUMNABAD|Bidar|585227|COVISHIELD|50
+706|UPHC NAUBAD SUB CNETER 1|SUB CNETER 1|Bidar|585401|COVISHIELD|50
+707|PHC KAMTHANA CVC|KAMTHANA BIDAR|Bidar|585226|COVISHIELD|50
+708|PHC HUDGI CVC|HUDGI HUMNABAD|Bidar|585329|COVISHIELD|50
+709|PHC BELURA MIRKAL|MIRKAL BELURA|Bidar|585327|COVISHIELD|50
+710|PHC HALIKHED K HANKUNI|HANKUNI HALLIKHED K|Bidar|585330|COVISHIELD|50
+711|UPHC NAUBAD CVC|NAUBAD BIDAR|Bidar|585401|COVISHIELD|50
+712|PHC DONGAON M CVC|DONGAON M AURAD|Bidar|585417|COVISHIELD|50
+713|PHC Muchalumb CVC|Muchalumb BASAVAKALYAN|Bidar|585327|COVISHIELD|50
+714|PHC DHANURA S MALCHAPUR|MALCHAPUR DHANURA S|Bidar|585413|COVISHIELD|50
+715|PHC C DABKA CHIKLI U|CHIKLI C DABKA|Bidar|585326|COVISHIELD|50
+716|PHC GHODAMPALLI CVC|GHODAMPALLI BIDAR|Bidar|585403|COVISHIELD|50
+717|PHC LAKHANGAON CVC|LAKHANGAON BHALKI|Bidar|585411|COVISHIELD|50
+718|PHC HARKOOD EKLOOR|EKLOOR HARKOOD|Bidar|585437|COVISHIELD|50
+719|PHC GHATBORAL CVC|GHATBORAl HUMNABAD|Bidar|585418|COVISHIELD|50
+720|PHC KANJI JOLDAPKA|JOLDAPKA BHALKI|Bidar|585413|COVISHIELD|50
+722|PHC Harkood CVC|HARKUD BASAVAKALYAN|Bidar|585437|COVISHIELD|50
+721|Basavakalyan UHC CVC|Basavakalyan UHC|Bidar|585327|COVISHIELD|50
+723|CHC RAJESHWAR COVAXIN|RAJESHWAR|Bidar|585331|COVAXIN|50
+724|PHC LADWANTI BOSGA|BOSGA LADWANTI|Bidar|585419|COVISHIELD|50
+725|PHC DAWARGAON DADGI|DADGI DAWARGAON|Bidar|585328|COVISHIELD|50
+726|PHC TORNA COVAXIN|TORNA AURAD|Bidar|585443|COVAXIN|50
+727|UPHC NAUBAD COVAXIN|NAUBAD BIDAR|Bidar|585401|COVAXIN|50
+729|PHC Kohinoor CVC|Kohinoor BASAVAKALYAN|Bidar|585419|COVISHIELD|50
+728|PHC HOLSAMUDRA CVC|HOLSAMUDRA AURAD|Bidar|585417|COVISHIELD|50
+730|PHC KODAMBAL CVC|KODAMBAL HUMNABAD|Bidar|585412|COVISHIELD|50
+731|UPHC KUMBARWADA CVC|KUMBARWADA SESSION SITE|Bidar|585403|COVISHIELD|50
+732|HUMNABAD GH CVC|HUMNABAD GH SESSION 1|Bidar|585330|COVISHIELD|50
+733|PHC WADAGAON CHIKLI J|CHIKLI  WADAGAON|Bidar|585421|COVISHIELD|50
+734|PHC Ladwanti CVC|Ladwanti BASAVAKALYAN|Bidar|585419|COVISHIELD|50
+735|PHC CHANGLERA Changlera 2|Changlera 2|Bidar|585227|COVISHIELD|50
+736|PHC MUDHOL EKAMBA|EKAMBA MUDHOL B|Bidar|585443|COVISHIELD|50
+737|PHC JANWADA CVC|JANWADA BIDAR|Bidar|585402|COVISHIELD|50
+738|PHC Ujalamb CVC|Ujalamb BASAVAKALYAN|Bidar|585419|COVISHIELD|50
+739|BHALKI GH COVAXIN|BHALKI|Bidar|585328|COVAXIN|50
+740|PHC CHINTAKI CVC|CHINTAKI AURAD|Bidar|585326|COVISHIELD|50
+741|HUMNABAD GH COVAXIN|HUMNABAD GH|Bidar|585330|COVAXIN|50
+742|UPHC KUMBARWADA SUB CENTER 1|UPHC KUMBARWADA SUB CENTER 1|Bidar|585403|COVISHIELD|50
+743|UPHC POLICE HC SUB CENTER 1|UPHC POLICE HC SUB CENTER 1|Bidar|585403|COVISHIELD|50
+744|PHC MEHAKAR CVC|MEHAKAR BHALKI|Bidar|585416|COVISHIELD|50
+745|PHC KAMTHANA P KASHEMPUR SC|P KASHEMPUR SC|Bidar|585226|COVISHIELD|50
+746|BHALKI GH CVC|BHALKI GH COVIN SESSION 1|Bidar|585328|COVISHIELD|50
+747|PHC BAGDAL AURAD S SC|AURAD SC SC|Bidar|585226|COVISHIELD|50
+748|CHC KAMALNAGAR COVAXIN|KAMALNAGAR|Bidar|585417|COVAXIN|50
+749|PHC YARNALLI CVC|YARNALLI BIDAR|Bidar|585402|COVISHIELD|50
+750|BIDRI COLONY CVC|BIDRI COLONY BIDAR|Bidar|585401|COVISHIELD|50
+751|PHC HOLSAMUDRA SANGAM|SANGAM HOLSAMUDRA|Bidar|585417|COVISHIELD|50
+752|PHC RANJOL KHENI CVC|RANJOL KHENI BIDAR|Bidar|585329|COVISHIELD|50
+753|PHC MANHALLI CVC|MANHALLI BIDAR|Bidar|585403|COVISHIELD|50
+754|PHC WADAGAON D CVC|WADAGAON D AURAD|Bidar|585421|COVISHIELD|50
+755|PHC C DAPAKA CVC|C DAPAKA AURAD|Bidar|585326|COVISHIELD|50
+756|UPHC BIDRI COVAXIN|UPHC Bidri Colony|Bidar|585401|COVAXIN|50
+757|PHC BHATAMBRA METIMELKUNDA|METIMELKUNDA BHATAMBRA|Bidar|585411|COVISHIELD|50
+758|PHC Manthal CVC|Manthal BASAVAKALYAN|Bidar|585419|COVISHIELD|50
+759|CHC HULSOOR COVAXIN|HULSOOR|Bidar|585416|COVAXIN|50
+760|PHC TALMADGI KANDGOL|KANDGOL TALMADGI|Bidar|585329|COVISHIELD|50
+761|PHC RANJOLKHENI|RANJOLKHENI|Bidar|585329|COVISHIELD|50
+762|CHC CHITAGUPPA CVC|CHITAGUPPA Humnabad|Bidar|585412|COVISHIELD|50
+763|100 BEDDED MH CVC|100 BEDDED COVIN SITE|Bidar|585402|COVISHIELD|50
+765|PHC MEHAKAR HALSITUGAON|HALSITUGAON BHALKI|Bidar|585416|COVISHIELD|50
+764|CHC HALLIKHED B CVC|HALLIKHED B|Bidar|585414|COVISHIELD|50
+766|PHC WARWATI MADKATI|MADKATI BHALKI|Bidar|585328|COVISHIELD|50
+767|PHC MUCHALAMB GORTA B|GORTA B MUCHALAMB|Bidar|585327|COVISHIELD|50
+768|PHC HALLIKHED K CVC|HALLIKHED K HUMNABAD|Bidar|585330|COVISHIELD|50
+769|Mudalahippe Hospital|Channarayapatna Holenarasipura Main Road Mudalahippe|Hassan|573211|COVISHIELD|50
+770|Madalu Hospital|Arasikere Main Road Madalu|Hassan|573117|COVISHIELD|50
+771|Karehalli Hospital COVAXIN|Near KSRTC Bus Stand Karehalli|Hassan|573131|COVAXIN|50
+773|Gandasi Hospital|Hospital Road Gandasi (v)|Hassan|573119|COVISHIELD|50
+772|HIMS Court Building Booth CoV|Old Court Road Hassan|Hassan|573201|COVAXIN|50
+774|Undiganalu Hospital|Undiganalu PHC|Hassan|573125|COVISHIELD|50
+776|Karehalli Hospital|Opp KSRTC Bus Stand Karehalli|Hassan|573131|COVISHIELD|50
+775|Nuggehalli Booth 2|Opp KSRTC Bust Sopp KSRTC Bust Stand Nuggehalli (v)tand Nuggehalli (v)|Hassan|573131|COVAXIN|50
+777|Kundurmata Hospital COVAXIN|Beside Govt School Kundurmata|Hassan|573111|COVAXIN|50
+778|Doddakunche Hospital|Holenarasipura Road Doddakunche|Hassan|573211|COVISHIELD|50
+779|Chakenahalli Hospital|Beside Govt School Chakenahalli PHC|Hassan|573211|COVISHIELD|50
+780|Ranga Nayakanakoppalu Hospital|Hospital Road R N Koppalu|Hassan|573144|COVISHIELD|50
+781|Paduvalahippe Hospital|Holenarasipura Arakalgudu Road Paduvalahippe|Hassan|573211|COVISHIELD|50
+782|Hirisave Hospital Boot 2|Bangalore Road Hirisave|Hassan|573124|COVISHIELD|50
+783|Udayapura Hospital|Bangalore Mangalore Main Road Udayapura(v)|Hassan|573225|COVISHIELD|50
+784|Gandasi Hospital Covaxin|Hospital Road Gandasi|Hassan|573119|COVAXIN|50
+785|Banavara Hospital|Hospital Road Banavara (v)|Hassan|573112|COVISHIELD|50
+786|Halekote Hospital COVAXIN|Hassan Main Road Halekote|Hassan|573211|COVAXIN|50
+787|Holenarasipura GH Boot 1|Opp KSRTC Bus Stand|Hassan|573211|COVAXIN|50
+788|Anekere Hospital|Opp Govt High School Anekere|Hassan|573116|COVISHIELD|50
+789|Hirisadarahalli Hospital|Beside Govt High School Hirisadarahalli|Hassan|573144|COVISHIELD|50
+790|Bagivalu Hospital|Bus Stant Near Bagivalu (v)|Hassan|573164|COVISHIELD|50
+791|Haranahalli Hospital|Arasikere Hassan Main Road Haranahalli (v)|Hassan|573122|COVISHIELD|50
+792|Malali Hospital|Holenarasipura Road Malali|Hassan|573220|COVISHIELD|50
+793|UPHC Arsiker|UPHC Arsiker|Hassan|573103|COVISHIELD|50
+794|Tholalathore Hospital|Hospital Road Tholalathore|Hassan|573119|COVISHIELD|50
+795|Halekote Hospital|Hassan Holenarasipura Road Halekote|Hassan|573211|COVISHIELD|50
+796|Kundurmata Hospital|Beside Govt School Kundurmata(v)|Hassan|573111|COVISHIELD|50
+797|Akkanahalli Cross Hospital|Naer Bus Stand Akkanahalli Cross|Hassan|573131|COVISHIELD|50
+798|J C Pura Hospital Covaxin|Arasikere Road Main Road J C Pura|Hassan|573126|COVAXIN|50
+799|Didiga Hospital|Govt School Behind Didiga|Hassan|573141|COVISHIELD|50
+800|D M Kurke Hospital|Arasikere Main Raod DM Kurke|Hassan|573117|COVISHIELD|50
+801|Shravanabelagola Booth 2|Opp KSRTC Bus Stand Shravanabelagula|Hassan|573135|COVAXIN|50
+802|Kallusadarahalli Hospital|Banavara Raod Kallusadarahalli|Hassan|573144|COVISHIELD|50
+803|JC Pura Hospital|Arasikere Road JC Pura|Hassan|573126|COVISHIELD|50
+804|Holenarsipura Taluk Hospital-2|KSRTC Bus Stand Opposite Holenarsipura|Hassan|573211|COVISHIELD|50
+805|Srinivasapura Hospital|Channarayapatna Holenarasipura Main Road Srinivasapura|Hassan|573116|COVISHIELD|50
+806|Kamasamudra Hospital|Kamasamudra Hospital|Hassan|573126|COVISHIELD|50
+807|Kalyadi Hospital|Near Govt School Kalyadi|Hassan|573122|COVISHIELD|50
+809|Hallimysore Hospital|Opposite Police Station Hallimysore (v)|Hassan|573210|COVISHIELD|50
+808|Kargunda Hospital|Hospital Road Kargunda|Hassan|573122|COVISHIELD|50
+811|Kondenalu Hospital|Tippaturu Road Kondenalu (v)|Hassan|573119|COVISHIELD|50
+812|HIMS Room No 9 Booth 4|Opp Old Court Road Hassan|Hassan|573201|COVISHIELD|50
+813|Bhageshapura Hospital|Arasikere Road Bhageshapura|Hassan|573162|COVISHIELD|50
+814|Arasikere Taluk Hospital|Kadoor Road Arasikere|Hassan|573103|COVISHIELD|50
+810|Mattanavile Hospital COVAXIN|Anganwadi Halebelagula|Hassan|573116|COVAXIN|50
+816|Channarayapatna Others|Channarayapatna|Hassan|573116|COVISHIELD|50
+815|Shashivala Hospital|Hospital Road Shashivala|Hassan|573117|COVISHIELD|50
+817|Kolgunda Hospital|Kolgunda Hospital|Hassan|573125|COVISHIELD|50
+818|Kenkere Hospital|Hospital Road Kenkere|Hassan|573119|COVISHIELD|50
+819|Nuggehalli Hospital|Opp KSRTC Bust Stand Nuggehalli (v)|Hassan|573131|COVISHIELD|50
+820|Handralu Hospital|Handralu Hospital|Hassan|573125|COVISHIELD|50
+821|Kanakatte Hospital|Near Bus Stant Circle Kanakatte (v)|Hassan|573144|COVISHIELD|50
+822|Doddakadanuru Hospital|Hassan Mysore Road Doddakadanuru|Hassan|573211|COVISHIELD|50
+823|Nerlige Hospital|Nerlige|Hassan|573125|COVISHIELD|50
+824|HIMS Room No 241 Booth 3|Opp Old Court Road Hassan|Hassan|573201|COVISHIELD|50
+825|Thoti Hospital|Hospital Road Toti|Hassan|573124|COVISHIELD|50
+826|Agraharagate Hospital|Beside Govt School Agraharagate|Hassan|573211|COVISHIELD|50
+827|Arasikere TH Hospital|Shimogga Road Arsikere|Hassan|573103|COVAXIN|50
+828|Paduvalahippe Hospital Covixen|Holenarasipura Arakalgudu Road Paduvalahippe(v)|Hassan|573211|COVAXIN|50
+829|Javagal Hospital|Hospital Road Javagal|Hassan|573125|COVISHIELD|50
+830|Urugadur UPHC|Mattur Main Road 3Rd Cross|Shimoga|577205|COVISHIELD|75
+831|Hosur B SC|Hosur B|Shimoga|577227|COVISHIELD|75
+832|ANANDAPURA CHC|Shikaripura Road|Shimoga|577412|COVISHIELD|75
+833|Mattur PHC|Urugaduru Mattur Main Road|Shimoga|577203|COVISHIELD|75
+834|Sunnadakoppa PHC|Shiralakoppa Road|Shimoga|577428|COVISHIELD|75
+835|Bandagdde PHC|Soraba Road|Shimoga|577401|COVISHIELD|75
+836|Saluru PHC|Anandpura Road|Shimoga|577214|COVISHIELD|75
+837|Kannangi CHC|Ayanuru Road|Shimoga|577226|COVISHIELD|75
+838|Haridravthi PHC|Sagara Hosanagara Road|Shimoga|577412|COVISHIELD|75
+840|Choradi PHC|Sagara Road|Shimoga|577423|COVISHIELD|75
+839|Ayanur Community Health Centre|Sagara Road|Shimoga|577211|COVISHIELD|75
+841|Maravalli PHC|Kaginalli Main Road|Shimoga|577427|COVISHIELD|75
+842|Kote UPHC(Covishield)|Near Dho Office Kote Road|Shimoga|577201|COVISHIELD|75
+843|Tunganagara UPHC|100 Feet Road|Shimoga|577205|COVISHIELD|75
+844|Antharagange PHC|Shivani Road Antharagange|Shimoga|577245|COVISHIELD|75
+845|Hulthikoppa PHC|Bhatkal Soraba Road|Shimoga|577429|COVISHIELD|75
+846|Yalagere PHC|Shankarikoppa Road|Shimoga|577428|COVISHIELD|75
+847|Guddekoppa PHC|Araga Thirthahalli Road|Shimoga|577414|COVISHIELD|75
+848|Jannapura UHC|Ntb Road|Shimoga|577301|COVISHIELD|75
+849|Kaginahalli PHC|Shikaripura Masur Road|Shimoga|577427|COVISHIELD|75
+850|Aralagodu PHC|Bhatkal Road|Shimoga|577421|COVISHIELD|75
+851|BHARANGI PHC|BHARANGI|Shimoga|577413|COVISHIELD|75
+852|Guthiyadehalli PHC|Annigere Shivamogga Road|Shimoga|577226|COVISHIELD|75
+853|Humchadakatte PHC|Ripponpete And Humcha Road|Shimoga|577436|COVISHIELD|75
+854|Harogolige PHC|Basavani Road|Shimoga|577415|COVISHIELD|75
+855|Heggodu PHC|Sagar Hosanagar Road|Shimoga|577401|COVISHIELD|75
+856|Thyagarthi PHC|Thyagarthi|Shimoga|577431|COVISHIELD|75
+857|SHIRALAKOPPA CHC|SHIKARIPURA ROAD|Shimoga|577428|COVISHIELD|75
+858|Thathuru PHC|Anavatti Road Thahthur Village|Shimoga|577433|COVISHIELD|75
+859|SARJI HOSPITAL|SARJI AMRTANADI OPP CANARA BANK KUVEMPU ROAD THILAK NAGAR SHIVAMOGGA|Shimoga|577201|COVISHIELD|75
+861|Bhadracolony PHC|Majjigenehalli Road Bhadracolony|Shimoga|577301|COVISHIELD|75
+860|Kargal PHC|Jog Falls Road|Shimoga|577421|COVISHIELD|75
+862|MOODIDODDIKOPPA|SORABA ROAD|Shimoga|577413|COVISHIELD|75
+863|HOSANAGARA TALUKA HOSPITAL|HOSANAGARA|Shimoga|577418|COVISHIELD|75
+864|Malur PHC|Maluru|Shimoga|577232|COVISHIELD|75
+865|SAHYADRI NARAYANA HRUDAYALAYA|N T ROAD HARAKERE SHIMOGA|Shimoga|577202|COVISHIELD|75
+866|SUB CENTRE UJJANIPURA|UJJANIPURA|Shimoga|577301|COVISHIELD|75
+867|Humcha PHC|Jain Matt Road Humcha|Shimoga|577418|COVISHIELD|75
+868|Holehonnur CHC|Police Station Road Holehonnur|Shimoga|577227|COVISHIELD|75
+869|Yaduru PHC|Kaimara Road|Shimoga|577448|COVISHIELD|75
+870|Chandragutti PHC|Bhatkal Soraba Highway|Shimoga|577429|COVISHIELD|75
+871|Bhadravathi Taluka Hospital|Bh Road Bhadravathi Govt Hospital|Shimoga|577301|COVISHIELD|75
+872|Shakunavalli PHC|Jade Hosur Road|Shimoga|577413|COVISHIELD|75
+873|BOMMANAKATTE UPHC|Ashrya Badavane|Shimoga|577201|COVISHIELD|75
+874|Mydolalu PHC|Mallapura Main Road|Shimoga|577243|COVISHIELD|75
+875|Thogarsi PHC|Anavatti Road|Shimoga|577433|COVISHIELD|75
+876|Shiravanthe PHC|Jog Falls Road|Shimoga|577401|COVISHIELD|75
+877|Aralasurali PHC.|Araga Sonale Road|Shimoga|577414|COVISHIELD|75
+878|Seghehatti UPHC (Covishield)|O T Road Opp To Mahindra Showroom|Shimoga|577202|COVISHIELD|75
+879|Nehru Nagar UPHC1|T K Road|Shimoga|577301|COVISHIELD|75
+880|Megravalli Phc|Megaravalli|Shimoga|577424|COVISHIELD|75
+881|ASHWATHNAGAR UPHC|BH ROAD|Shimoga|577301|COVISHIELD|75
+882|Sriramanagara UPHC|Near Shri Subhamangala Kalyana Mantappa|Shimoga|577204|COVISHIELD|75
+883|Soraba Taluk Hospitals|Sagar Main Road Soraba|Shimoga|577429|COVISHIELD|75
+884|Talaguppa PHC|Jog Falls Road|Shimoga|577430|COVISHIELD|75
+885|Thallikatte PHC|Hollehonnur Road|Shimoga|577227|COVISHIELD|75
+886|Harige PHC|Phc Harige|Shimoga|577433|COVAXIN|75
+887|Agumbe PHC|Udupi Mangalore Road|Shimoga|577411|COVISHIELD|75
+888|Donabhaghatta PHC|Bilki Road Tankmohalla Donabhaghatta|Shimoga|577229|COVISHIELD|75
+889|Shikaripura Taluka Hospitals|Shiralakoppa Road|Shimoga|577427|COVISHIELD|75
+890|Harishi PHC|Chandragutthi Road|Shimoga|577429|COVISHIELD|75
+891|Ghondhichatnalli PHC|Honnahalli Road|Shimoga|577216|COVISHIELD|75
+892|Hosuru PHC|Honnahalli Shikaripura Road|Shimoga|577427|COVISHIELD|75
+893|Nitturu PHC.|Phc Nitturu|Shimoga|577452|COVISHIELD|75
+894|Bettabasavani PHC|Thanikall Echalakoppa Road|Shimoga|577422|COVISHIELD|75
+895|Kappanahalli PHC|Phc Kappanahalli|Shimoga|577427|COVISHIELD|75
+896|Mcgann DISTRICT HOSPITAL|Sagara Road|Shimoga|577201|COVAXIN|75
+897|Avinhalli PHC|Sigandur Road|Shimoga|577453|COVISHIELD|75
+898|Jade PHC|Hosuru Main Road|Shimoga|577419|COVISHIELD|75
+899|MANDAGATTA PHC|HOSANAGARA ROAD|Shimoga|577211|COVISHIELD|75
+900|Gudavi PHC|Near Gudavi Bird Santuary|Shimoga|577429|COVISHIELD|75
+901|Sampekatte PHC|Phc Sampekatte Kolluru Kodachadri Road|Shimoga|577425|COVISHIELD|75
+902|JAYACHAMARAJENDRA HOSPITAL|Koppa Agumbe Road Near Bus Stand|Shimoga|577432|COVISHIELD|75
+903|Tadagalale PHC|Sc Tadagalale Sagara|Shimoga|577401|COVISHIELD|75
+904|Kodur PHC.|Hosanagara Road|Shimoga|577418|COVISHIELD|75
+905|Vidyanagar UPHC|B H Road Vidyanagara Near Mahadevi Talkies Bh Road|Shimoga|577203|COVISHIELD|75
+906|Oturu PHC|Malekoppa Main Road|Shimoga|577429|COVISHIELD|75
+907|Bettadakurli PHC|Bettadakurli PHC|Shimoga|577429|COVISHIELD|75
+908|Kote UPHC|Near Dho Office Kote Road|Shimoga|577201|COVAXIN|75
+909|Hosabale PHC|Keldi Masuru Road|Shimoga|577434|COVISHIELD|75
+910|Madasuru Lingadahalli PHC|Sagara Road|Shimoga|577434|COVISHIELD|75
+911|Yennekoppa PHC|Chikkeri RoadYennekoppa|Shimoga|577413|COVISHIELD|75
+912|Byakodu PHC|Sigundoor Nittur Road|Shimoga|577453|COVISHIELD|75
+913|Kuppagadde PHC|Anvatti Soraba Road|Shimoga|577429|COVISHIELD|75
+914|HOLALURU CHC|HONNAHALLI ROAD|Shimoga|577216|COVISHIELD|75
+915|Sonale PHC|Hosanagara Road|Shimoga|577418|COVISHIELD|75
+916|Shigga PHC|Thadagani Shiralakoppa Road|Shimoga|577434|COVISHIELD|75
+917|Chikkajogihalli PHC|Shikaripura Road|Shimoga|577214|COVISHIELD|75
+918|Kumsi PHC|Railway Colony Kumsi|Shimoga|577423|COVISHIELD|75
+919|Araga PHC|Hosanagara Road|Shimoga|577414|COVISHIELD|75
+920|Malavalli PHC|Chikkere Road|Shimoga|577432|COVISHIELD|75
+921|GOVT AYURVEDIC HOSPITAL/DTC|KUVEMPUR ROAD SHIVAMOGGA|Shimoga|577204|COVISHIELD|75
+922|Talagunda PHC|TALAGUNDA|Shimoga|577428|COVISHIELD|75
+923|Tumari PHC|Siganduru Road|Shimoga|577401|COVISHIELD|75
+924|Chikkajamburu PHC|Hirekeruru Road|Shimoga|577428|COVISHIELD|75
+925|Agaradahalli PHC|Channgeri Road|Shimoga|577227|COVISHIELD|75
+926|Hothanakatte PHC|Mallapura Road|Shimoga|577214|COVISHIELD|75
+927|Kagodu PHC|Phc Kagodu Sagara|Shimoga|577430|COVISHIELD|75
+928|Nagara PHC|Hospetal Nagara Hosanagara Road|Shimoga|577425|COVISHIELD|75
+929|Konandur PHC|Sagar Road Konanduru|Shimoga|577422|COVISHIELD|75
+930|BapujinagarA UPHC|Tank Road 9Th Cross|Shimoga|577201|COVISHIELD|75
+931|Mathikote PHC|Masur Shikaripura Road|Shimoga|577427|COVISHIELD|75
+932|Arabilachi PHC|K K Road|Shimoga|577233|COVISHIELD|75
+933|Maruthipura PHC|Sagar Hosanagara Road|Shimoga|577412|COVISHIELD|75
+934|Aladahalli PHC|Aladahalli Somminkoppa Road|Shimoga|577216|COVISHIELD|75
+935|Mcgann DH2|SAGARA ROAD|Shimoga|577201|COVISHIELD|75
+936|Sagar Taluka Hospital|Near Inspection Bunglow Shivamogga Road|Shimoga|577401|COVISHIELD|75
+937|Devangi PHC|Thirthahalli Koppa Road|Shimoga|577412|COVISHIELD|75
+938|Sanyasikoda Maggi PHC|Sanyasikoda Maggi Phc|Shimoga|577243|COVISHIELD|75
+939|MARASHETTI HALLI PHC|MARASHETTYHALLI BHADRAVATHI|Shimoga|577233|COVISHIELD|75
+940|Harogoppa PHC|Harogappa Village Shikaripura Road|Shimoga|577214|COVISHIELD|75
+941|Yogimalali PHC|Belluru Konanduru Road|Shimoga|577422|COVISHIELD|75
+942|Ripponpete PHC|Hosanagara Road|Shimoga|577426|COVISHIELD|75
+943|Ulavi Primary Health Centre|Sagar Main Road|Shimoga|577434|COVISHIELD|75
+944|Harnahalli PHC|Ayanur Savalanga Road|Shimoga|577416|COVISHIELD|75
+945|Bhadra River Project PHC|Tarikere Road|Shimoga|577115|COVISHIELD|75
+946|Ujjanipura UPHC|Dg Halli Main Road Ujjanipura 6Th CrossPaper Town|Shimoga|577302|COVISHIELD|75
+947|Anavatti CHC|Anavatti Hanagal Road|Shimoga|577413|COVISHIELD|75
+948|Haramaghatta PHC|Bommanallu Road|Shimoga|577216|COVISHIELD|75
+949|Yadehalli PHC|Chitradurga Road|Shimoga|577227|COVISHIELD|75
+950|Hithala PHC|Shikaripura Road|Shimoga|577214|COVISHIELD|75
+951|SUBHASHNAGARA UPHC|SAGARA|Shimoga|577401|COVAXIN|75
+952|Mandagadde PHC|Mandagadde|Shimoga|577220|COVISHIELD|75
+953|Katagaru PHC|Kuppa Road|Shimoga|577415|COVISHIELD|75
+953|K HONNAMACHANAYALLI|K.H.HALLI PHC KUNIGAL TALUK|Tumkur|572111|COVISHIELD|95
+954|Mayasandra PHC CoV|Turuvekere Road Mayasandra PHC Turuverkere Taluk Tumakur District|Tumkur|572221|COVISHIELD|95
+955|Elerampura PHC CoV|Pattnahalli Elerampura PHC Koratagere Taluk Tumakuru District|Tumkur|572129|COVISHIELD|95
+956|Huthridurga PHC CoV|Huthridurga PHC Kunigal Taluk Tumkur District|Tumkur|572126|COVISHIELD|95
+957|Yediyur PHC CoV|Yediyur PHC Kunigal Taluk Tumkur District|Tumkur|572142|COVISHIELD|95
+958|Mangalavada PHC CoV|Mangalavada Mangalavada PHC Pavaga Taluk Pavaga Distirct|Tumkur|572116|COVISHIELD|95
+959|Dandinashivara PHC CoV|Turuvekere Road Dandinashivara PHC Turuverkere Taluk Tumakur District|Tumkur|572215|COVISHIELD|95
+960|Mudenahalli PHC CoV|Hindupura Road Mudenahalli PHC Madugiri Taluk Tumakuru District|Tumkur|572127|COVISHIELD|95
+961|Y N Hoskote CHC CoV|Doddahalli Road Y N Hoskote CHC Pavaga Taluk Pavaga Distirct|Tumkur|572141|COVISHIELD|95
+962|Maruvekere PHC CoV|Badrihalli Road Maruvekere PHC Madugiri Taluk Tumakuru District|Tumkur|572132|COVISHIELD|95
+964|Byalya PHC CoV|Madhugiri Road Byalya PHC Madugiri Taluk Tumakuru District|Tumkur|572175|COVISHIELD|95
+963|YALIYURU PHC CoV|YALIYURU PHC KUNIGAL TALUK|Tumkur|572126|COVISHIELD|95
+965|Doddachengavi PHC CoV|Doddachengavi PHC Gubbi Taluk Tumkur District|Tumkur|572213|COVISHIELD|95
+966|Badavanahalli PHC CoV|Sira Road Badavanahalli PHC Madugiri Taluk Tumakuru District|Tumkur|572112|COVISHIELD|95
+967|IDAGURU PHC CoV|IDAGURU PHC GUBBI TALUK|Tumkur|572213|COVISHIELD|95
+968|Doddahullikunte PHC CoV|Doddahullikunte PHC Sira Taluk Tumakuru District|Tumkur|572113|COVISHIELD|95
+969|Chikkanayakanahalli TH COVA|Chikkanayakanahalli TALUK HOSPITAL|Tumkur|572214|COVAXIN|95
+970|District Hospital Tumkur CoVA|DNB Section District Hospital Tumkur|Tumkur|572101|COVAXIN|95
+971|Agrahara UPHC CoV|Agrahara UPHC Tumkur Taluk Tumkur District|Tumkur|572101|COVISHIELD|95
+972|Doddahalli PHC CoV|Pavagada Road Doddahalli PHC Pavaga Taluk Pavaga Distirct|Tumkur|561202|COVISHIELD|95
+973|Doddaagrahara PHC CoV|Doddaagrahara PHC Sira Taluk Tumakuru District|Tumkur|572125|COVISHIELD|95
+974|Kora PHC CoV|Kora PHC Tumkur Taluk Tumkur District|Tumkur|572128|COVISHIELD|95
+975|Kanaturu PHC CoV|Tandaga Road Kanaturu PHC Turuverkere Taluk Tumakur District|Tumkur|572224|COVISHIELD|95
+976|Hagalavadi PHC CoV|Hagalavadi PHC Gubbi Taluk Tumkur District|Tumkur|572222|COVISHIELD|95
+977|Tandaga PHC CoV|Tiptur Road Tandaga PHC Turuverkere Taluk Tumakur District|Tumkur|572224|COVISHIELD|95
+978|Kyathsandra PHC CoV|Kyathsandra Phc Tumakuru Taluk Tuamkuru District|Tumkur|572104|COVISHIELD|95
+979|Jinnagara PHC CoV|Jinnagara PHC Kunigal Taluk Tumkur District|Tumkur|572111|COVISHIELD|95
+980|Huliyurdurga PHC CoV|Huliyurdurga PHC Kunigal Taluk Tumkur District|Tumkur|572123|COVISHIELD|95
+981|DODDA SAGARE PHC CoV1|Doddasagare PHC Koratagere Taluk|Tumkur|572129|COVISHIELD|95
+982|Nidasale PHC CoV|Nidasale PHC Kunigal Taluk Tumkur District|Tumkur|572123|COVISHIELD|95
+983|Chikkanayakanahalli TH|K B Cross Road Chikkanayakanahalli TH CN Halli Taluk Tumkuru Distirct|Tumkur|572214|COVISHIELD|95
+984|Nagasandra PHC CoV|Nagasandra PHC Kunigal Taluk Tumkur District|Tumkur|572134|COVISHIELD|95
+985|Shanthinagara PHC CoV|Shanthinagara PHC Tumkur Taluk Tumkur District|Tumkur|572102|COVISHIELD|95
+986|Gubbi TH|Gubbi TH Gubbi Taluk Tumkur District|Tumkur|572216|COVISHIELD|95
+987|Sirivara PHC CoV|Sirivara PHC Tumkur Taluk Tumkur District|Tumkur|572120|COVISHIELD|95
+988|J C Pura PHC CoV|J C Pura PHC CN Halli Taluk Tumkuru Distirct|Tumkur|572214|COVISHIELD|95
+989|Neralekere PHC CoV|Hosakere Road Neralekere PHC Madugiri Taluk Tumakuru District|Tumkur|572132|COVISHIELD|95
+990|Chikkakunnala PHC CoV|Chikkakunnala PHC Gubbi Taluk Tumkur District|Tumkur|572219|COVISHIELD|95
+991|THEREDAKUPPE PHC CoV|THEREDAKUPPE PHC KUNIGAL TALUK|Tumkur|572120|COVISHIELD|95
+992|KOTTIGEGOLLAHALLI PHC CoV|KOTTIGEGOLLAHALLI PHC TUMKUR TALUK|Tumkur|572104|COVISHIELD|95
+993|Madenahalli PHC CoV|Madenahalli PHC GUBBI TALUK|Tumkur|572216|COVISHIELD|95
+994|Chirathahalli PHC CoV|Chirathahalli PHC Sira Taluk Tumakuru District|Tumkur|572113|COVISHIELD|95
+995|Kallur PHC CoV|Kallur PHC Gubbi Taluk Tumkur District|Tumkur|572220|COVISHIELD|95
+996|Shettihalli Gate UPHC CoV|Shettihalli Gate UPHC Tumkur Taluk Tumkur District|Tumkur|572102|COVISHIELD|95
+997|KUPPALASHETTYHALLI PHC CoV|Kuppalashettyhalli PHC Tiptur Taluk|Tumkur|572114|COVISHIELD|95
+998|Nittur PHC CoV|Nittur PHC Gubbi Taluk Tumkur District|Tumkur|572223|COVISHIELD|95
+999|Chowdanakuppe PHC CoV|Chowdanakuppe PHC Kunigal Taluk Tumkur District|Tumkur|572123|COVISHIELD|95
+1000|Tovinakere PHC CoV|Thovinkere Koratagere Taluk Tumakuru District|Tumkur|572138|COVISHIELD|95
+1001|I D Halli PHC CoV|Hindupura Road I D Halli PHC Madugiri Taluk Tumakuru District|Tumkur|572124|COVISHIELD|95
+1003|Vaddagere PHC CoV|Koratager Taluk Vaddagere PHC Tumakuru Distirct|Tumkur|572129|COVISHIELD|95
+1002|Koddigenahalli PHC CoV|Hindupura Road Koddigenahalli PHC Madugiri Taluk Tumakuru District|Tumkur|572127|COVISHIELD|95
+1004|Kodlapura PHC CoV|Purvara Road Kodlapura PHC Madugiri Taluk Tumakuru District|Tumkur|572175|COVISHIELD|95
+1005|SOMALAPURA PHC CoV|SOMALAPURA PHC GUBBI TALUK|Tumkur|572223|COVISHIELD|95
+1006|Kunigal UPHC CoV|Kunigal Urban Health Center|Tumkur|572130|COVISHIELD|95
+1007|Kallambella PHC CoV|Kallambella PHC Sira Taluk Tumakuru District|Tumkur|572125|COVISHIELD|95
+1008|Tiptur UPHC CoV|Tiptur Urban Health Center Tiptur|Tumkur|572201|COVISHIELD|95
+1009|Thondgere PHC CoV|THONDGERE PHC TUMKUR TALUK|Tumkur|572120|COVISHIELD|95
+1010|Madluru PHC CoV|Pattanayakanahalli PHC Sira Taluk Tumakuru District|Tumkur|572135|COVISHIELD|95
+1011|Tavarekere PHC CoV KUN|THEREDAKUPPE Kunigal Taluk|Tumkur|572123|COVISHIELD|95
+1012|Tavarekere PHC CoV|Tavarekere PHC Sira Taluk Tumakuru District|Tumkur|572139|COVISHIELD|95
+1013|HURALAGERE PHC CoV|HURALAGERE PHC GUBBI TALUK|Tumkur|572213|COVISHIELD|95
+1014|HONNUDIKE PHC CoV|Honnudike PHC Tumkur Taluk Tumkur District|Tumkur|572122|COVISHIELD|95
+1016|Banasandra PHC CoV|Turuvekere Road Banasandra PHC Turuverkere Taluk Tumakur District|Tumkur|572212|COVISHIELD|95
+1015|SIDDGANGAMATTA PHC CoV|SIDDGANGAMATTA PHC TUMKUR TALUK|Tumkur|572104|COVISHIELD|95
+1017|Gomaradhanahalli PHC CoV|Gomaradhanahalli|Tumkur|572139|COVISHIELD|95
+1018|YALANADU PHC Cov|Yalanadu Chikkanayakanahalli Taluk|Tumkur|572218|COVISHIELD|95
+1019|Aralaguppe PHC CoV|Nonnavinakere Road Tiptur Taluk Tumakuru District|Tumkur|572212|COVISHIELD|95
+1020|Kuripalya UPHC CoV|Kuripalya UPHC Tumkur Taluk Tumkur District|Tumkur|572101|COVISHIELD|95
+1021|Nagavalli PHC CoV|Nagavalli PHC Tumkur Taluk Tumkur District|Tumkur|572118|COVISHIELD|95
+1022|MASKAL PHC CoV|MASKAL PHC TUMKUR TALUK|Tumkur|572122|COVISHIELD|95
+1023|Turuvekere TH 1|Tiptur Road Turuvekere TH Turuverkere Taluk Tumakur District|Tumkur|572227|COVISHIELD|95
+1024|Koratagere TH CoVA|Koratagere TALUK HOSPITAL KORATAGERE|Tumkur|572129|COVAXIN|95
+1025|Bellavi PHC CoV|Bellavi PHC Tumkur Taluk Tumkur District|Tumkur|572107|COVISHIELD|95
+1026|Sugur PHC CoV|Kurubanahalli Road District|Tumkur|572224|COVISHIELD|95
+1027|Dabbegatta PHC CoV|Turuvekere Road Dabbegatta PHC Turuverkere Taluk Tumakur District|Tumkur|572227|COVISHIELD|95
+1028|Madhugiri TH CoVA|Madhugiri TALUK HOSPITAL MADHUGIRI|Tumkur|572132|COVAXIN|95
+1029|Panjiganahalli PHC CoV|Panjiganahalli PHC Sira Taluk Tumakuru District|Tumkur|572139|COVISHIELD|95
+1030|Rangapura PHC CoV|Tiptur Road Rangapura Tiptur Taluk Tumakuru District|Tumkur|572201|COVISHIELD|95
+1031|Gondihalli PHC CoV|Koddigenahalli Road Gondihalli PHC Madugiri Taluk Tumakuru District|Tumkur|572175|COVISHIELD|95
+1032|Honnavalli PHC CoV|Honnavalli PHC Tiptur Taluk Tumakur Distsrict|Tumkur|572217|COVISHIELD|95
+1033|Shettikere PHC CoV|Shettikere PHC CN Halli Taluk Tumkuru Distirct|Tumkur|572226|COVISHIELD|95
+1034|Thalkere PHC CoV|THALAKERE PHC TURVEKERE TALUK|Tumkur|572227|COVISHIELD|95
+1035|Dasudi PHC CoV|Dasudi PHC CN Halli Taluk Tumkuru Distirct|Tumkur|572218|COVISHIELD|95
+1036|Godekere PHC CoV|Godekere PHC CN Halli Taluk Tumkuru Distirct|Tumkur|572214|COVISHIELD|95
+1037|Mathighatta PHC CoV|Mathighatta PHC C N Halli Taluk Tumakuru District|Tumkur|572119|COVISHIELD|95
+1038|Lingadahalli PHC CoV|Arsikere Road Lingadahalli PHC Pavaga Taluk Pavaga Distirct|Tumkur|561202|COVISHIELD|95
+1039|Madhugiri TH|P T Road Madhugiri TH Madugiri Taluk Tumakuru District|Tumkur|572132|COVISHIELD|95
+1040|Kunigal TH CoVA|Kunigal TALUK HOSPITAL BM ROAD KUNIGAL|Tumkur|572130|COVAXIN|95
+1041|Tiptur TH CoVA|Tiptur TALUK HOSPITAL BH ROAD TIPTUR|Tumkur|572201|COVAXIN|95
+1042|Guluru PHC CoV|Guluru PHC Tumkur Taluk Tumkur District|Tumkur|572118|COVISHIELD|95
+1043|TIPPUR PHC CoV|TIPPUR PHC GUBBI TALUK|Tumkur|572216|COVISHIELD|95
+1044|Akkirampura PHC CoV|Koratagere Akkirampura PHC Koratagere Taluk Tumakuru District|Tumkur|572121|COVISHIELD|95
+1045|Venkatapura PHC CoV|Mangalavada Road K T Halli PHC Pavaga Taluk Pavaga Distirct|Tumkur|561202|COVISHIELD|95
+1046|M N KOTE CHC COV|M N KOTE CHC GUBBI TALUK|Tumkur|572223|COVISHIELD|95
+1047|Halkurike PHC CoV|Tiptur Road Tiptur Taluk Tumakur Distsrict|Tumkur|572201|COVISHIELD|95
+1048|Tiptur TH|Arasikere NH-4 Road Tiptur Tumakuru District|Tumkur|572201|COVISHIELD|95
+1049|Thimmanahalli PHC CoV|Kandikere Road Thimmanahalli PHC CN Halli Taluk Tumkuru Distirct|Tumkur|572228|COVISHIELD|95
+1050|Kuppur PHC CoV|KUPPURU PHC CN Halli Taluk Tumkuru Distirct|Tumkur|572226|COVISHIELD|95
+1051|Huliyar PHC CoV|Hosdurga Road Huliyar PHC CN Halli Taluk Tumkuru Distirct|Tumkur|572218|COVISHIELD|95
+1052|Sira TH|Sira TH Sira Taluk Tumakuru District|Tumkur|572137|COVISHIELD|95
+1053|Adalagere PHC CoV|Adalagere PHC Gubbi Taluk Tumkur District|Tumkur|572223|COVISHIELD|95
+1054|Bhaktharahalli PHC CoV|Bhaktharahalli PHC Kunigal Taluk Tumkur District|Tumkur|572120|COVISHIELD|95
+1055|Sira UPHC CoV|Sira UPHC Sira Taluk Tumakuru District|Tumkur|572137|COVISHIELD|95
+1056|Yalachegere PHC COV|Nelamangala Road Yalachegere PHC Koratagere Taluk Tumakuru District|Tumkur|572140|COVISHIELD|95
+1057|Biligere PHC CoV|BH Road Beigere Tiptur Taluk Tumakuru District|Tumkur|572114|COVISHIELD|95
+1058|Hoskere PHC CoV|Hoskere PHC Gubbi Taluk Tumkur District|Tumkur|572222|COVISHIELD|95
+1059|Kadaba PHC CoV|Kadaba PHC Gubbi Taluk Tumkur District|Tumkur|572219|COVISHIELD|95
+1060|Ankanahallimata SC CoV|Ankanahallimata|Tumkur|572123|COVISHIELD|95
+1061|Pavagada TH CoVA|Pavagada TTALUK HOSPITAL PAVAGADA|Tumkur|561202|COVAXIN|95
+1062|Tirumani CHC CoV|Hindupura Road Tirumani CHC Pavaga Taluk Pavaga Distirct|Tumkur|572136|COVISHIELD|95
+1063|Handanakere PHC CoV|Hosdurga Road Handanakere PH CN Halli Taluk Tumkuru Distirct|Tumkur|572119|COVISHIELD|95
+1064|Nonavinakere PHC CoV|Tiptur Road Nonavinakere PHC Tiptur Taluk Tumakur District|Tumkur|572224|COVISHIELD|95
+1065|Kesthur PHC CoV|Kesthur PHC Tumkur Taluk Tumkur District|Tumkur|572138|COVISHIELD|95
+1066|Theetha PHC CoV|Doddasagara Road Theetha PHC Koratagere Taluk Tumakuru District|Tumkur|572129|COVISHIELD|95
+1067|Bhukkapattana PHC CoV|Bhukkapattana PHC Sira Taluk Tumakuru District|Tumkur|572115|COVISHIELD|95
+1068|Kolala PHC CoV|Koratagere Road Kolala PHC Koratagere Taluk Tumakuru District|Tumkur|572140|COVISHIELD|95
+1069|Neralagudda PHC CoV|Bhukkapattana PHC Sira Taluk Tumakuru District|Tumkur|572115|COVISHIELD|95
+1070|Thyagaturu PHC COV|Thyagaturu PHC Gubbi Taluk Tumkur District|Tumkur|572223|COVISHIELD|95
+1071|Sampige PHC CoV|Nittur Road Sampige PHC Turuverkere Taluk Tumakur District|Tumkur|572225|COVISHIELD|95
+1072|HALAPANAGUDDA PHC CoV|HALAPANAGUDDA PHC KUNIGAL TALUK|Tumkur|572130|COVISHIELD|95
+1073|Baragur PHC CoV|Baragur PHC Sira Taluk Tumakuru District|Tumkur|572113|COVISHIELD|95
+1074|Chelur PHC CoV|Chelur PHC Gubbi Taluk Tumkur District|Tumkur|572117|COVISHIELD|95
+1075|Kunigal TH|Kunigal TH Kunigal Taluk Tumkur District|Tumkur|572130|COVISHIELD|95
+1076|KHITANAGAMANGALA PHC CoV|KHITANAGAMANGALA PHC KUNIGAL TALUK|Tumkur|572130|COVISHIELD|95
+1077|C K Pura PHC 1 CoV|C K Pura PHC Pavaga Taluk Pavaga Distirct|Tumkur|572116|COVISHIELD|95
+1078|Halepalya PHC CoV|Annapura Road Tiptur Taluk Tumakuru District|Tumkur|572201|COVISHIELD|95
+1079|K T Halli PHC CoV|Mangalavada Road K T Halli PHC Pavaga Taluk Pavaga Distirct|Tumkur|572116|COVISHIELD|95
+1080|DODDAYENNEGERE PHC CoV|DODDAYENNEGERE|Tumkur|572119|COVISHIELD|95
+1081|IPPADI PHC CoV|IPPADI Kunigal Taluk|Tumkur|572126|COVISHIELD|95
+1082|YELACHIGERE PHC CoV1|Yelachigere PHC Koratagere Taluk|Tumkur|572140|COVISHIELD|95
+1083|C S Pura PHC CoV|C S PURA PHC  GUBBI TALUK TUMKUR DIST|Tumkur|572213|COVISHIELD|95
+1084|Yadavani PHC CoV|Yadavani PHC Kunigal Taluk Tumkur District|Tumkur|572111|COVISHIELD|95
+1085|Dwaranakunte PHC CoV|Dwaranakunte PHC Sira Taluk Tumakuru District|Tumkur|572135|COVISHIELD|95
+1086|Hosakere PHC CoV|Neralekere Road Hosakere PHC Madugiri Taluk Tumakuru District|Tumkur|572132|COVISHIELD|95
+1087|Koratagere TH|Madhugiri Road Koratagere TH Koratagere Taluk Tumakuru District|Tumkur|572129|COVISHIELD|95
+1088|Tarur PHC CoV|Tarur PHC Sira Taluk Tumakuru District|Tumkur|572125|COVISHIELD|95
+1089|Kottagudda PHC CoV|Lingdahalli Road Kottagudda PHC Pavaga Taluk Pavaga Distirct|Tumkur|561202|COVISHIELD|95
+1090|UJJANI PHC Cov|PRIMARY HEALTH CENTRE UJJANI KUNIGAL TALUK|Tumkur|572123|COVISHIELD|95
+1091|KANDIKERE PHC CoV|C N Halli Road Kandikere PHC CN Halli Taluk Tumkuru Distirct|Tumkur|572228|COVISHIELD|95
+1092|GUBEHALLI PHC CoV|Goobehalli PHC Chikkanayakanahalli Taluk|Tumkur|572119|COVISHIELD|95
+1093|Holavanahalli PHC CoV|Koratagere Road Holavanahalli PHC Koratagere Taluk Tumakuru District|Tumkur|572121|COVISHIELD|95
+1094|Shettigondanahalli PHC CoV|Nagsandra Road Shettigondanahalli PHC Turuverkere Taluk Tumakur District|Tumkur|572213|COVISHIELD|95
+1095|BALUVANERLU PHC CoV|BALUVANERLU PHC Tiptur Taluk|Tumkur|572217|COVISHIELD|95
+1096|Bukkapatna PHC CoV|Tovinkere Main Road Bukkapatna PHC Koratagere Taluk Tumakuru District|Tumkur|572129|COVISHIELD|95
+1097|ALILUGHATTA PHC COV1|ALILUGHATTA PHC GUBBI TALUK|Tumkur|572222|COVISHIELD|95
+1098|District Hospital Tumkur|BH Road Tumkur Town|Tumkur|572101|COVISHIELD|95
+1099|Guligenahalli PHC CoV|Guligenahalli PHC Sira Taluk Tumakuru District|Tumkur|572137|COVISHIELD|95
+1100|Ramagondanahalli PHC CoV|Ramagondanahalli PHC Tumkur Taluk Tumkur District|Tumkur|572128|COVISHIELD|95
+1101|Kothitope UPHC COV|Kotitope UPHC Tumkur Taluk Tumkur District|Tumkur|572102|COVISHIELD|95
+1102|Sira TH CoVA|Sira TALUK HOSPITAL SIRA TOWN SIRA|Tumkur|572137|COVAXIN|95
+1103|SANTHEMAVATHUR PHC CoV|SANTHEMAVATHUR PHC KUNIGAL TALUK|Tumkur|572130|COVISHIELD|95
+1104|BIDARE PHC CoV|BIDARE PHC GUBBI TALUK|Tumkur|572117|COVISHIELD|95
+1105|Machenahalli PHC CoV|Hamsandra Road Machenahalli PHC Turuverkere Taluk Tumakur District|Tumkur|572215|COVISHIELD|95
+1106|Mavinakere PHC CoV|Mayasadra Road Mavinakere PHC Turuverkere Taluk Tumakur District|Tumkur|572221|COVISHIELD|95
+1107|Mallasandra PHC CoV|Mallasandra PHC Tumkur Taluk Tumkur District|Tumkur|572107|COVISHIELD|95
+1108|Gubbi TH CoVA|Gubbi TALUK HOSPITAL B H ROAD GUBBI|Tumkur|572216|COVAXIN|95
+1109|Pattanayakanahalli PHC CoV|Pattanayakanahalli PHC Sira Taluk Tumakuru District|Tumkur|572135|COVISHIELD|95
+1110|Mavinahalli PHC CoV|Mavinahalli PHC Gubbi Taluk Tumkur District|Tumkur|572213|COVISHIELD|95
+1111|Siragatte UPHC CoV|Siragatte UPHC Tumkur Taluk Tumkur District|Tumkur|572106|COVISHIELD|95
+1112|HOYSALAKATTE PHC CoV|HOYSALAKATTE C N Halli Taluk|Tumkur|572104|COVISHIELD|95
+1113|Pavagada TH|Chitradurga Road Pavagada TH Pavaga Taluk Pavaga Distirct|Tumkur|561202|COVISHIELD|95
+1114|Medigeshi PHC CoV|P T Road Medigeshi PHC Madugiri Taluk Tumakuru District|Tumkur|572133|COVISHIELD|95
+1115|Amruturu CHC CoV|Amruturu CHC Kunigal Taluk Tumkur District|Tumkur|572111|COVISHIELD|95
+1116|BYRENAHALLY PHC CoV 1|Byrenahalli PHC Koratagere Taluk|Tumkur|572121|COVISHIELD|95
+1117|H.L.KSHETRA PHC CoV|H L Kshetra PHC Tiptur Taluk|Tumkur|572224|COVISHIELD|95
+1118|Kavandala PHC CoV|Tumkur Road Kavandala PHC Madugiri Taluk Tumakuru District|Tumkur|572112|COVISHIELD|95
+1119|Urdigere PHC CoV|PRIMARY HEALTH CENTER Urdigere Tumkur Taluk|Tumkur|572140|COVISHIELD|95
+1120|HEBBUR PHC CoV|Hebbur PHC Tumkur Taluk Tumkur District|Tumkur|572120|COVISHIELD|95
+1121|Dodderi PHC CoV|Sira Road Dodderi PHC Madugiri Taluk Tumakuru District|Tumkur|572112|COVISHIELD|95
+1122|Bhramasandra PHC CoV|Bhramasandra PHC Sira Taluk Tumakuru District|Tumkur|572125|COVISHIELD|95
+1123|SIDDARAMADEVARAPALYA PHC CoV|SIDDARAMADEVARAPALYA Tiptur Taluk|Tumkur|572201|COVISHIELD|95
+1124|Theerthapura PHC COV 2|Theerthapura PHC CN HALLI TALUK TUMKURU DISTRICT|Tumkur|572214|COVISHIELD|95
+1125|Turuvekere TH CoVA|Turuvekere TALUK HOSPITAL FLW R|Tumkur|572227|COVAXIN|95
+1126|Doddaguni PHC CoV|Doddaguni PHC Gubbi Taluk Tumakuru District|Tumkur|572211|COVISHIELD|95
+1128|Bannithalapura PHC Covax|Near Mahadeshwara Temple Bannithalapura|Chamarajanagar|571111|COVAXIN|95
+1129|Hundipura PHC Covishield|Main Road Hundipura|Chamarajanagar|571111|COVISHIELD|95
+1130|Ummathuru PHC Covaxin|Nanjanagudu Main Road Ummathuru|Chamarajanagar|571316|COVAXIN|95
+1131|Kaggaladahundi PHC Covax|Mysore Calicut Main Road|Chamarajanagar|571111|COVAXIN|95
+1132|Hasaguli PHC Covaxin|Near Milk Dairy Hasaguli|Chamarajanagar|571111|COVAXIN|95
+1133|Gumballi PHC|B R Hills Main Road Karuna Trust Uppinamole|Chamarajanagar|571441|COVISHIELD|95
+1134|Ramapura PHC Covishield|M M Hills Main Road Ramapura|Chamarajanagar|571444|COVISHIELD|95
+1135|Madapattana PHC Covishield|Kabbahalli Main Road Madapattana|Chamarajanagar|571109|COVISHIELD|95
+1136|Hasaguli PHC Covishiled|Near Milk Dairy Hasaguli|Chamarajanagar|571111|COVISHIELD|95
+1137|Cowdalli PHC|M M Hills Main Road Cowdalli|Chamarajanagar|571320|COVISHIELD|95
+1138|Bommalapura1 PHC Covishiled|Bachahalli Main Road Bommalapura|Chamarajanagar|571111|COVISHIELD|95
+1139|Nenekatte PHC Covishield|Main Road Nenekatte|Chamarajanagar|571111|COVISHIELD|95
+1140|Bachahalli PHC|Near Bus Stand Bachahalli|Chamarajanagar|571111|COVISHIELD|95
+1141|Ranganathapura PHC|Main Road Ranganathapura|Chamarajanagar|571109|COVISHIELD|95
+1142|Palya PHC 1|Uganiya Main Road Palya|Chamarajanagar|571440|COVISHIELD|95
+1143|Kollegal UHC Covaxin|Basaveshwara Nagar Kollegal|Chamarajanagar|571440|COVAXIN|95
+1144|Honnuru PHC Covaxin|Mellahalli Gate Main Road Honnuru|Chamarajanagar|571441|COVAXIN|95
+1145|Kaggaladahundi PHC Covishiled|Mysore Calicut Main Road|Chamarajanagar|571111|COVISHIELD|95
+1147|Horeyala PHC Covishield|Near PAACS Society Horeyala|Chamarajanagar|571109|COVISHIELD|95
+1146|Gundlupet TH Covaxin|Main Road Gundlupet|Chamarajanagar|571111|COVAXIN|95
+1148|Gumballi PHC Covaxin|B R Hills Main Road Karuna Trust Uppinamole|Chamarajanagar|571441|COVAXIN|95
+1149|Kollegal UHC COVISHIELD|Basaveshwara Nagar Kollegal|Chamarajanagar|571440|COVISHIELD|95
+1150|Kodasoge PHC Covishield|Main Road Kodasoge|Chamarajanagar|571111|COVISHIELD|95
+1151|Gundlupet TH Covishield|Main Road Gundlupet|Chamarajanagar|571111|COVISHIELD|95
+1152|Ramapura PHC Covax|M M Hills Main Road Ramapura|Chamarajanagar|571444|COVAXIN|95
+1153|Therakanambi PHC Covax|Gundlupet Main Road Therakanambi|Chamarajanagar|571123|COVAXIN|95
+1154|Madhuvanahalli PHC|Hanuru Main Road Madhuvanahalli|Chamarajanagar|571440|COVISHIELD|95
+1155|Heggadahalli PHC Covishiled|Near Post Office Heggadahalli|Chamarajanagar|571109|COVISHIELD|95
+1156|Gowdalli PHC Covishield|Main Road Gowdalli|Chamarajanagar|571441|COVISHIELD|95
+1157|Yelanduru TH Covaxin|Kollegal Main Road Yelanduru|Chamarajanagar|571441|COVAXIN|95
+1158|GUNDLUPET-D SC Covishield|2nd Anganawadi Nayaka Street|Chamarajanagar|571111|COVISHIELD|95
+1159|Beguru CHC Covishield|Nanjanagudu Main Road Beguru|Chamarajanagar|571109|COVISHIELD|95
+1160|Kollegal TH Covishield|B R Ambedkar Main Road Kollegal|Chamarajanagar|571440|COVISHIELD|95
+1161|Agara Mamballi PHC Covax|Kollegal Main Road Agara Mamballi|Chamarajanagar|571442|COVAXIN|95
+1162|Madapattana PHC Covaxin|Kabbahalli Main Road Madapattana|Chamarajanagar|571109|COVAXIN|95
+1163|Kuderu PHC|Near Private Bus Stand Kuderu|Chamarajanagar|571316|COVISHIELD|95
+1164|Padaguru PHC Covaxin|Near Govt Primary School Padaguru|Chamarajanagar|571123|COVAXIN|95
+1165|Horeyala PHC Covaxin|Near PAACS Society Horeyala|Chamarajanagar|571109|COVAXIN|95
+1166|Ummathuru PHC COVISHIELD|Nanjanagudu Main Road Ummathuru|Chamarajanagar|571316|COVISHIELD|95
+1167|Nenekatte PHC Covax|Main Road Nenekatte|Chamarajanagar|571111|COVAXIN|95
+1168|Heggadahalli PHC Covax|Near Post Office Heggadahalli|Chamarajanagar|571109|COVAXIN|95
+1169|Padaguru PHC Covishield|Near Govt Primary School Padaguru|Chamarajanagar|571123|COVISHIELD|95
+1170|Bommalapura PHC Covax|Bachahalli Main Road Bommalapura|Chamarajanagar|571111|COVAXIN|95
+1171|Gumballi PHC 2|V G K K Hospital B R Hills|Chamarajanagar|571441|COVISHIELD|95
+1172|Honnuru PHC Covishield|Mellahalli Gate Main Road Honnuru|Chamarajanagar|571441|COVISHIELD|95
+1173|Beguru CHC Covax|Nanjanagudu Main Road Beguru|Chamarajanagar|571109|COVAXIN|95
+1174|Ranganathapura PHC Covax|Main Road Ranganathapura|Chamarajanagar|571109|COVAXIN|95
+1175|Therakanambi PHC Covishield|Gundlupet Main Road Therakanambi|Chamarajanagar|571123|COVISHIELD|95
+1176|Kollegal GH Covaxin|B R Ambedkar Main Road Kollegal|Chamarajanagar|571440|COVAXIN|95
+1177|Agara Mamballi PHC|Kollegal Main Road Agara Mamballi|Chamarajanagar|571441|COVISHIELD|95
+1178|Yelanduru TH Covishield|Kollegal Main Road Yelanduru|Chamarajanagar|571441|COVISHIELD|95
+1179|Chilakawadi PHC Covishiled|Mysore Main Road Chilakawadi|Chamarajanagar|571442|COVISHIELD|95
+1180|Lokkanahalli PHC Covishiled|Odeyarapalya Main Road Lokkanahalli|Chamarajanagar|571440|COVISHIELD|95
+1181|Gowdalli PHC Covaxin|Near Grama Panchayat Gowdalli|Chamarajanagar|571441|COVAXIN|95
+1182|Kodasoge PHC Covaxin|Main Road Kodasoge|Chamarajanagar|571111|COVAXIN|95
+1183|Gejjelanatha SC Covishield|Near Mata Gejjaelenatha|Chamarajanagar|571444|COVISHIELD|95
+1184|District Hospital CKM|Aralaguppe Mallegowda District Hospital Chikkamagaluru|Chikamagalur|577101|COVISHIELD|95
+1185|Begaru PHC|Primary Health Centre Begaru Sringeri Taluk Chikamagalur District|Chikamagalur|577120|COVISHIELD|95
+1186|District Hospital|Aralaguppe Mallegowda District Hospital Chikkamagaluru|Chikamagalur|577101|COVAXIN|95
+1187|Chintamani TH|Chintamani TH M G Road Chintamani Taluk Chikkaballapur District|Chikkaballapur|563125|COVISHIELD|95
+1188|Chikkaballapur UPHC|Chikkaballapur UPHC Ward-31 Vapasandra Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562101|COVISHIELD|95
+1189|Darinayakanapalya PHC|Darinayakanapalya PHC Opposite Anjaneyaswamy Temple Darinayakanapalya Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561206|COVISHIELD|95
+1190|Chintamani UHC|Chintamani UPHC Shanthinagar Chintamani Taluk Chikkaballapur District|Chikkaballapur|563125|COVISHIELD|95
+1191|Nayanahalli PHC|Nayanahalli PHC Sidlaghatta Main Road Nayanahalli Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562101|COVISHIELD|95
+1192|Allipura PHC|Allipura PHC I K Road Allipura Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561213|COVISHIELD|95
+1193|Nagaragere PHC|Nagaragere PHC Near Police Station Nagaragere Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561228|COVAXIN|95
+1194|Vidhurashwatha PHC|Vidhurashwatha PHC Vidhurashwatha Temple Street Vidhurashwatha Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561208|COVISHIELD|95
+1195|Nakkalahalli PHC|Nakkalahalli PHC Opposite Government High School Nakkalahalli Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561228|COVISHIELD|95
+1196|Marganakunte PHC|Marganakunte PHC Opposite Government School Marganakunte Bagepalli Taluk Chikkaballapur District|Chikkaballapur|561207|COVISHIELD|95
+1197|Gulur CHC|Gulur CHC SBI Road Gulur Bagepalli Taluk Chikkaballapur District|Chikkaballapur|561207|COVISHIELD|95
+1198|Julapalya PHC|Julapalya PHC Near Poleramma School Julapalya Bagepalli Taluk Chikkaballapur District|Chikkaballapur|561207|COVISHIELD|95
+1199|Hemarlahalli PHC|Hemarlahalli PHC H Cross Road Hemarlahalli Sidlaghatta Taluk Chikkaballapur District|Chikkaballapur|562102|COVISHIELD|95
+1200|Hudugur PHC|Hudugur PHC Bagepalli Road Hudugur Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561206|COVAXIN|95
+1201|Mittemari PHC|Mittemari PHC Chintamani Main Road Mittemari Bagepalli Taluk Chikkaballapur District|Chikkaballapur|561207|COVISHIELD|95
+1202|Nandi PHC|Nandi PHC Opposite Government School Nandi Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562101|COVISHIELD|95
+1203|Namagondlu PHC|Namagondlu PHC Darinayakanapalya Hobli Namagondlu Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561206|COVISHIELD|95
+1204|Cheluru PHC|Chelur PHC Chintamani Main Road Chelur Bagepalli Taluk Chikkaballapur District|Chikkaballapur|563124|COVISHIELD|95
+1205|Chikballapur District Hospital|Chikkaballapur DH Opposite Maheshwari Complex Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562101|COVISHIELD|95
+1206|Shivapura PHC|Shivapura PHC Chakavelu Road Shivapura Bagepalli Taluk Chikkaballapur District|Chikkaballapur|561212|COVISHIELD|95
+1207|Peresandra PHC|Peresandra PHC Opposite Canara Bank Peresandra Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562104|COVISHIELD|95
+1208|District Hospital Cbpur|Chikkaballapur DH Opposite Maheshwari Complex Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562101|COVAXIN|95
+1209|Dibburahalli PHC|Dibburahalli PHC Near Theatre Dibburahalli Sidlaghatta Taluk Chikkaballapur District|Chikkaballapur|562105|COVISHIELD|95
+1210|Pathapalya PHC|Pathapalya PHC Chelur Main Road Pathapalya Bagepalli Taluk Chikkaballapur District|Chikkaballapur|561212|COVISHIELD|95
+1211|Ganjigunte PHC|Ganjigunte PHC Old Ganjigunte Road Ganjigunte Sidlaghatta Taluk Chikkaballapur District|Chikkaballapur|563125|COVISHIELD|95
+1212|Billur PHC|Billur PHC Chakavelu Road Billur Bagepalli Taluk Chikkaballapur District|Chikkaballapur|563124|COVISHIELD|95
+1213|Bashettihalli PHC|Bashettihalli PHC Dibburahalli Main Road Bashettihalli Sidlaghatta Taluk Chikkaballapur District|Chikkaballapur|562105|COVISHIELD|95
+1214|Mandikal PHC|Mandikal PHC Opposite Naada Kacheri Mandikal Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562104|COVISHIELD|95
+1215|Bagepalli TH|Bagepalli TH DVG Road Bagepalli Taluk Chikkaballapur District|Chikkaballapur|561207|COVISHIELD|95
+1216|Kotagal PHC|Kotagal Kencharlahalli PHC Chintamani Taluk Chikkaballapur District|Chikkaballapur|563125|COVISHIELD|95
+1218|Egalitihalli Thimmasandra PHC|Egalitihalli Thimmasandra PHC Dibburahalli Main Road Egalitihalli Thimmasandra Sidlaghatta Taluk Chikkaballapur District|Chikkaballapur|563159|COVISHIELD|95
+1219|Dibbur PHC|Dibbur PHC Near Government School Dibbur Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562101|COVISHIELD|95
+1217|Kurudi PHC|Kurudi PHC Near Government School Kurudi Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561210|COVISHIELD|95
+1220|Gedare PHC|Gedare PHC Allipur Road Gedare Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561213|COVISHIELD|95
+1221|Muddenahalli PHC|Muddenahalli PHC Near Sathya Sai Ashram Sathya Sai Gram Muddenahalli Chikkaballapur Taluk Chikkaballapur District|Chikkaballapur|562101|COVISHIELD|95
+1222|Beechaganahalli PHC|Beechaganahalli PHC Near Narasimhaswamy Temple Gudibande Taluk Chikkaballapur District|Chikkaballapur|561209|COVISHIELD|95
+1223|Hossur PHC|Hossur PHC Near Bus Stand Road Hossur Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561210|COVISHIELD|95
+1224|Alakapura PHC|Alakapura PHC Opposite Someshwara Temple Alakapura Gowribidanur Taluk Chikkaballapur District|Chikkaballapur|561213|COVISHIELD|95
+1225|Chakavelu PHC|Chakavelu PHC Chelur Main Road Chakavelu Bagepalli Taluk Chikkaballapur District|Chikkaballapur|563124|COVISHIELD|95
+1226|G Maddepalli Cross PHC|Guttapalya Maddepalli Cross PHC Thimmampalli Road Guttapalya Maddepalli Cross Bagepalli Taluk Chikkaballapur District|Chikkaballapur|561207|COVISHIELD|95
+1227|Molalkalmuru TH Covishield|Genral Hospital Road|Chitradurga|577535|COVISHIELD|95
+1228|Pandrahalli PHC.|Pandrahalli|Chitradurga|577555|COVISHIELD|95
+1229|Doddasiddavanahalli PHC|Doddasiddavanahalli|Chitradurga|577524|COVISHIELD|95
+1230|HANGAL|HANGAL|Chitradurga|577535|COVISHIELD|95
+1231|Chitradurga DTC TV|District Hospital|Chitradurga|577501|COVAXIN|95
+1232|Yalagodu CCP|Yalagodu|Chitradurga|577521|COVISHIELD|95
+1233|Nagasamudra A|Nagasamudra Main Road|Chitradurga|577535|COVISHIELD|95
+1234|Molalkalmuru TH Cowaxin|Molalkalmuru|Chitradurga|577535|COVAXIN|95
+1235|RAMPURA 18-44|RAMPURA|Chitradurga|577540|COVISHIELD|95
+1236|Bharamasagar CHC|Chitradurga Road|Chitradurga|577519|COVISHIELD|95
+1237|Budha Nagara UPHC|Budda Nagar|Chitradurga|577501|COVISHIELD|95
+1238|DEVASAMUDRA|DEVASAMUDRA|Chitradurga|577540|COVISHIELD|95
+1239|Haikal PHC|Haikal|Chitradurga|577517|COVISHIELD|95
+1240|Bharamasagara CHC 1|Bharamasagra Road|Chitradurga|577522|COVAXIN|95
+1241|KOGUNDE PHC|KOGUNDE PHC|Chitradurga|577519|COVISHIELD|95
+1242|Kyasapura PHC 1|Kyasapura|Chitradurga|577520|COVAXIN|95
+1243|Lakshmisagara Vijapura CCP|Lakshmisagara Vijapura|Chitradurga|577541|COVISHIELD|95
+1244|Hiriyur UPHC|Hiriyur|Chitradurga|577598|COVISHIELD|95
+1245|Chikkagondanahalli PHC|Chikkagondanahalli|Chitradurga|577502|COVISHIELD|95
+1246|Pandrahalli PHC 1|Chitrahalli Main Road|Chitradurga|577555|COVAXIN|95
+1247|Nagasamdura PHC|Nagasamudra Main Road|Chitradurga|577535|COVISHIELD|95
+1248|Guddadarangavanahalli PHC|Guddadarangavanahalli|Chitradurga|577502|COVISHIELD|95
+1249|Maruthi Nagara UPHC|JCR Road|Chitradurga|577501|COVISHIELD|95
+1250|Hirekerehalli PHC|Rampura Main Road|Chitradurga|577535|COVISHIELD|95
+1251|Nehru Nagar UPHC.|Holalkere Road Chitradurga|Chitradurga|577501|COVISHIELD|95
+1252|Sirigere CCP|Sirigere|Chitradurga|577541|COVISHIELD|95
+1253|Hireguntanur PHC|Hireguntanur|Chitradurga|577520|COVISHIELD|95
+1254|BGKere PHC|Hospital Road B G Kare Road|Chitradurga|577529|COVISHIELD|95
+1255|Srirampura B Ch|Srirampura|Chitradurga|577515|COVISHIELD|95
+1256|Godabanahal CCP|Godabanahal|Chitradurga|577555|COVISHIELD|95
+1257|Rampura CHC Covishield|Ballary Road|Chitradurga|577540|COVISHIELD|95
+1258|Ashok Siddapuara PHC|Moalakamuru Road|Chitradurga|577535|COVISHIELD|95
+1259|KALGERE PHC|KALGERE PHC|Chitradurga|577519|COVISHIELD|95
+1260|Turvanur CCP|Turvanur|Chitradurga|577517|COVISHIELD|95
+1261|Muddapura PHC.|Muddapura|Chitradurga|577521|COVISHIELD|95
+1262|Chitradurga DTC Covishield|Behind Blood Bank District Hospital|Chitradurga|577501|COVISHIELD|95
+1264|Kyasapura PHC|Kyasapura Main Road|Chitradurga|577520|COVISHIELD|95
+1263|Kasavarahatti PHC|Kasavarahatti|Chitradurga|577524|COVISHIELD|95
+1265|Kondlahalli PHC|Konasagara Main Road|Chitradurga|577529|COVISHIELD|95
+1266|Belagatta PHC|Belagatta|Chitradurga|577517|COVISHIELD|95
+1267|UPHC HIRIYUR|UPHC HIRIYUR|Chitradurga|577598|COVISHIELD|95
+1268|Bheemasamudra PHC|Bheemasamudra|Chitradurga|577520|COVISHIELD|95
+1269|MOLAKALMURU-B|MOLAKALMURU-B|Chitradurga|577535|COVISHIELD|95
+1270|DVG BHARATH COLONY COVISHIELD|DVG BHARATH COLONY COVISHIELD|Davanagere|577001|COVISHIELD|95
+1271|JLR PHC Sokke COVISHIELD|Near KEB Office|Davanagere|577528|COVISHIELD|95
+1272|CNGSC Nalkudure COVISHIELD|Nalkudure Channagiri TYAVANIGE|Davanagere|577544|COVISHIELD|95
+1273|CNGSC Kerebilachi-A-COVISHIELD|Kerebilachi-A Channagiri KAREKATTE|Davanagere|577218|COVISHIELD|95
+1274|CNG Tanigere PHC COVISHIELD|CNG Tanigere PHC Channagiri Road|Davanagere|577552|COVISHIELD|95
+1275|Hosalli Sub Center|Hosalli Sub Center|Davanagere|577528|COVISHIELD|95
+1276|CNG Hirekogalru PHC COVISHIELD|CNG Hirekogaluru PHC Near School|Davanagere|577004|COVISHIELD|95
+1277|DVG UFWC 01 COVISHIELD|DVG UFWC 01 COVISHIELD|Davanagere|577001|COVISHIELD|95
+1278|CNG Hebbalagere PHC COVISHIELD|CNG Hebbalagere PHC National Haiway 30|Davanagere|577215|COVISHIELD|95
+1279|DVG NALKUNDA PHC COVISHIELD|DVG NALKUNDA PHC COVISHIELD|Davanagere|577534|COVISHIELD|95
+1280|CNG PHC Mavinakatte COVISHIELD|CNG PHC Mavinakatte Ranganath Swami Compound|Davanagere|577213|COVISHIELD|95
+1281|CNG PHC Hirekogalur COVISHIELD|Hirekogalur Channagiri HIREKOGALUR|Davanagere|577215|COVISHIELD|95
+1282|SSIMS NH 4 Bypass Davanagere|Ramanagara Road Davanagere|Davanagere|577004|COVISHIELD|95
+1283|DVG ALUR PHC COVISHIELD|DVG ALUR PHC COVISHIELD|Davanagere|577512|COVISHIELD|95
+1284|CNG Tavarekere PHC COVISHIELD|CNG Tavarekere PHC Near Police Station|Davanagere|577213|COVISHIELD|95
+1285|DVG UFWC 02 COVISHIELD|DVG UFWC 02 COVISHIELD|Davanagere|577006|COVISHIELD|95
+1286|CNG Thyvanagi PHC COVISHIELD|CNG Thyvanagi PHC Channagiri Road|Davanagere|577544|COVISHIELD|95
+1287|DVG ALURHATTI COVISHIELD-01|DVG ALURHATTI COVISHIELD-01|Davanagere|577512|COVISHIELD|95
+1288|CNG PHC BasavapatanaCovishild|CNG PHC Basavapatana Covaxine Sagar Pete Road|Davanagere|577551|COVISHIELD|95
+1289|CNG Nuggihalli PHC COVISHIELD|CNG Nuggihalli PHC Chikkagangur Road|Davanagere|577221|COVISHIELD|95
+1290|Channagiri TH COVISHIELD|General Hospital Road|Davanagere|577213|COVISHIELD|95
+1291|CNG PHC Kathalagere COVISHIELD|CNG PHC Kathalagere Kathalagere PHC Near Gram Panchayat|Davanagere|577219|COVISHIELD|95
+1292|DVG HKR NAGARA UPHC COVISHIELD|DVG HKR NAGARA UPHC COVISHIELD|Davanagere|577002|COVISHIELD|95
+1293|CNG PHC Gopenahalli COVISHIELD|CNG PHC Gopenahalli COVISHIELD Near Indian Bank|Davanagere|577213|COVISHIELD|95
+1294|HAR PHC HOLESIRIGRE COVISHIELD|HAR PHC HOLESIRIGRE COVISHIELD|Davanagere|577516|COVISHIELD|95
+1295|CNG Pandomatti PHC COVISHIELD|CNG Pandomatti PHC Gopenahalli Road|Davanagere|577213|COVISHIELD|95
+1296|CNG CHC Santhebenur COVISHIELD|Chitradurga Road|Davanagere|577552|COVISHIELD|95
+1297|DVG ANAGODU COVISHIELD|DVG ANAGODU COVISHIELD|Davanagere|577556|COVISHIELD|95
+1298|DVG BASHA NAGAR UPHC COVISHILD|DVG BASHA NAGAR UPHC COVISHILD|Davanagere|577002|COVISHIELD|95
+1299|CNG Kariganur PHC COVISHIELD|CNG Kariganur PHC Near Grampanchayat|Davanagere|577219|COVISHIELD|95
+1300|CNG Daginakatte PHC COVISHIELD|CNG Daginakatte PHC COVISHIELD Honnalli Main Road|Davanagere|577001|COVISHIELD|95
+1301|HAR PHC KOKKANURU COVISHIELD|HAR PHC KOKKANURU COVISHIELD|Davanagere|577530|COVISHIELD|95
+1302|HARIHARA TH COVISHIELD|HARIHARA TH COVISHIELD|Davanagere|577601|COVISHIELD|95
+1303|DVG AZAD NAGAR COVISHIELD|DVG AZAD NAGAR COVISHIELD|Davanagere|577001|COVISHIELD|95
+1304|HAR PHC NGUDI-SC UKKADAGATRI|HAR PHC NGUDI-SC UKKADAGATRI|Davanagere|577213|COVISHIELD|95
+1305|DVG UFWC 03 COVISHIELD|DVG UFWC 03 COVISHIELD|Davanagere|577005|COVISHIELD|95
+1306|JLR PHC Pallagatte COVISHIELD|Pallagatte PHC Near KEB Station|Davanagere|577513|COVISHIELD|95
+1307|CNG PHC ChikaganguruCOVISHIELD|CNG PHC Chikkaganguru COVISHIELD Dummi Road|Davanagere|577215|COVISHIELD|95
+1310|CNGSC Koratikere COVISHIELD|Koratikere Channagiri CHIKKAGANGUR|Davanagere|577215|COVISHIELD|95
+1311|Jagalur TH COVISHIELD|Jagalur Taluk Hospital JAGALURU|Davanagere|577528|COVISHIELD|95
+1308|HAR HARALPRA-SC HARLAPURA A|HAR HARALPRA-SC HARLAPURA A|Davanagere|577601|COVISHIELD|95
+1312|HAR PHC BHANUVALLI COVISHIELD|HAR PHC BHANUVALLI COVISHIELD|Davanagere|577516|COVISHIELD|95
+1309|CNG Nalluru PHC COVISHIELD|CNG Nalluru PHC Main Road Nalluru|Davanagere|577221|COVISHIELD|95
+1313|CNG Devarahalli PHC COVISHIELD|CNG Devarahalli PHC COVISHIELD Channagiri Road|Davanagere|577213|COVISHIELD|95
+1314|DVG NITTUVALLI COVISHIELD-01|DVG NITTUVALLI COVISHIELD-01|Davanagere|577001|COVISHIELD|95
+1315|HAR PHC BELLUDI COVISHIELD|HAR PHC BELLUDI COVISHIELD|Davanagere|577601|COVISHIELD|95
+1316|CNG CHC Kerebilachi COVISHIELD|Channagiri Road|Davanagere|577218|COVISHIELD|95
+1317|CNG Kagathur PHC COVISHIELD|CNG Kagathur PHC Near Grampanchayat|Davanagere|577221|COVISHIELD|95
+1318|CNG PHC Chiradoni COVISHIELD|CNG PHC Chiradoni COVISHIELD Sagar Pete Road|Davanagere|577321|COVISHIELD|95
+1319|DVG SMK NAGAR COVISHIELD-01|DVG SMK NAGAR COVISHIELD-01|Davanagere|577006|COVISHIELD|95
+1320|CNG PHC G K Halli COVISHIELD|G K Halli PHC Near Grampanchayat|Davanagere|577221|COVISHIELD|95
+1321|HAR CHC MALEBENNUR COVISHIELD|HAR CHC MALEBENNUR COVISHIELD|Davanagere|577530|COVISHIELD|95
+1322|CHIGATERI COVAXIN|Near Gundi Circle Davangere|Davanagere|577001|COVAXIN|95
+1323|CNG Kanivebilachi COVISHIELD|CNG Kanivebilachi PHC Sagar Pete Road|Davanagere|577213|COVISHIELD|95
+1324|Channagiri TH COVAXIN|TALUK HOSPITAL CHANNAGIRI|Davanagere|577213|COVAXIN|95
+1325|CNG Hodigere PHC COVISHIELD|CNG Hodigere PHC Beside BSNL Office|Davanagere|577215|COVISHIELD|95
+1326|JLR PHC BasavanakoteCOVISHIELD|Bilichodu Road|Davanagere|577513|COVISHIELD|95
+1327|HAR PHC NANDIGUDI COVISHIELD|HAR PHC NANDIGUDI COVISHIELD|Davanagere|577516|COVISHIELD|95
+1328|CNG Kondadahalli PHC COVISHIED|CNG Kondadahalli PHC Near Grampanchayat|Davanagere|577219|COVISHIELD|95
+1329|Birihundi PHC|Birihundi PHC|Mysore|570026|COVISHIELD|95
+1330|RAILWAY HOSPITAL MYSORE|YADAVAGIRI|Mysore|570020|COVISHIELD|95
+1331|Columbia Asia Hospital Mysore|Columbia Asia Hospital Mysore And Bangalore Ring Road Junction Mysore|Mysore|570015|COVISHIELD|95
+1332|PHC Mulluru|PHC Mulluru Hunsur Taluk Hunsur|Mysore|571610|COVISHIELD|95
+1333|Dadadahalli PHC|Dadadahalli HD Kote|Mysore|571121|COVISHIELD|95
+1334|Laskar B Gandhinagara 1|Ward No 51 B Block Sathyanagara Mysore District Mysosre|Mysore|570001|COVISHIELD|95
+1335|BD HOSPITAL SC|BD HOSPITAL KALYANGIRI|Mysore|570029|COVISHIELD|95
+1336|B Matakere PHC|B Matakere H D Kote Taluk|Mysore|571121|COVISHIELD|95
+1337|CHC TAGADUR|CHC TAGADUR|Mysore|571301|COVISHIELD|95
+1338|Krishnamurthypuram UPHC 1|Krishnamurthypuram UPHC|Mysore|570004|COVISHIELD|95
+1339|PHC BETTADATUNGA|PHC BETTADATUNGA|Mysore|571102|COVISHIELD|95
+1340|T Narasipura TH C1|Behind Little Flower Nursery And Higher Primary School|Mysore|571124|COVAXIN|95
+1341|Thattekere PHC|PHC Thattekere|Mysore|571105|COVISHIELD|95
+1342|PHC KALALE|PHC KALALE|Mysore|571118|COVISHIELD|95
+1343|Saraswathipuram UPHC 1|Saraswathipuram UPHC|Mysore|570009|COVISHIELD|95
+1344|Hunsur TH C1|Hunsur Taluk Hospital Mysore|Mysore|571105|COVAXIN|95
+1345|Hebbalaguppe|Hebbalaguppe|Mysore|571114|COVISHIELD|95
+1346|Charaka Hospital|K R S Road Brindavana Extension Mysore|Mysore|570016|COVISHIELD|95
+1347|PHC HEDATHALE|PHC HEDATHALE|Mysore|571312|COVISHIELD|95
+1348|Charaka Hospital C1|MMCRI TRAUMA Care Centre K R S Road Mysore|Mysore|570001|COVAXIN|95
+1349|PHC DODDAHEJJURU|PHC Doddahejjuru Hunsur Taluk|Mysore|571105|COVISHIELD|95
+1350|Chikkanandi 1|Chikkanandi HD Kote|Mysore|571125|COVISHIELD|95
+1351|PHC BOLANAHALLI|PHC BOLANAHALLI HUNSUR TALUK|Mysore|571103|COVISHIELD|95
+1352|Doddamulagudu PHC|Phc Doddamulagudu|Mysore|571101|COVISHIELD|95
+1353|PHC KOPPA|PHC KOPPA|Mysore|571104|COVISHIELD|95
+1354|PHC Hosurgate|PHC Hosurgate|Mysore|571105|COVISHIELD|95
+1355|PHC SUTTUR|PHC SUTTUR|Mysore|571129|COVISHIELD|95
+1356|Badagalpura|Badagalpura H D Kote Taluk|Mysore|571121|COVISHIELD|95
+1357|Krishnarajanagar TH|Taluk Hospital K R Nagar Taluk Mysore District Mysore|Mysore|571602|COVISHIELD|95
+1358|Hanasoge PHC|Hanasoge|Mysore|571617|COVISHIELD|95
+1359|Hallare PHC|Hallare Najangud Taluk Mysore District Mysore|Mysore|571315|COVISHIELD|95
+1360|HARADANAHALLY PHC|HARADANAHALLY PHC|Mysore|571604|COVISHIELD|95
+1361|KYTHAMARANAHALLI UPHC|KYTHAMARANAHALLI|Mysore|570019|COVISHIELD|95
+1362|Bilugali PHC|PHC Bilugali Nagarlae Post Nanjangud Taluk Mysore District Mysore|Mysore|571129|COVISHIELD|95
+1363|SHANTHIPURA|SHANTHIPURA H D KOTE TALUK|Mysore|571121|COVISHIELD|95
+1364|G B Palya UPHC|UPHC G B Palya Mysore|Mysore|570011|COVISHIELD|95
+1365|Mellahalli PHC|PHC Mellahalli Mysore Taluk Mysore District Mysore|Mysore|570028|COVISHIELD|95
+1366|ESI Hospital 1|TRAUMA Care Centre K R Road Mysore|Mysore|570001|COVISHIELD|95
+1367|Chc Muguru|Chc Muguru T Narasipura Taluk|Mysore|571124|COVISHIELD|95
+1368|Gargeshwari PHC|Gargeshwari PHC|Mysore|571110|COVISHIELD|95
+1369|Apollo BGS Hospitals 18 To 44|Ganabharathi Adichunchanagiri Road Kuvempunagara|Mysore|570023|COVISHIELD|95
+1370|Udburu Phc|Udburu Phc|Mysore|570008|COVISHIELD|95
+1371|PHC BETTADAPURA|PHC BETTADAPURA|Mysore|571102|COVISHIELD|95
+1372|Mirle Phc|Mirle|Mysore|571603|COVISHIELD|95
+1373|Gerasanahalli PHC|Gerasanahalli Biliker Hobli Hunsur Taluk Mysore District|Mysore|571103|COVISHIELD|95
+1374|Siddaramanahundi PHC|Siddaramanahundi PHC|Mysore|570010|COVISHIELD|95
+1375|UPHC Subramanyanagara C1|Subramanyanagara Near Ring Road Mysore District Mysore|Mysore|570016|COVISHIELD|95
+1376|N Belathuru|N Belathuru H D Kote Taluk|Mysore|571114|COVISHIELD|95
+1377|Naganahalli PHC|Naganahalli Mysore Taluk Mysore District Mysore|Mysore|570003|COVISHIELD|95
+1378|Shanthinagara UPHC|Shanthinagara UPHC|Mysore|570019|COVISHIELD|95
+1379|Subramanyanagara UPHC|Subramanyanagara UPHC|Mysore|570016|COVISHIELD|95
+1380|PHC KUDLAPURA|PHC KUDLAPURA|Mysore|571118|COVISHIELD|95
+1381|Talakadu CHC|Talakadu CHC|Mysore|571122|COVISHIELD|95
+1382|Kyathanahalli PHC|Kyathanahalli HD Kote Taluk|Mysore|570026|COVISHIELD|95
+1383|Hirikythanahalli PHC|Hirikythanahalli Hunsur Taluk Mysore District Mysore|Mysore|571134|COVISHIELD|95
+1384|Rathnapuri PHC.|Rathnapuri PHC|Mysore|571189|COVISHIELD|95
+1385|PHC Kallahalli|PHC Kallahalli Hunsur Taluk|Mysore|571105|COVISHIELD|95
+1386|PHC BANNIKUPPE 1|PHC BANNIKUPPE 1|Mysore|571105|COVISHIELD|95
+1387|CHC Jayanagara|Jayanagara Mysore|Mysore|570014|COVISHIELD|95
+1388|Meluru|Meluru|Mysore|571604|COVISHIELD|95
+1389|Hanagodu P H C|Hanagodu P H CHunsur Taluk Mysore District Mysore|Mysore|571105|COVISHIELD|95
+1390|Jayapura CHC 1|Jayapura CHC|Mysore|570008|COVISHIELD|95
+1391|Vyasarajapura PHC|Vyasarajapura PHC|Mysore|571120|COVISHIELD|95
+1392|Heggadadevanakote TH|TH H DKote HDKote Taluk Mysore District Mysore|Mysore|571114|COVISHIELD|95
+1393|PHC Kattemalavadi|PHC Kattemalalavadi|Mysore|571134|COVISHIELD|95
+1394|Hampapura PHCHDK|Hampapura PHC HD Kote|Mysore|571125|COVISHIELD|95
+1395|Sagare PHC|Sagare PHC HD Kote|Mysore|571121|COVISHIELD|95
+1396|Nazarbad UPHC|Nazarbad UPHC|Mysore|570010|COVISHIELD|95
+1397|CHC SALIGRAMA|CHC SALIGRAMA|Mysore|571604|COVISHIELD|95
+1398|Kadakola PHC|Kadakola PHC|Mysore|571311|COVISHIELD|95
+1399|Chandravadi|Chandravadi Najangud Taluk Mysore District Mysore|Mysore|571314|COVISHIELD|95
+1400|Nanjangud MCH|Nanjangud GH Nanjangud Taluk Mysore District Mysore|Mysore|571301|COVISHIELD|95
+1401|CHC HULLAHALLI|CHC HULLAHALLI|Mysore|571314|COVISHIELD|95
+1402|PHC HOSAKOTE NANJANGUDU|PHC HOSAKOTE|Mysore|571129|COVISHIELD|95
+1403|Chamundipuram UPHC|UPHC Chamundipuram Mysore|Mysore|570004|COVISHIELD|95
+1404|Hebbalu PHC|PHC Hebbalu|Mysore|571602|COVISHIELD|95
+1405|JSS Hospitals|J S S Hospital M G Road Mysore|Mysore|570004|COVAXIN|95
+1406|Old Agrahara UPHC|Old Agrahara UPHC|Mysore|570025|COVISHIELD|95
+1407|PHC BILIKERE|PHC BILIKERE HUNSUR|Mysore|571103|COVISHIELD|95
+1408|Nanjangud TH CV1|Nanjangud GH Nanjangud Taluk Mysore District Mysore|Mysore|571301|COVAXIN|95
+1409|PHC Gavadagere|Phc Gavadagere HUnsur Taluk|Mysore|571610|COVISHIELD|95
+1410|DB Kuppe 2|DB Kuppe HD Kote|Mysore|571114|COVISHIELD|95
+1411|Sagarakatte PHC|Sagarakatte PHC|Mysore|570008|COVISHIELD|95
+1412|Jalapuri UPHC|Jalapuri UPHC|Mysore|570019|COVISHIELD|95
+1413|PHC BILIKERE C1|PHC BILIKERE HUNSUR TALUK|Mysore|571103|COVAXIN|95
+1414|Maddur Kallahalli PHC|Maddur Kallahalli PHC|Mysore|571125|COVISHIELD|95
+1415|Malangi PHC|Malangi PHC|Mysore|571124|COVISHIELD|95
+1416|PHC HANGODU C1|PHC HANGODU HUNSUR TALUK|Mysore|571105|COVAXIN|95
+1417|Eranagere UPHC|Eranagere UPHC|Mysore|570001|COVISHIELD|95
+1418|PHC HURA|PHC HURA|Mysore|571315|COVISHIELD|95
+1419|PHC Chilkunda 1|PHC Chilkunda Hunsur|Mysore|571105|COVISHIELD|95
+1420|UPHC Hunsur 1|UPHC HUnsur|Mysore|571105|COVISHIELD|95
+1421|Karnakuppe PHC|Karnakuppe PHC|Mysore|571105|COVISHIELD|95
+1422|District Hospital Mysore|K R S ROAD Mettagalli Mysore|Mysore|570016|COVISHIELD|95
+1423|MUKANAHALLI SC|MUKANAHALLI|Mysore|571105|COVISHIELD|95
+1424|Kotthegala PHC|Kottheagala PHC 1|Mysore|571134|COVISHIELD|95
+1425|Varuna PHC|Varun PHC|Mysore|570010|COVISHIELD|95
+1426|Phc Chidravalli|Phc Chidravalli|Mysore|571120|COVISHIELD|95
+1427|TH HUNSUR 18 TO 44|TH HUNSUR TALUK MYSORE TALUK|Mysore|571105|COVISHIELD|95
+1428|Nanjanagudu TH|Nanjangud GH Nanjangud Taluk Mysore District Mysore|Mysore|571301|COVISHIELD|95
+1429|Gandhanahalli PHC|Gandhanahalli PHC|Mysore|571603|COVISHIELD|95
+1430|BELAVADI SC|BELAVADI SC|Mysore|571130|COVISHIELD|95
+1431|Dasanur PHC|Dasanur Najangud Taluk Mysore District Mysore|Mysore|571312|COVISHIELD|95
+1432|Neralekuppe PHC|Neralekuppe PHC Hunsur|Mysore|571106|COVISHIELD|95
+1433|Thayuru|Thayuru Nanjangud Taluk Mysore District Mysore|Mysore|571124|COVISHIELD|95
+1434|PHC Mullur|Mullur PHC HD Kote Taluk|Mysore|571121|COVISHIELD|95
+1435|Annur PHC|ANNUR PHC HD Kote TQ|Mysore|571114|COVISHIELD|95
+1436|PHC Challahalli 1|PHC Challahalli HUnsur|Mysore|571103|COVISHIELD|95
+1437|Hanchya PHC|Hanchya PHC|Mysore|570019|COVISHIELD|95
+1438|Vishweshwaranagar 1|Vishweshwaranagar Mysore District Mysore|Mysore|570008|COVISHIELD|95
+1439|BANNIMANATAP UPHC|BANNIMANTAP UPHC|Mysore|570015|COVISHIELD|95
+1440|Yelwala PHC|Yelwala PHC|Mysore|571130|COVISHIELD|95
+1441|K.belthur Phc|K Belthur Phc H D Kote Tq|Mysore|571125|COVISHIELD|95
+1442|Jyothinagara PHC|Jyothinagara PHC|Mysore|570019|COVISHIELD|95
+1443|Bannuru CHC|Bannuru CHC|Mysore|571101|COVISHIELD|95
+1444|Devanur PHC|Devanur Nanjangud Taluk Mysore District Mysore|Mysore|571119|COVISHIELD|95
+1445|Tirumakudalu Narasipura TH|Taluk Hospital T Narasipura Taluk Mysore District Mysore|Mysore|571124|COVISHIELD|95
+1446|Piriyapatana TH|Govt Hospital Piriyapatana Taluk Mysore|Mysore|571107|COVISHIELD|95
+1447|Heggadadevanakote TH C1|TH H DKote HDKote Taluk Mysore District Mysore|Mysore|571114|COVAXIN|95
+1448|Indiranagara UPHC|Indiranagara Mysore Taluk Mysore Distict Mysore|Mysore|570004|COVISHIELD|95
+1449|Kergalli Salundi PHC|Kergalli Salundi PHC|Mysore|570026|COVISHIELD|95
+1450|PHC RAVANDUR|PHC RAVANDUR|Mysore|571108|COVISHIELD|95
+1451|Keelanapura PHC|Keelanapura PHC|Mysore|570010|COVISHIELD|95
+1452|Doora Phc|Doora Phc|Mysore|570008|COVISHIELD|95
+1453|Hunsur TH|TH Hunsur Hunsur Taluk Mysore District Mysore|Mysore|571105|COVISHIELD|95
+1454|Kuvempunagara UPHC|Kuvempunagara UPHC|Mysore|570023|COVISHIELD|95
+1455|Nisanabegur|N Beguru HD Kote|Mysore|571116|COVISHIELD|95
+1456|PHC Karimuddanahalli|PHC Karimuddanahalli|Mysore|571189|COVISHIELD|95
+1457|HHMBG UPHC|UPHC HHMBG Chamundihill Road Mysore District Mysore|Mysore|570008|COVISHIELD|95
+1458|UPHC Nanjangud|Nanjangud UPHC Nanjangud Taluk Mysore District Mysore|Mysore|571301|COVISHIELD|95
+1459|N R Mohalla UPHC|N R Mohalla UPHC|Mysore|570007|COVISHIELD|95
+1460|Ashokapuram CHC|Ashokapuram CHC|Mysore|570008|COVISHIELD|95
+1461|PHC DHARMAPURA 1|PHC DHARMAPURA|Mysore|571189|COVISHIELD|95
+1462|Nachanahalli Palya UPHC|Nachanahalli Palya UPHC|Mysore|570031|COVISHIELD|95
+1463|Rajendranagar UPHC|PHC Rajendranagar Mysore District Mysore|Mysore|570007|COVISHIELD|95
+1464|Madapura HDK|Madapura H D Kote Taluk Mysore District Mysore|Mysore|571125|COVISHIELD|95
+1465|T K Layout UPHC|T K Layout UPHC|Mysore|570009|COVISHIELD|95
+1466|Doddakowlande P H C|Doddakowlande PHC Nanjangud Taluk Mysore District Mysore|Mysore|571312|COVISHIELD|95
+1467|Somanathapura PHC|Somanathapura T Narasipura Taluk Mysore District Mysore|Mysore|571120|COVISHIELD|95
+1468|KUMBARAKOPPALU|KUMBARAKOPPALU|Mysore|570016|COVISHIELD|95
+1469|Hadinaru|PHC Hadinaru Village Nanjangud Taluk Mysore District Mysore|Mysore|571302|COVISHIELD|95
+1470|Kasuvinahalli|Kasuvinahalli Nanjangud Taluk Mysore District Mysore|Mysore|571118|COVISHIELD|95
+1471|Saibrakatte PHC|Brahmavara Bidkalkatte Road Yadthady Village|Udupi|576210|COVISHIELD|95
+1472|KMC Manipal SITE 2|MARINA PORTS COMPLEX KMC CAMPUS|Udupi|576104|COVISHIELD|95
+1473|Nandalike PHC C|Nandalike Temple Road Nandalike Village|Udupi|576111|COVAXIN|95
+1474|Hirebettu PHC|Aided Higher Primary School Road Hirebettu Hirebettu Village|Udupi|576107|COVISHIELD|95
+1475|Mandarthi PHC|Brahmavara Goliyangadi Road Heggunje Village|Udupi|576223|COVISHIELD|95
+1476|KMC Manipal -Site 9|Marina Sports Complex KMC Campus Manipal|Udupi|576104|COVISHIELD|95
+1477|PHC HIREBETTU- C|PHC HIREBETTU|Udupi|576107|COVAXIN|95
+1478|PHC HIRIYADKA - C|PHC HIRIYADKA|Udupi|576113|COVAXIN|95
+1479|Inna PHC|Kanjrakatte Inna Panchyath Road Inna Village|Udupi|576121|COVISHIELD|95
+1480|PHC SHANKARNARAYANA -C|Primary Health Centre SHANKARNARAYANA|Udupi|576227|COVAXIN|95
+1481|Shirva CHC|Shankarapura Belman Road Manchakal Village|Udupi|574116|COVISHIELD|95
+1482|SIDDAPURA PRIMARY HEALTHCENTER|Shankarnarayana Kamalashile Temple Road Siddapura Village|Udupi|576229|COVISHIELD|95
+1483|BIDKALKATTE P H C|Primary Health Centre Bidkalkatte Kundapura|Udupi|576222|COVISHIELD|95
+1484|Kukkehalli PHC|Perdoor Kolalagiri RoadKukkehalli Village|Udupi|576124|COVISHIELD|95
+1485|Karje PHC|Kokkarne Sural Road Hosur Village|Udupi|576215|COVISHIELD|95
+1486|Idu PHC|Hosmar Dharmasthala Road Idu Village|Udupi|574107|COVISHIELD|95
+1487|Udupi UPHC Building|Near Alankar Theatre Udupi|Udupi|576101|COVISHIELD|95
+1488|Mudarangadi PHC|St Francis Xavier Church Road Santhoor Village|Udupi|574113|COVISHIELD|95
+1489|Avarse PHC - C|Mandarthi Goliyangadi Road Avarse Village|Udupi|576223|COVAXIN|95
+1490|Kolalagiri PHC|Kukkehalli Uppoor Road Uppoor Village|Udupi|576105|COVISHIELD|95
+1491|KMC Manipal SITE 4|MARINA PORTS COMPLEX KMC CAMPUS|Udupi|576104|COVISHIELD|95
+1492|KARKALA GENERAL HOSPITAL|Sadanand Kamath Road Karkala Urban|Udupi|574104|COVISHIELD|95
+1493|Kodibengre PHC C|Hoode Kodibengre Road Kodi Village|Udupi|576218|COVAXIN|95
+1494|HALADY PRIMARY HEALTH CENTER|Near Halady Bus Stand|Udupi|576222|COVISHIELD|95
+1495|KORGI PRIMARY HEALTH CENTER|KORGI PHC|Udupi|576231|COVISHIELD|95
+1496|Nitte CHC C|Belman Karkala Road Nitte Village|Udupi|574110|COVAXIN|95
+1497|Kukkehalli PHC -C|Perdoor Kolalagiri Road Kukkehalli Village|Udupi|576124|COVAXIN|95
+1498|VANDSE PRIMARY HEALTH CENTER|Kundapura Kollur Road Vandse Village|Udupi|576233|COVISHIELD|95
+1499|KODI PRIMARY HEALTH CENTER|Kodi Beach Road Kodi Village|Udupi|576217|COVISHIELD|95
+1500|Kemmannu PHC -C|Kemmannu Hoode Road Paduthonse Village|Udupi|576115|COVAXIN|95
+1501|Hiriyadka PHC|Udupi Hebri Road Bommarabettu Village|Udupi|576113|COVISHIELD|95
+1502|Manipura PHC|Dendoorkatte Katpadi Road Manipura Village|Udupi|574105|COVISHIELD|95
+1503|Dr TMA Pai Hospital 1|Opposite To Big Bazar|Udupi|576101|COVISHIELD|95
+1504|Pernankila PHC C|Padubettu Chitrabailu Road Pernankila Village|Udupi|576113|COVAXIN|95
+1505|Saligrama PHC C|Kavady Saligrama Road Karkada Village|Udupi|576225|COVAXIN|95
+1506|Muniyal PHC|Karkala Hebri Road Udupi Village|Udupi|574108|COVISHIELD|95
+1507|GENERAL HOSPITAL KUNDAPURA|Near Parijatha Circle Kundapura|Udupi|576201|COVISHIELD|95
+1508|Hebri CHC|Hiriyadka Hebri Road Hebri Village|Udupi|576112|COVISHIELD|95
+1509|Irvathoor PHC C|Sanoor Renjala Road Irvathur Village|Udupi|574114|COVAXIN|95
+1510|Bailoor PHC C|Udupi Karkala Road Neere Village|Udupi|574102|COVAXIN|95
+1511|Donderangadi PHC C|Perdoor Ajekar Road Kadthala Village|Udupi|574108|COVAXIN|95
+1512|Primary Health Centre BELVE -C|Primary Health Centre BELVE|Udupi|576212|COVAXIN|95
+1515|Sacheripete PHC|Sacheripete 5 Cents Road Mundkuru Village|Udupi|576121|COVISHIELD|95
+1513|Peranankila PHC|Padubettu Chitrabailu Road Pernankila Village|Udupi|576113|COVISHIELD|95
+1516|Hattiyangadi PHC|Tallur Nerlakatte Road Udupi Village|Udupi|576283|COVISHIELD|95
+1517|Moodabettu PHC|Sarkarigudde Road Subash NagarMoodabettu Village|Udupi|574115|COVISHIELD|95
+1518|Belman PHC|Karkala Padubidri Main Road Belman Village|Udupi|576111|COVISHIELD|95
+1514|Mudoor Subcenter|Near Mudoor Maidana SC Muduru|Udupi|576233|COVISHIELD|95
+1519|Saligrama PHC|Kavady Saligrama Road Karkada Village|Udupi|576225|COVISHIELD|95
+1520|HALLIHOLE PRIMARY HEALTH CENTR|PHC Hallihole Siddapura Kollur Road HALLIHOLE Post|Udupi|576229|COVISHIELD|95
+1521|DR TMA PAI ROTARY HOSPITAL|Near Taluk Office Karkala|Udupi|574104|COVISHIELD|95
+1522|Kaup PHC|Main Road Near Kaup Mosque Uliyargoli Village|Udupi|574106|COVISHIELD|95
+1523|PHC BARKUR-C|PRIMARY HEALTH CENTER BARKUR|Udupi|576210|COVAXIN|95
+1524|Sasthana PHC|Brahmavara Kundapura Highway Airody Village|Udupi|576226|COVISHIELD|95
+1525|Manipura PHC C|Dendoorkatte Katpadi Road Manipura Village|Udupi|574105|COVAXIN|95
+1526|ALOOR PRIMARY HEALTH CENTER|Kattinmakki Aloor Road Aloor Village|Udupi|576233|COVISHIELD|95
+1527|Kodibengre PHC|Hoode Kodibengre Road Kodi Village|Udupi|576218|COVISHIELD|95
+1528|PHC KOLALAGIRI-C|PHC KOLALGIRI|Udupi|576105|COVAXIN|95
+1529|KMC Manipal -Site 10|MARINA PORTS COMPLEX KMC HOSPITAL RIGHT OPP|Udupi|576104|COVISHIELD|95
+1530|Mala PHC C|Balagoli Mala Road Mala Village|Udupi|574122|COVAXIN|95
+1531|Barkur PHC|Brahmavara Mandarthi Road Hosala Village|Udupi|576210|COVISHIELD|95
+1532|Padubidri PHC C|Brahmasthana Nadsal Village|Udupi|574111|COVAXIN|95
+1533|KOTESHWARA PHC|Kundapura Halady Road Koteshwara Village|Udupi|576222|COVISHIELD|95
+1534|Nitte CHC|Belman Karkala Road Nitte Village|Udupi|574110|COVISHIELD|95
+1535|Donderangadi PHC|Perdoor Ajekar Road Kadthala Village|Udupi|574108|COVISHIELD|95
+1536|NADA PRIMARY HEALTH CENTER|Guddeangadi Road Opposite To Nada Panchayat|Udupi|576230|COVISHIELD|95
+1537|SHANKARNARAYANA PHC|Bidkalkatte Siddapura Road Shankarnarayana Village|Udupi|576227|COVISHIELD|95
+1538|Kandlur PHC - C|Basrur Siddapura Road Kavrady Village|Udupi|576211|COVAXIN|95
+1539|Nandalike PHC|Primary Health Center Nandalike|Udupi|576111|COVISHIELD|95
+1540|Sacheripete PHC C|Sacheripete 5 Cents Road Mundkuru Village|Udupi|576121|COVAXIN|95
+1541|Kukkundoor PHC C|Taluk Office Karkala To Palli Road Kukkundoor Village|Udupi|576117|COVAXIN|95
+1542|Malpe PHC|Udupi Malpe Road|Udupi|576108|COVISHIELD|95
+1543|Byndooru CHC C|Yadthare Road Opposite To Government Junior College|Udupi|576214|COVAXIN|95
+1544|Kemmannu PHC|Kemmannu Hoode Road Paduthonse Village|Udupi|576115|COVISHIELD|95
+1545|Primary Health Centr Basrur -C|Primary Health Centre Basrur|Udupi|576211|COVAXIN|95
+1546|MARAVANTHE PHC-C|PHC MARAVANTHE NH66 KUNDAPURA|Udupi|576224|COVAXIN|95
+1547|Hattiyangadi PHC C|Tallur Nerlakatte Road Udupi Village|Udupi|576283|COVAXIN|95
+1548|Ajekar PHC C|Karkala Kervashe Road Marne Village|Udupi|574101|COVAXIN|95
+1549|KIRIMANJESHWARA P H C|Kundapura Byndoor Highway|Udupi|576219|COVISHIELD|95
+1550|KMC Manipal SITE 5|MARINA PORTS COMPLEX KMC CAMPUS|Udupi|576104|COVISHIELD|95
+1551|Vandse PHC -C|Kundapura Kollur Road Vandse Village|Udupi|576233|COVAXIN|95
+1552|Saibrakatte PHC C|Brahmavara Bidkalkatte Road Yadthady Village|Udupi|576210|COVAXIN|95
+1553|PHC KAUP-C|PHC KAUP|Udupi|574106|COVAXIN|95
+1554|Primary Health Centre Kedur-C|Primary Health Centre Kedur|Udupi|576231|COVAXIN|95
+1555|Bailoor PHC|Udupi Karkala Road Neere Village|Udupi|574102|COVISHIELD|95
+1556|Ajekar PHC|Karkala Kervashe Road Marne Village|Udupi|574101|COVISHIELD|95
+1557|Padubidri PHC|Brahmasthana Nadsal Village|Udupi|574111|COVISHIELD|95
+1558|Kodi PHC-C|Kodi Beach Road Kodi Village|Udupi|576217|COVAXIN|95
+1559|BRS MCH Hospital|Opposite To Old MCH Udupi|Udupi|576101|COVISHIELD|95
+1560|Kukkikatte UFWC|Diana Kukkikatte76 Badagubettu Village|Udupi|576101|COVISHIELD|95
+1562|Sasthana PHC C|Brahmavara Kundapura Highway Airody Village|Udupi|576226|COVAXIN|95
+1563|CHC BRAHMAVARA|Udupi Kundapura Highway Varamballi Village|Udupi|576213|COVISHIELD|95
+1561|NADA PHC -C|NADA PHC|Udupi|576230|COVAXIN|95
+1564|Bajagoli PHC C|Dharmasthala Karkala Road Mudar Village|Udupi|574122|COVAXIN|95
+1565|Inna PHC - C|Kanjrakatte Inna Panchyath Road Inna Village|Udupi|576121|COVAXIN|95
+1566|KMC Manipal -Site 7|Marina Sports Complex KMC Campus Manipal|Udupi|576104|COVISHIELD|95
+1567|Kukkundoor PHC|Taluk Office Karkala To Palli Road Kukkundoor Village|Udupi|576117|COVISHIELD|95
+1568|Durga PHC|Tellar Malebettu Road Durga Village|Udupi|576117|COVISHIELD|95
+1569|Pethri PHC|Hutthi Road Cherkady Village|Udupi|576215|COVISHIELD|95
+1570|Manipal UPHC 2|Venugopal Temple Road Badagubettu Village|Udupi|576104|COVISHIELD|95
+1571|Belman PHC C|Karkala Padubidri Main Road Belman Village|Udupi|576111|COVAXIN|95
+1572|Kollur PHC -C|Near Kollur Bustand|Udupi|576220|COVAXIN|95
+1573|KMC Manipal Site 6|Marina Sports Complex KMC Campus Manipal|Udupi|576104|COVISHIELD|95
+1574|Adi Udupi School - C|Udupi Malpe Road|Udupi|576101|COVAXIN|95
+1575|Kumbashi Primary Health Centre|Aanegudde Temple Road Kumbhashi Village|Udupi|576257|COVISHIELD|95
+1576|Bajagoli PHC|Dharmasthala Karkala Road Mudar Village|Udupi|574122|COVISHIELD|95
+1577|KEDUR PRIMARY HEALTH CENTER|Tekkatte Dabbekatte Road Kedur Village|Udupi|576231|COVISHIELD|95
+1578|KOLLUR PRIMARY HELATH CENTER|Opposite To Kollur Bus Stand Kollur Village|Udupi|576220|COVISHIELD|95
+1579|MANIPAL UPHC - C|Manipal UPHC|Udupi|576104|COVAXIN|95
+1580|PHC HALLIHOLE - C|PHC HALLIHOLE|Udupi|576229|COVAXIN|95
+1581|Kandlur Primary Health Centre|Basrur Siddapura Road Kavrady Village|Udupi|576211|COVISHIELD|95
+1582|CHC BRAHMAVARA -C|CHC BRAHMAVARA|Udupi|576213|COVAXIN|95
+1583|Karnataka Public School Kokarn|High School Section Kokkarne Village|Udupi|576234|COVISHIELD|95
+1584|Avarse PHC|Mandarthi Goliyangadi Road Avarse Village|Udupi|576223|COVISHIELD|95
+1585|Palli PHC|Palli Moodubelle Road Ninjoor Village|Udupi|574244|COVISHIELD|95
+1586|Kota Community Health Centre|Kota Police Station Road Giliyar Village|Udupi|576221|COVISHIELD|95
+1587|HAKLADY PRIMARY HEALTH CENTER|PHC HAKLADI|Udupi|576235|COVISHIELD|95
+1588|Karnataka Public School - C|High School Section Kokkarne|Udupi|576234|COVAXIN|95
+1589|PHC BIDKALKATTE -C|Primary Health Centre Bidkalkatte|Udupi|576222|COVAXIN|95
+1590|GENERAL HOSPITAL KARKALA -C|SADANAND KAMATH ROAD KARKALA|Udupi|574104|COVAXIN|95
+1591|Primary Health Centre Aloor -C|Primary Health Centre Aloor|Udupi|576233|COVAXIN|95
+1592|SHIROOR PHC - C|PHC SHIROOR|Udupi|576124|COVAXIN|95
+1593|SHIROOR PRIMARY HEALTH CENTER|Byndoor Bhatkala National Highway Shiroor Village|Udupi|576228|COVISHIELD|95
+1594|Durga PHC C|Tellar Malebettu Road Durga Village|Udupi|576117|COVAXIN|95
+1595|Mala PHC|Balagoli Mala Road Mala Village|Udupi|574122|COVISHIELD|95
+1596|BYNDOOR C H C|Yadthare Road Opposite To Government Junior College|Udupi|576214|COVISHIELD|95
+1597|KMC Manipal Site 1|MARINA PORTS COMPLEX KMC HOSPITAL RIGHT OPP|Udupi|576104|COVISHIELD|95
+1598|Udupi UPHC C|Near Alankar Theater Udupi|Udupi|576101|COVAXIN|95
+1599|PHC MALPE- C|PHC Malpe|Udupi|576108|COVAXIN|95
+1600|BASRUR PRIMARY HEALTH CENTER|Syndicate Bank Basrur Road Basrur Village|Udupi|576211|COVISHIELD|95
+1601|Kota CHC -C|Kota Police Station Road Giliyar Village|Udupi|576221|COVAXIN|95
+1602|Hirgana PHC|5 Cents Road Rajeevanagara Hirgana Village|Udupi|576117|COVISHIELD|95
+1603|Idu PHC C|Dharmasthala Road Karkala|Udupi|574107|COVAXIN|95
+1604|Pethri PHC C|CHERKADY UDUPI TALUK|Udupi|576215|COVAXIN|95
+1605|GANGOLLI PRIMARY HEALTH CENTER|Car Street Gangolli Village|Udupi|576216|COVISHIELD|95
+1606|District Hospital Ajjarakadu|St. Cecilia School Compound Ajjarkad Udupi|Udupi|576101|COVISHIELD|95
+1607|Muniyal PHC C|Karkala Hebri Road|Udupi|574108|COVAXIN|95
+1608|Adi Udupi School|Udupi Malpe Road|Udupi|576101|COVISHIELD|95
+1609|Mandarthi PHC -C|Brahmavara Goliyangadi Road Heggunje Village|Udupi|576223|COVAXIN|95
+1610|Moodabettu PHC C|Sarkarigudde Road Subash NagarMoodabettu Village|Udupi|574115|COVAXIN|95
+1612|Karje PHC C|Kokkarne Sural Road Hosur Village|Udupi|576215|COVAXIN|95
+1611|KMC Manipal SITE 3|MARINA SPORTS COMPLEX KMC CAMPUS|Udupi|576104|COVISHIELD|95
+1613|General Hospital Kundapura - C|General Hospital Kundapura|Udupi|576201|COVAXIN|95
+1614|Hebri CHC C|Hiriyadka Hebri Road Hebri Village|Udupi|576112|COVAXIN|95
+1615|Maravanthe P H C|Kundapura Byndoor Highway Maravanthe Village|Udupi|576224|COVISHIELD|95
+1616|PHC Gangolli -C|Primary Health Centre GANGOLLI|Udupi|576216|COVAXIN|95
+1617|Kukkikatte UFWC - C|Diana Kukkikatte76 Badagubettu Village|Udupi|576101|COVAXIN|95
+1618|BELVE PRIMARY HEALTH CENTER|Shankarnarayana Temple Road Belve Village|Udupi|576212|COVISHIELD|95
+1619|KMC Manipal -Site 8|Marina Sports Complex KMC Campus Manipal|Udupi|576104|COVISHIELD|95
+1620|Mudarangadi PHC C|St Francis Xavier Church Road Santhoor Village|Udupi|574113|COVAXIN|95
+1621|Koteshwara PHC -C|Kundapura Halady Road Koteshwara Village|Udupi|576222|COVAXIN|95
+1622|PHC KIRIMANJESHWARA - C|Primary Health Centre KIRIMANJESHWARA|Udupi|576219|COVAXIN|95
+1623|BR Shetty MCH Hospital - C|Opposite To Old MCH Udupi|Udupi|576101|COVAXIN|95
+1624|Hirgana PHC C|5 Cents Road Rajeevanagara Hirgana Village|Udupi|576117|COVAXIN|95
+1625|Halady PHC -C|Near Halady Bus Stand|Udupi|576222|COVAXIN|95
+1626|Shirva CHC C|Shankarapura Belman Road Manchakal Village|Udupi|574116|COVAXIN|95
+1627|Korgi PHC C|Next To Smt Girija Chandrashekhar Hegde Government Higher Primary School Korgi Village|Udupi|576231|COVAXIN|95
+1628|District Hospital Ajjarkad - C|Near District Health Office Udupi|Udupi|576101|COVAXIN|95
+1629|Haklady PHC C|Bantwadi Vandse Road Hakladi Village|Udupi|576235|COVAXIN|95
+1630|KUMBASHI PHC -C|PHC KUMBASHI NEAR VINAYAKA TEMPLE ANNEGUDDE KUNDAPURA|Udupi|576257|COVAXIN|95
+1631|PHC SIDDAPURA - C|Primary Health Centre SIDDAPURA|Udupi|576229|COVAXIN|95
+1633|Kurudumale PHC|Kurudumale PHCVinayaka Temple RoadMulabaagilu Taluk|Kolar|563131|COVISHIELD|95
+1634|Hogalagere PHC Site 2|Hogalagere PHCyaldur RoadSrinivasapura Taluk Kolar District|Kolar|563138|COVAXIN|95
+1635|Oorikunte Mitturu PHC Site 2|Oorikunte Mitturu PHC|Kolar|563127|COVAXIN|95
+1637|Rajendrahalli PHC Site 2|Rajendrahalli Road|Kolar|563132|COVAXIN|95
+1636|Marikuppam UPHC Site 2|Marikuppam UPHCNear SP OfficeBangarapete Taluk|Kolar|563119|COVAXIN|95
+1639|Sugaturu PHC|Sugaturu PHCOpp.to Police StationChintamani RoadKolar Taluk|Kolar|563101|COVISHIELD|95
+1641|Gudipalli PHC|Gudipalli PHCRajendrahalli Road Mulabaagili Taluk kolar District|Kolar|563132|COVISHIELD|95
+1640|Doddachinnahalli PHC Site 2|Doddachinnahalli PHCNear SBI Bank Bangarpet Taluk Kolar District|Kolar|563120|COVAXIN|95
+1638|Utthanuru PHC|Utthanuru PHCNear Milk DairySrinivaspura Road|Kolar|563127|COVISHIELD|95
+1642|BEML Medical Center|BEML Medical Center KGF|Kolar|563118|COVISHIELD|95
+1646|Utthanuru PHC Site 2|Utthanuru PHCNear Milk DairySrinivaspura Road|Kolar|563127|COVAXIN|95
+1644|Avani PHC|Avani PHCTemple Road Mulbagal Taluk Kolar District|Kolar|563127|COVISHIELD|95
+1645|Thoralakki PHC|Thoralakkki PHCNear MarketMalur Taluk|Kolar|563137|COVISHIELD|95
+1643|Yalduru PHC Site 2|Yalduru PHCAgaram RoadSrinivasapura Taluk|Kolar|563138|COVAXIN|95
+1649|Hassandahalli PHC Site 2|Hasandahalli PHCMasthi Road Malur Taluk Kolar District.|Kolar|563139|COVAXIN|95
+1647|Kannasandra PHC|Kannasandra|Kolar|563136|COVISHIELD|95
+1648|GH KGF|General Hospital|Kolar|563122|COVISHIELD|95
+1652|Chamarahalli PHC Site 2|Chamarahalli CHCNear Milk Dairy Bangarpet Taluk Kolar District|Kolar|563103|COVAXIN|95
+1650|Hebbani PHC|Byrakuru Near Temple|Kolar|563131|COVISHIELD|95
+1653|Ooriguampete PHC Site 2|Oorigaumpete UPHCNear Primary School Bangarapete|Kolar|563121|COVAXIN|95
+1655|Kembodi PHC|Kembodi|Kolar|563103|COVISHIELD|95
+1654|Kembodi PHC Site 2|Kembodi|Kolar|563103|COVAXIN|95
+1656|Hogalagere PHC|Hogalagere PHCyaldur RoadSrinivasapura Taluk Kolar District|Kolar|563138|COVISHIELD|95
+1657|Coramandal UPHC|Near Post Office Coramandal KGF|Kolar|563118|COVISHIELD|95
+1658|Marikuppam UPHC|Marikuppam UPHCNear SP OfficeBangarapete Taluk|Kolar|563119|COVISHIELD|95
+1659|Byrakuru PHC Site 2|PHC ByrakurNear Girls Hostel Mulbagal Taluk Kolar District.|Kolar|563131|COVAXIN|95
+1660|Masthi PHC|Masthi PHC Near Bus Stop Malur Taluk|Kolar|563139|COVISHIELD|95
+1651|Mulabaagilu TH|Mulabaagilu THHospital CircleKGF Road Mulabaagilu|Kolar|563131|COVISHIELD|95
+1662|Alanguru PHC|Alanguru PHC|Kolar|563131|COVISHIELD|95
+1661|Kolar UPHC Site 2|Near Market Kolar Town|Kolar|563101|COVAXIN|95
+1666|Bethamangala CHC Site 2|Bethamangala CHC Near Bus Stop Bethamangala|Kolar|563116|COVAXIN|95
+1665|Huladenahalli PHC Site 2|Huladenahalli PHCNear Vaternary HospitalMalur Road Kolar District|Kolar|563137|COVAXIN|95
+1663|Thayaluru PHC|Thayaluru PHCV Kota RoadMulabaagilu Taluk|Kolar|563136|COVISHIELD|95
+1664|Kyasamballi PHC Site 2|Kyasamballi PHCK G F Road Bangarpet Taluk|Kolar|563121|COVAXIN|95
+1668|Vemagal PHC|Vemagal PHCKaiwara RoadKolar Taluk|Kolar|563102|COVISHIELD|95
+1669|Darghamohalla PHC Site 2|Daragamohalla PHCNear Clock Tower Kolar Taluk Kolar District.|Kolar|563101|COVAXIN|95
+1670|Thornahalli PHC|Thornahalli PHCMalur RoadMalur Taluk|Kolar|563130|COVISHIELD|95
+1671|Gandhinagara UPHC|Near Clock Tower|Kolar|563101|COVISHIELD|95
+1672|Mutthakapalli PHC Site 2|Mutthakapalli PHCNear Milk Dairy Srinivasapura Taluk|Kolar|563138|COVAXIN|95
+1673|Sugaturu PHC Site 2|Sugaturu PHCOpp.to Police StationChintamani RoadKolar Taluk|Kolar|563101|COVAXIN|95
+1674|Rahamath Nagara UPHC|Rahamathnagar|Kolar|563101|COVISHIELD|95
+1676|Gudipalli PHC Site 2|Gudipalli PHCRajendrahalli Road Mulabaagili Taluk kolar District|Kolar|563132|COVAXIN|95
+1677|Malur TH Site 2|Malur TH Building Site 2|Kolar|563130|COVAXIN|95
+1675|Gownipalli CHC Site 2|Gownipalli CHC Srinivaspura Taluk Kolar Dist.|Kolar|563161|COVAXIN|95
+1680|Lakshmipura PHC|Lakshmipura PHCNear AWW CenterSrinivaspura Road Srinivasapura Taluk|Kolar|563135|COVISHIELD|95
+1679|Gukunte PHC Site 2|Gokunte PHCRamasandra RoadMulabaagilu Talukkolar District|Kolar|563131|COVAXIN|95
+1678|Thoppanahalli PHC|Near Hospital Circle|Kolar|563129|COVISHIELD|95
+1682|Ammanalluru PHC Site 2|Ammanalluru PHCNear RO Plant Kolar Taluk Kolar District|Kolar|563102|COVAXIN|95
+1681|Agaram PHC|Agaram PHC|Kolar|563138|COVISHIELD|95
+1684|Bethamangala CHC|Bethamangala CHC Near Bus Stop Bethamangala|Kolar|563116|COVISHIELD|95
+1685|Ronuru PHC Site 2|Ronuru PHCNear Sri Venkateshwara Swamy TempleSrinivaspura Road|Kolar|563135|COVAXIN|95
+1686|Thornahalli PHC Site 2|Thornahalli PHCMalur RoadMalur Taluk|Kolar|563130|COVAXIN|95
+1687|Kyasamballi PHC|Kyasamballi PHCK G F Road Bangarpet Taluk|Kolar|563121|COVISHIELD|95
+1688|Lakshmipura PHC Site 2|Lakshmipura PHCNear AWW CenterSrinivaspura Road Srinivasapura Taluk|Kolar|563135|COVAXIN|95
+1689|Budikote PHC Site 2|Near Hostel|Kolar|563114|COVAXIN|95
+1690|Doddashivara PHC Site 2|Doddashivara PHCNear Bus Stand Malur Taluk Kolar District.|Kolar|563130|COVAXIN|95
+1691|Library Second Floor|Library Second Floor Sri Devaraj Urs Medical College|Kolar|563103|COVISHIELD|95
+1692|Madderi PHC|Madderi PHC Near Nadakacherikolar Taluk|Kolar|563102|COVISHIELD|95
+1683|Lakkuru PHC|Lakkuru PHC Near Sri Venkateshwaraswamy TempleMalur Taluk|Kolar|563130|COVISHIELD|95
+1694|Guttahalli PHC|Guttahalli PHCNear Sri Venkateshwaraswamy Temple Bangarapete Taluk Kolar District.|Kolar|563116|COVISHIELD|95
+1695|Mudhimadagu PHC|Mudhimadagu PHCRayalpad Road Srinivasapura Taluk|Kolar|563134|COVISHIELD|95
+1693|Gandhinagara UPHC Site 2|Near KATTE|Kolar|563101|COVAXIN|95
+1697|Dalasanuru PHC|Dalasnur PHCNear Pond Srinivaspura Taluk Kolar District.|Kolar|563126|COVISHIELD|95
+1699|Nangali PHC Site 2|Nangali PHC Beside NH-75 Mulabaagilu|Kolar|563132|COVAXIN|95
+1700|Kamasamudram PHC|Near Police Station|Kolar|563129|COVISHIELD|95
+1698|D N DoddI PHC Site 2|D N DoddI PHC|Kolar|563139|COVAXIN|95
+1701|Gukunte PHC|Gokunte PHCRamasandra RoadMulabaagilu Talukkolar District|Kolar|563131|COVISHIELD|95
+1702|Sri Narasimharaja DH|Near Travellers BangalowKolar|Kolar|563101|COVISHIELD|95
+1704|Pulagurakote PHC Site 2|Near Gramapanchayath Office Pulagoorakote PHC|Kolar|563135|COVAXIN|95
+1703|Ammanalluru PHC|Ammanalluru PHCNear RO Plant Kolar Taluk Kolar District|Kolar|563128|COVISHIELD|95
+1705|Mudhimadagu PHC Site 2|Mudhimadagu PHCRayalpad Road Srinivasapura Taluk|Kolar|563134|COVAXIN|95
+1706|Thoralakki PHC Site 2|Thoralakkki PHCNear MarketMalur Taluk|Kolar|563137|COVAXIN|95
+1709|Guttahalli PHC Site 2|Guttahalli PHCNear Sri Venkateshwaraswamy Temple Bangarapete Taluk Kolar District.|Kolar|563116|COVAXIN|95
+1707|Thoppanahalli PHC 2|DP Halli Road|Kolar|563129|COVAXIN|95
+1708|Koorigepalli PHC|Koorigepalli PHCAddagal Road Srinivasapura Taluk|Kolar|563134|COVISHIELD|95
+1710|Tekal PHC Site 2|Tekal PHCNear GHP SchoolMasthi RoadMalur Taluk|Kolar|563137|COVAXIN|95
+1711|Doddashivara PHC|Doddashivara PHCNear Bus Stand Malur Taluk Kolar District.|Kolar|563130|COVISHIELD|95
+1712|Bangarapete TH|Hospital Circle Near Veternary Hospital Bangarapete|Kolar|563114|COVISHIELD|95
+1713|Tekal PHC|Tekal PHCNear GHP SchoolMasthi RoadMalur Taluk|Kolar|563137|COVISHIELD|95
+1714|Andersonpet PHC Site 2|Opp.to W And Ch KGF|Kolar|563113|COVAXIN|95
+1715|Mulabaagilu TH Site 2|Mulabaagilu THHospital CircleKGF Road Mulabaagilu|Kolar|563131|COVAXIN|95
+1716|Malur TH|Near Bus Stand|Kolar|563130|COVISHIELD|95
+1718|D N DoddI PHC|D N DoddI PHC|Kolar|563139|COVISHIELD|95
+1719|Coramandal UPHC Site 2|Near Post Office Coramandal KGF|Kolar|563118|COVAXIN|95
+1720|Sri Narasimharaja DH2|Near Travellers BangalowKolar|Kolar|563101|COVAXIN|95
+1696|Narasapura PHC Site 2|Narasapura PHC|Kolar|563133|COVAXIN|95
+1721|Narasapura PHC|Narasapura PHC|Kolar|563133|COVISHIELD|95
+1722|Rajendrahalli PHC|Rajendrahalli Road|Kolar|563132|COVISHIELD|95
+1723|Koladevi PHC|Koladevi PHCNear Garuda TempleMulbagal Road Mulabaagilu Taluk|Kolar|563131|COVISHIELD|95
+1724|Darghamohalla PHC|Daragamohalla PHCNear Clock Tower Kolar Taluk Kolar District.|Kolar|563101|COVISHIELD|95
+1726|Pulagurakote PHC|Near Gramapanchayath Office Pulagoorakote PHC|Kolar|563135|COVISHIELD|95
+1725|Kamasamudram PHC Site 2|Near Police Station|Kolar|563129|COVAXIN|95
+1728|Devarayasamudra PHC Site 2|Devarayasamudra|Kolar|563127|COVAXIN|95
+1727|Srinivasapura TH|Ring RoadSrinivasapura|Kolar|563135|COVISHIELD|95
+1729|Andersonpet PHC|Opp.to W And Ch KGF|Kolar|563113|COVISHIELD|95
+1730|GH KGF Site 2|General Hospital|Kolar|563122|COVAXIN|95
+1732|Budikote PHC|Near Hostel|Kolar|563114|COVISHIELD|95
+1731|Hassandahalli PHC|Hasandahalli PHCMasthi Road Malur Taluk Kolar District.|Kolar|563139|COVISHIELD|95
+1733|Nambihalli PHC Site 2|Nambihalli PHCDalasanuru Road Srinivasapura Taluk|Kolar|563126|COVAXIN|95
+1734|Rahamath Nagara UPHC Site 2|Rahamathnagar|Kolar|563101|COVAXIN|95
+1632|Nambihalli PHC|Nambihalli PHCDalasanuru Road Srinivasapura Taluk|Kolar|563126|COVISHIELD|95
+1735|Dalasanuru PHC Site 2|Dalasnur PHCNear Pond Srinivaspura Taluk Kolar District.|Kolar|563126|COVAXIN|95
+1736|Kyalanuru PHC|Kyalanuru Hospital|Kolar|563101|COVISHIELD|95
+1739|Byrakuru PHC|PHC ByrakurNear Girls Hostel Mulbagal Taluk Kolar District.|Kolar|563131|COVISHIELD|95
+1738|Koorigepalli PHC Site 2|Koorigepalli PHCAddagal Road Srinivasapura Taluk|Kolar|563134|COVAXIN|95
+1740|Kyalanuru PHC Site 2|Kyalanuru Hospital|Kolar|563101|COVAXIN|95
+1737|Somayajalahalli PHC Site 2|Somayajalahalli PHCPunganoor RoadSrinivsapura Taluk|Kolar|563138|COVAXIN|95
+1741|Mutthakapalli PHC|Mutthakapalli PHCNear Milk Dairy Srinivasapura Taluk|Kolar|563138|COVISHIELD|95
+1744|BEML Medical Center Site 2|BEML Medical Center KGF|Kolar|563118|COVAXIN|95
+1743|Nangali PHC|Nangali PHC Beside NH-75 Mulabaagilu|Kolar|563132|COVISHIELD|95
+1742|Mallanayakanahalli PHC Site 2|Mallanayakanahalli PHCV Kota Road Mulabaagilu Taluk|Kolar|563136|COVAXIN|95
+1745|Avani PHC Site 2|Avani PHCTemple Road Mulbagal Taluk Kolar District|Kolar|563127|COVAXIN|95
+1746|Lakkuru PHC Site 2|Lakkuru PHC Near Sri Venkateshwaraswamy TempleMalur Taluk|Kolar|563130|COVAXIN|95
+1747|Addagal PHC|Addagal PHC Near Panchayathi Office Srinivasapur Taluk Kolar District|Kolar|563161|COVISHIELD|95
+1748|Nugalabande UPHC Site 2|Nugalabande UPHC Mulabaagilu|Kolar|563131|COVISHIELD|95
+1752|Kurudumale PHC Site 2|Kurudumale PHCVinayaka Temple RoadMulabaagilu Taluk|Kolar|563131|COVAXIN|95
+1749|Masthi PHC Site 2|Masthi PHC Near Bus Stop Malur Taluk|Kolar|563139|COVAXIN|95
+1751|Bangarapete TH Site 2|Hospital Circle Near Veternary Hospital Bangarapete|Kolar|563114|COVAXIN|95
+1754|Ooriguampete PHC|Oorigaumpete UPHCNear Primary School Bangarapete|Kolar|563121|COVISHIELD|95
+1753|Oorikunte Mitturu PHC|Oorikunte Mitturu PHC|Kolar|563127|COVISHIELD|95
+1750|Rayalpadu PHC|Mudhimadugu RoadNear MarketSrinivasapura Taluk|Kolar|563134|COVISHIELD|95
+1755|Hutthuru PHC Site 2|Hutthuru PHC Near High School Kolar Taluk|Kolar|563103|COVAXIN|95
+1756|Hutthuru PHC|Hutthuru PHC Near High School Kolar Taluk|Kolar|563103|COVISHIELD|95
+1757|Madderi PHC Site 2|Madderi PHC Near Nadakacherikolar Taluk|Kolar|563102|COVAXIN|95
+1758|Chamarahalli PHC|Chamarahalli CHCNear Milk Dairy Bangarpet Taluk Kolar District|Kolar|563103|COVISHIELD|95
+1760|Annihalli PHC Site 2|Annihalli PHCEntrance Of The Village Kolar Taluk Kolar District|Kolar|563102|COVAXIN|95
+1761|Vakkaleri PHC Site 2|Vakkaleri PHCMalur Main RoadKolar Taluk|Kolar|563130|COVAXIN|95
+1759|Addagal PHC Site 2|Addagal PHC Near Panchayathi Office Srinivasapur Taluk Kolar District|Kolar|563161|COVAXIN|95
+1762|Huladenahalli PHC|Huladenahalli PHCNear Vaternary HospitalMalur Road Kolar District|Kolar|563137|COVISHIELD|95
+1763|Hebbani PHC Site 2|Byrakuru Near Temple|Kolar|563131|COVAXIN|95
+1766|Ronuru PHC|Ronuru PHCNear Sri Venkateshwara Swamy TempleSrinivaspura Road|Kolar|563135|COVISHIELD|95
+1765|Koladevi PHC Site 2|Koladevi PHCNear Garuda TempleMulbagal Road Mulabaagilu Taluk|Kolar|563131|COVAXIN|95
+1764|Thayaluru PHC Site 2|Thayaluru PHCV Kota RoadMulabaagilu Taluk|Kolar|563136|COVAXIN|95
+1767|Kannasandra PHC Site 2|Kannasandra|Kolar|563136|COVAXIN|95
+1768|Doddachinnahalli PHC|Doddachinnahalli PHCNear SBI Bank Bangarpet Taluk Kolar District|Kolar|563120|COVISHIELD|95
+1769|Somayajalahalli PHC|Somayajalahalli PHCPunganoor RoadSrinivsapura Taluk|Kolar|563138|COVISHIELD|95
+1771|Holur PHC|Holur PHCNear NadakacheriKolar Taluk And District|Kolar|563126|COVISHIELD|95
+1772|Devarayasamudra PHC|Devarayasamudra|Kolar|563127|COVISHIELD|95
+1773|Mallanayakanahalli PHC|Mallanayakanahalli PHCV Kota Road Mulabaagilu Taluk|Kolar|563136|COVISHIELD|95
+1770|Kolar UPHC|Near Market Kolar Town|Kolar|563101|COVISHIELD|95
+1774|Alanguru PHC Site 2|Alanguru PHC|Kolar|563131|COVAXIN|95
+1776|Rayalpadu PHC Site 2|Mudhimadugu RoadNear MarketSrinivasapura Taluk|Kolar|563134|COVAXIN|95
+1775|Gownipalli CHC|Gownipalli CHC Srinivaspura Taluk Kolar Dist.|Kolar|563161|COVISHIELD|95
+1777|Nugalabande UPHC|Nugalabande UPHC Mulabaagilu|Kolar|563131|COVAXIN|95
+1667|Yalduru PHC|Yalduru PHCAgaram RoadSrinivasapura Taluk|Kolar|563138|COVISHIELD|95
+1717|SRINIVASAPURA TALUK HOSPITAL|Near Bustand|Kolar|563135|COVAXIN|95
+1778|Vemagal PHC Site 2|Vemagal PHC|Kolar|563102|COVAXIN|95
+1779|Annihalli PHC|Annihalli PHCEntrance Of The Village Kolar Taluk Kolar District|Kolar|563102|COVISHIELD|95
+1780|Holur PHC Site 2|Holur PHCNear NadakacheriKolar Taluk And District|Kolar|563126|COVAXIN|95
+1781|Bhagamandala PHC|Bhagamandala PHC Near Govt School Madikeri TQ Kodagu|Kodagu|571247|COVISHIELD|95
+1782|Cherambane PHC|Cherambane PHC Near Pachayath Office Madikeri TQ Kodagu|Kodagu|571201|COVISHIELD|95
+1783|Kuttandi PHC|Kuttandi PHC Main Road Virajpet TQ Kodagu|Kodagu|571218|COVISHIELD|95
+1784|Somwarpet GH|Somwarpet SDH Near Bus Stand Somwarpet TQ Kodagu|Kodagu|571236|COVISHIELD|95
+1785|Madapura PHC|Madapura PHC Near Police Station Somwarpet TQ Kodagu|Kodagu|571251|COVISHIELD|95
+1786|T Shettigeri SC|T Shettigeri SC Birunani PHC Virajpet TQ Kodagu|Kodagu|571249|COVISHIELD|95
+1787|Kodlipet PHC|Kodlipet PHC Main Road Somwarpet TQ Kodagu|Kodagu|571231|COVISHIELD|95
+1788|Gowdalli PHC|Gowdalli PHC Main Road Somwarpet TQ Kodagu|Kodagu|571236|COVISHIELD|95
+1789|Shanthalli PHC|Shanthalli PHC Main Road Somwarpet TQ Kodagu|Kodagu|571236|COVISHIELD|95
+1790|Kushalnagar CHC|Kushalnagara CHC Rathabidhi Main Road Somwarpet TQ Kodagu|Kodagu|571234|COVISHIELD|95
+1791|Virajpet GH|Virajpet SDH Near Court Road Virajpet TQ Kodagu|Kodagu|571218|COVISHIELD|95
+1792|Shanivarsanthe CHC|Shanivarsanthe CHC Main Road Somwarpet TQ Kodagu|Kodagu|571235|COVISHIELD|95
+1795|Kutta CHC|Kutta CHC Near Bus Stand Virajpet TQ Kodagu|Kodagu|571250|COVISHIELD|95
+1793|Kakotuparambu PHC|Kakotuparambu Primary Health Center Near Temple Virajpet TQ Kodagu|Kodagu|571218|COVISHIELD|95
+1794|Biligeri PHC|Biligeri PHC Makkalagudi Betta Road Somwarpet TQ Kodagu|Kodagu|571251|COVISHIELD|95
+1796|Sampaje PHC|Sampaje PHC Near Temple Madikeri TQ Kodagu|Kodagu|574234|COVISHIELD|95
+1797|St Michaels School Near DC|Near DC Office Madikeri|Kodagu|571201|COVISHIELD|95
+1798|Alurusiddapura PHC|Aluru Siddapura PHC Main Road Somwarpet TQ Kodagu|Kodagu|571235|COVISHIELD|95
+1799|Maldare PHC|Maldare PHC Main Road Virajpet TQ Kodagu|Kodagu|571253|COVISHIELD|95
+1800|Siddapura CHC|Siddapura CHC Near Bus Stand Virajpet TQ Kodagu|Kodagu|571253|COVISHIELD|95
+1801|Channayanakote PHC|Channayanakote PHC Near Maseedhi Virajpet TQ Kodagu|Kodagu|571215|COVISHIELD|95
+1802|Suntikoppa PHC|Suntikoppa PHC Near Police StationSomwarpet TQ Kodagu|Kodagu|571237|COVISHIELD|95
+1803|Murnadu PHC|Murnadu PHC Kanthuru Road Madikeri TQ Kodagu|Kodagu|571252|COVISHIELD|95
+1804|Srimangala PHC|Srimangala PHC Main Road Virajpet TQ Kodagu|Kodagu|571217|COVISHIELD|95
+1805|CV Gonikoppa CHC|Gonikoppa Community Health Center Main Road Virajpet TQ Kodagu|Kodagu|571213|COVAXIN|95
+1806|Napoklu CHC|Napoklu CHC Bethu Road Madikeri TQ Kodagu|Kodagu|571214|COVISHIELD|95
+1807|Thithimathi PHC|Thithimathi PHC Near Main Road Virajpet TQ Kodagu|Kodagu|571254|COVISHIELD|95
+1808|Birunani PHC|Birunani PHC Near School Road Virajpet TQ Kodagu|Kodagu|571249|COVISHIELD|95
+1809|Kudige PHC|Kudige PHC Main Road Somwarpet TQ Kodagu|Kodagu|571232|COVISHIELD|95
+1810|Kannangala PHC|Kannagala PHC Ammathi Ontiangadi Town Main Road Virajpet TQ Kodagu|Kodagu|571211|COVISHIELD|95
+1811|Polibeta CHC|Polibeta CHC Main Road Virajpet TQ Kodagu|Kodagu|571215|COVISHIELD|95
+1812|K Badaga SC Kanooru|K Badaga SC Kanooru|Kodagu|571216|COVISHIELD|95
+1813|CV Virajpet GH|Virajpet Taluk Hospital Near Court Road Virajpet TQ Kodagu|Kodagu|571218|COVAXIN|95
+1814|Balele PHC|Balele PHC Near Ganapathi Temple Virajpet TQ Kodagu|Kodagu|571219|COVISHIELD|95
+1815|Shirangala PHC|Shirangala PHC Near School Somwarpet TQ Kodagu|Kodagu|571232|COVISHIELD|95
+1816|Nanjarayapatna PHC|Nanjarayapatna PHC Main Road Somwarpet TQ Kodagu|Kodagu|571234|COVISHIELD|95
+1817|CV St Michaels School|Near DC Office Madikeri|Kodagu|571201|COVAXIN|95
+1818|Kanooru PHC|Kanooru PHC Main Road Virajpet TQ Kodagu|Kodagu|571216|COVISHIELD|95
+1819|Hudikeri PHC|Hudikeri PHC Near Janatha High School Virajpet TQ Kodagu|Kodagu|571249|COVISHIELD|95
+1820|Cheyyandane|Cheyyandane PHC Main Road Madikeri TQ Kodagu|Kodagu|571212|COVISHIELD|95
+1821|CV Murnadu PHC|Murnadu Primary Health Center Kanthuru Road Madikeri TQ Kodagu|Kodagu|571252|COVAXIN|95
+1822|Hakathuru|Hakathuru School Building Hakathuru SC Murnadu PHC Madikeri TQ Kodagu|Kodagu|571252|COVISHIELD|95
+1823|Gonikoppa CHC|Gonikoppa CHC Main Road Virajpet TQ Kodagu|Kodagu|571213|COVISHIELD|95
+1824|Hebbale PHC|Hebbale PHC Main Road Somwarpet TQ Kodagu|Kodagu|571232|COVISHIELD|95
+1825|CV Kushalnagar CHC|Near THO Office|Kodagu|571234|COVAXIN|95
+1826|Chettalli PHC|Chettalli PHC Near Govt School Somwarpet TQ Kodagu|Kodagu|571248|COVISHIELD|95
+1827|CV Somwarpet GH|Somwarpet Taluk Hospital Near Bus Stand Somwarpet TQ Kodagu|Kodagu|571236|COVAXIN|95
+1828|Hysodluru SC|AWC Hysodluru Hysodluru SC Birunani PHC Virajpet TQ Kodagu|Kodagu|571249|COVISHIELD|95
+1829|Pandavapura TH CV|Main Road|Mandya|571434|COVAXIN|95
+1830|Kothathi PHC|Kodiyala Road|Mandya|571478|COVISHIELD|95
+1831|Keelara CHC|Besagrahalli Road|Mandya|571450|COVISHIELD|95
+1832|Arakere CHC CV|Mandya Mysore Road|Mandya|571445|COVAXIN|95
+1833|Akkihebbalu PHC|Berya K R Pet Road|Mandya|571608|COVISHIELD|95
+1834|Haleboodanur PHC|Maddur Road|Mandya|571404|COVISHIELD|95
+1835|Shankarapura UPHC|Old Madras Road|Mandya|571402|COVISHIELD|95
+1836|Nagamangala TH CV|Main Road|Mandya|571432|COVAXIN|95
+1837|Mandya DH CV|B.M Road|Mandya|571403|COVAXIN|95
+1838|Sheelanere PHC|K R Pet Main Road|Mandya|571426|COVISHIELD|95
+1839|Srirangapatna TH CV|Ganjam Road|Mandya|571438|COVAXIN|95
+1840|Kyatumgere UPHC|Marigowda Badavane 2nd Cross|Mandya|571404|COVISHIELD|95
+1841|Guthulu UPHC|Guthalu Main Road|Mandya|571403|COVISHIELD|95
+1842|Kundur PHC1|Kunduru Malavalli Taluk|Mandya|571430|COVISHIELD|95
+1843|MIMS 1 Session Site|B M Road Mandya|Mandya|571401|COVISHIELD|95
+1844|Bindiganavile CHC CV|Near To Bus Stand|Mandya|571802|COVAXIN|95
+1845|Malavalli TH CV|Main Road|Mandya|571430|COVAXIN|95
+1846|Kergodu PHC|Koppa Main Road|Mandya|571446|COVISHIELD|95
+1848|Guttal CHC Covaxin|Guttal|Haveri|581110|COVAXIN|95
+1849|PHC ARALESHWAR|AT ARALESHWAR TQ HANGAL DI HAVERI|Haveri|581104|COVISHIELD|95
+1850|Aladagere Phc|Aladagere Phc|Haveri|581109|COVISHIELD|95
+1851|Negalur PHC|Near Kodbal Cross|Haveri|581213|COVISHIELD|95
+1853|Medur PHC|Near Kannada School Medur|Haveri|581210|COVISHIELD|95
+1852|Katenahalli PHC|Plat Area|Haveri|581110|COVISHIELD|95
+1854|Mevundi PHC|Near Govt High School|Haveri|581213|COVISHIELD|95
+1855|Havanur PHC|Near Busstand|Haveri|581108|COVISHIELD|95
+1856|Shankripura PHC|Shankripura|Haveri|581106|COVISHIELD|95
+1857|Tilavalli PHC|Tilavalli PHC|Haveri|581120|COVISHIELD|95
+1858|Hirekerur Taluka Hospital|General Hospital Hirekerur. Main Road Hirekerur|Haveri|581111|COVISHIELD|95
+1859|Byadagi Taluka Hospital|Taluka Hospital Byadagi|Haveri|581106|COVISHIELD|95
+1860|Shiragod PHC|AT POST SHIRAGOD TQ HANGAL DI HAVERI|Haveri|581104|COVISHIELD|95
+1861|Kadaramandalagi PHC|PHC-Kadaramandalagi|Haveri|581106|COVISHIELD|95
+1862|Agadi PHC|Near Karjagi Road|Haveri|581128|COVISHIELD|95
+1863|Naregal PHC|Naregal PHC|Haveri|581148|COVISHIELD|95
+1864|Ranebennur TH COVAXIN|Halageri Road Ranebennur|Haveri|581115|COVAXIN|95
+1865|SAMUDAYA AROGYA BHAVANA (RNR)|SAMUDAYA AROGYA BHAVANA PB ROAD RANEBENNUR|Haveri|581115|COVISHIELD|95
+1866|Hangal Taluka Hospital|Mini Vidhan Soudha Road Hangal|Haveri|581104|COVISHIELD|95
+1867|Handignur PHC|Near Govt School|Haveri|581110|COVISHIELD|95
+1868|Byadagi TH Covaxin|Taluka Hospital Campus|Haveri|581106|COVAXIN|95
+1869|Guttal CHC|Near Busstand|Haveri|581108|COVISHIELD|95
+1870|Ranebennur MCH|Sangamma Circle|Haveri|581115|COVISHIELD|95
+1871|Savanur Taluka Hospital|Market Road Savanur|Haveri|581118|COVISHIELD|95
+1872|Kalakeri PHC|Kalakeri PHC|Haveri|581148|COVISHIELD|95
+1873|PHC Bommanahalli|Bommanahalli PHC|Haveri|581203|COVISHIELD|95
+1874|Chikkabasur PHC|Chikkabasur|Haveri|581120|COVISHIELD|95
+1875|Kusanur PHC|Kusanur PHC|Haveri|581120|COVISHIELD|95
+1876|Kurubgonda PHC|Near High School Road|Haveri|581110|COVISHIELD|95
+1877|Shiggaon Taluka Hospital|Taluka Hospital Shiggaon|Haveri|581205|COVISHIELD|95
+1878|Kod PHC|PHC Kod|Haveri|581109|COVISHIELD|95
+1879|Hirekerur Work Place|CES COLLEGE MAIN ROAD HIREKERUR|Haveri|581111|COVISHIELD|95
+1880|Karajagi PHC|Near Ambedkar Nagar|Haveri|581110|COVISHIELD|95
+1881|Shadaguppi PHC|Shadaguppi PHC|Haveri|581102|COVISHIELD|95
+1882|Chikkoushihosur PHC|Chikkoushihosur PHC|Haveri|581104|COVISHIELD|95
+1883|Hosaritti PHC|Near IB|Haveri|581213|COVISHIELD|95
+1884|Chikkerur PHC|Yallapur Road Near KSRTC Bus Stop|Haveri|581111|COVISHIELD|95
+1885|Akkialur CHC|CHC Akkialur|Haveri|581102|COVISHIELD|95
+1886|CHC Masur|Near Bus Stand CHC Masur|Haveri|581210|COVISHIELD|95
+1887|Kaginele PHC|KAGINELE PHC|Haveri|581110|COVISHIELD|95

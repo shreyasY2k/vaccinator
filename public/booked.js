@@ -27,5 +27,4 @@ if ((username = Cookies.get("booked"))) {
 }
 document.querySelector("#changecenter").addEventListener("click", () => {
   Cookies.set("change", `{"name":"${user.name}","aadhar":"${user.aadhar}"}`);
-  // window.location = "changecenter.html";
 });

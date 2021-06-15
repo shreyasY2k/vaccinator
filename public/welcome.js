@@ -18,9 +18,9 @@ function centerRender(length, centers, pincode) {
   }
   var j = 1;
 
-  for (var i = 0; i < length; i++) {
+  for (var i = 0; i < length - 1; i++) {
     if (
-      centers[i].split("|")[3] == pincode ||
+      centers[i].split("|")[3].toLowerCase().includes(pincode.toLowerCase()) ||
       centers[i].split("|")[4] == pincode
     ) {
       centerData = centers[i].split("|");
@@ -50,7 +50,6 @@ function centerRender(length, centers, pincode) {
   }
 }
 if ((username = Cookies.get("userDetails"))) {
-  console.log(username);
   var user = JSON.parse(username.slice(2, username.length));
   document.getElementById("username").textContent = `Welcome: ${user.name}`;
   fetch("centers.txt")

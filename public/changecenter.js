@@ -19,7 +19,7 @@ function centerRender(length, centers, pincode) {
 
   for (var i = 0; i < length; i++) {
     if (
-      centers[i].split("|")[3] == pincode ||
+      centers[i].split("|")[3].toLowerCase().includes(pincode.toLowerCase()) ||
       centers[i].split("|")[4] == pincode
     ) {
       centerData = centers[i].split("|");

@@ -128,7 +128,7 @@ function bookVaccine(
   });
 }
 app.listen(process.env.PORT || 8080, function () {
-  console.log("listening on 3000");
+  console.log("listening on 8080");
 });
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));

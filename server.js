@@ -127,7 +127,7 @@ function bookVaccine(
     });
   });
 }
-app.listen(3000, function () {
+app.listen(process.env.PORT || 8080, function () {
   console.log("listening on 3000");
 });
 app.use(cookieParser());
@@ -153,14 +153,26 @@ app.post("/login", (req, res) => {
       fs.appendFile("users.txt", fileData, function (err) {
         if (err) throw err;
         console.log("Saved!");
-        res.cookie("userDetails", { name: name, aadhar: aadhar });
+        res.cookie(
+          "userDetails",
+          { name: name, aadhar: aadhar },
+          { expire: 360000 + Date.now() }
+        );
         res.redirect("/welcome.html");
       });
     } else if (data.includes(aadhar) && isUserBooked(data, aadhar)) {
-      res.cookie("booked", { name: name, aadhar: aadhar });
+      res.cookie(
+        "booked",
+        { name: name, aadhar: aadhar },
+        { expire: 360000 + Date.now() }
+      );
       res.redirect("/booked.html");
     } else {
-      res.cookie("userDetails", { name: name, aadhar: aadhar });
+      res.cookie(
+        "userDetails",
+        { name: name, aadhar: aadhar },
+        { expire: 360000 + Date.now() }
+      );
       res.redirect("/welcome.html");
     }
   });
@@ -174,7 +186,11 @@ app.get("/book*", (req, res) => {
   var centerDist = req.query.district;
   var vaccineSelected = req.query.vaccine;
   bookVaccine(centerId, centerName, centerDist, vaccineSelected, userDetails);
-  res.cookie("booked", { name: userDetails.name, aadhar: userDetails.aadhar });
+  res.cookie(
+    "booked",
+    { name: userDetails.name, aadhar: userDetails.aadhar },
+    { expire: 360000 + Date.now() }
+  );
   res.clearCookie("userDetails");
   res.redirect("/booked.html");
 });
@@ -187,7 +203,11 @@ app.get("/change*", (req, res) => {
   var vaccineSelected = req.query.vaccine;
 
   changeCenter(centerId, centerName, centerDist, vaccineSelected, userDetails);
-  res.cookie("booked", { name: userDetails.name, aadhar: userDetails.aadhar });
+  res.cookie(
+    "booked",
+    { name: userDetails.name, aadhar: userDetails.aadhar },
+    { expire: 360000 + Date.now() }
+  );
   res.clearCookie("change");
   res.redirect("/booked.html");
 });

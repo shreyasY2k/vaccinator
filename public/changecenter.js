@@ -14,7 +14,7 @@ function centerRender(length, centers, pincode) {
             <td>SELECT</td>
           </tr>
         </thead>`;
-  }
+  
   var j = 1;
 
   for (var i = 0; i < length; i++) {
@@ -46,7 +46,7 @@ function centerRender(length, centers, pincode) {
       );
       j++;
     }
-  }
+  }}
 }
 if ((username = Cookies.get("change"))) {
   var user = JSON.parse(Cookies.get("change"));

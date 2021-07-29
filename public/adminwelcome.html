@@ -1,0 +1,53 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css" />
+    <style type="text/css">
+        body {
+            font: 14px sans-serif;
+        }
+        
+        .wrapper {
+            padding: 20px;
+        }
+    </style>
+
+    <script>
+        if ((admin = Cookies.get("admin"))) {
+            function manageCenter() {
+                window.location = "./center.html";
+            }
+
+            function manageUser() {
+                window.location = "./user.html";
+            }
+        } else {
+            window.location = "./index.html";
+        }
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Managing centers and vaccinated users.</h2>
+        <div>
+            <button id="center" class="btn btn-primary" onclick="manageCenter()">
+          MANAGE CENTERS
+        </button>
+        </div>
+        <br />
+        <div>
+            <button id="user" class="btn btn-primary" onclick="manageUser()">
+          MARK USERS VACCINATED
+        </button>
+        </div>
+    </div>
+</body>
+
+</html>

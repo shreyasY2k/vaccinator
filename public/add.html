@@ -1,0 +1,64 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vaccinator</title>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<script>
+    if ((admin = Cookies.get("admin"))) {
+
+    } else {
+        window.location = "./index.html";
+    }
+</script>
+<style>
+    body {
+        font-size: medium;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <form method="POST" style="width: 350px" novalidate action="/center">
+            <h2>Add new center</h2>
+            <p>Fill in the details</p>
+            <div class="form-group">
+                <label>Center name:</label>
+                <input type="text" id="center" name="center" class="form-control" placeholder="enter center name" style="float: left" required pattern="[a-zA-Z]+" />
+            </div>
+            <div class="form-group">
+                <label>Address:</label>
+                <input type="text" id="address" name="address" class="form-control" placeholder="enter the address" style="float: left" />
+            </div>
+            <div class="form-group">
+                <label>District:</label>
+                <input type="text" id="district" name="district" class="form-control" placeholder="enter the district" style="float: left" required pattern="[a-zA-Z]+" />
+            </div>
+            <div class="form-group">
+                <label>Pincode:</label>
+                <input type="text" id="pincode" name="pincode" class="form-control" placeholder="enter the pincode" style="float: left" required pattern="[0-9]{6}" />
+            </div>
+            <div class="form-group">
+                <label>Vaccine Name:</label>
+                <input type="text" id="vaccine" name="vaccine" class="form-control" placeholder="enter the vaccine name" style="float: left" required pattern="[a-zA-Z]+" />
+            </div>
+            <div class="form-group">
+                <label>Slots:</label>
+                <input type="text" id="slots" name="slots" class="form-control" placeholder="enter the slots" style="float: left" required pattern="[0-9]+" />
+            </div><br>
+            <button id="button2" type="submit" class="btn btn-primary">ADD</button>
+    </div>
+    </form>
+    </div>
+    </div>
+</body>
+
+</html>

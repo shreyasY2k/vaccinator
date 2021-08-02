@@ -35,6 +35,11 @@
             function addCenter() {
                 window.location = "./add.html";
             }
+
+            function adminLogout() {
+                Cookies.remove("admin");
+                window.location = "./admin.html";
+            }
         } else {
             window.location = "./index.html";
         }
@@ -52,8 +57,11 @@
         <button id="b1" type="button" onclick="addCenter()" class="btn btn-primary" style="margin: 0 0 20px 20px">
           ADD NEW CENTER
           </button>
-        <button id="user" type="button" class="btn btn-primary" onclick="manageUser()">
+        <button id="user" type="button" class="btn btn-primary" style="margin: 0 0 20px 20px" onclick="manageUser()">
           MARK AS VACCINATED
+        </button>
+        <button id="user" type="button" class="btn btn-danger" style="margin: 0 0 20px 20px" onclick="adminLogout()">
+          LOGOUT
         </button>
         <div class="table-responsive table-wrapper-scroll-y my-custom-scrollbar">
             <table id="centers" class="table table-bordered table-striped"></table>

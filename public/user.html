@@ -12,6 +12,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>
+        function adminLogout() {
+            Cookies.remove("admin");
+            window.location = "./admin.html";
+        }
+    </script>
     <style type="text/css">
         body {
             font: 14px sans-serif;
@@ -31,7 +37,12 @@
 
 <body>
     <div class="container">
-        <h3 class="h3">Users registered for vaccination</h3>
+        <h3 class="h3">
+            Users registered for vaccination
+            <button id="user" type="button" class="btn btn-danger" style="float: inherit; margin: 20px 0 20px 20px" onclick="adminLogout()">
+          Logout
+        </button>
+        </h3>
         <div class="table-responsive table-wrapper-scroll-y my-custom-scrollbar">
             <table id="users" class="table table-bordered table-striped"></table>
         </div>

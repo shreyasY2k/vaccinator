@@ -282,7 +282,7 @@ app.get("/admin", function (req, res) {
 
 app.post("/adminlogin", function (req, res) {
   let password = req.body.pass;
-  let adminPassword = "";
+  let adminPassword = "Surmalhar91!@#";
   if (password == adminPassword) {
     res.cookie("admin", { admin: "admin-loggedin" });
     res.redirect("/adminwelcome.html");

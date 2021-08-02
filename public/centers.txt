@@ -1,11 +1,11 @@
-
+1|NANDIKESHWAR PHC COVAXINE|NANDIKESHWAR PHC BADAMI|Bagalkot|587201|COVAXIN|100
 3|UPHC NAVANAGAR COVAXIN|AMO UPHC NAVANGAR|Bagalkot|587102|COVAXIN|100
 2|KonnurPHC|Phc Hospital|Bagalkot|587121|COVISHIELD|100
 4|Togunasi PHC|Togunasi PHC Badami|Bagalkot|587203|COVISHIELD|100
 5|Kulageri Cross PHC|Hubli Road Kulageri Cross|Bagalkot|587155|COVISHIELD|100
 6|SC DAVALESHWAR|DAVALESHWAR|Bagalkot|587313|COVISHIELD|100
 7|Marol PHC|Marol|Bagalkot|587118|COVISHIELD|100
-
+8|PHC GALAGALI COVAXIN|AMO GALAGALI|Bagalkot|587117|COVAXIN|100
 9|Hipparagi PHC|Govt Hospital Hipparagi|Bagalkot|587311|COVISHIELD|100
 10|SC ANAVALA|ANAVALA|Bagalkot|587206|COVISHIELD|100
 11|PHC Shirur|Bagalkot Raod|Bagalkot|587120|COVISHIELD|100
@@ -15,7 +15,7 @@
 15|Kakanur PHC|Kakanur PHC Badami|Bagalkot|587201|COVISHIELD|100
 16|Bilagi TH Covaxin|Taluka Hospital Bilagi|Bagalkot|587116|COVAXIN|100
 17|Rabakavi UPHC|Vidyanagar Behind KEB Rabakavi|Bagalkot|587311|COVISHIELD|100
-
+18|Dhannur PHC|Primary Health Center Dhannur Murarjee School Road Dhannur|Bagalkot|587118|COVISHIELD|100
 19|Girisagar CHC|Girisagar CHC Tq Bilagi|Bagalkot|587116|COVISHIELD|100
 20|SC Jagadal|JAGADALA|Bagalkot|587311|COVISHIELD|100
 21|Mudhol KEM TH|Mudhol Taluka Hospital|Bagalkot|587313|COVISHIELD|100
@@ -85,7 +85,7 @@
 85|SC HALAKURKI|HALAKURKI|Bagalkot|587201|COVISHIELD|100
 86|PHC Linganur Covaxin|PHC Linganur|Bagalkot|587301|COVAXIN|100
 87|Karadi PHC Covaxin|Karadi PHC|Bagalkot|587125|COVAXIN|100
-
+88|PHC SUTAGUNDAR COVAXIN|AMO PHC SUTAGUNDAR|Bagalkot|587207|COVAXIN|100
 89|Lokapur PHC|Lokapur PHC|Bagalkot|587122|COVISHIELD|100
 90|PHC Konnur Covaxin|PHC Konnur|Bagalkot|587121|COVAXIN|100
 91|Phc Bennur|Phc Bennur|Bagalkot|587111|COVISHIELD|100
@@ -186,7 +186,7 @@
 185|Avathi PHC|Avathi PHC Devanahalli Taluk Bangalore Rural|Bangalore Rural|562164|COVISHIELD|100
 186|Budigere PHC|Budigere PHCDevanahalli Taluk Bangalore Rural|Bangalore Rural|562129|COVISHIELD|100
 187|Koira PHC|Koira PHCDevanahalli Taluk Bangalore Rural|Bangalore Rural|562110|COVISHIELD|100
-
+188|Balluru PHC|Dasanapura Road|Bangalore Urban|562107|COVISHIELD|100
 189|Yelahanka TH.|Yelahanka Old Town Behind Veeranjaneya Temple|Bangalore Urban|562157|COVISHIELD|100
 190|Kumbalagodu Gollahalli PHC|Gonipura Main Road|Bangalore Urban|560074|COVISHIELD|100
 191|Chikkabanavara PHC|Dwarakanagar|Bangalore Urban|560090|COVISHIELD|100
@@ -260,7 +260,7 @@
 259|GANTIGANAHALLI SUB CENTRE|GANTIGANAHALLI SUB CENTRE|Bangalore Urban|560064|COVISHIELD|100
 260|COMMAND HOSPITAL AIR FORCE|COMMAND HOSPITAL AIR FORCE CAMBRIDGE ROADCAMBRIDGE LAYOUT JOGUPALYA BANGALORE|Bangalore Urban|560007|COVISHIELD|100
 261|KOLUR (SUB CENTRE)|Koluru Sub Centre|Bangalore Urban|562130|COVISHIELD|100
-262|Hulimavu GOVT SCHOOL|Near Rama Temple|BBMP|560076|COVISHIELD|98
+262|Hulimavu GOVT SCHOOL|Near Rama Temple|BBMP|560076|COVISHIELD|99
 263|P G Halli UPHC|Near Jataka Stand Palace Guttahalli|BBMP|560003|COVAXIN|100
 264|Chickpete Ward 109|13KV Temple Street Crosssowrashtrapetchickpetbengaluru 560053|BBMP|560053|COVISHIELD|100
 265|Dasappa Uphc Covaxin|Hhs And Hms Complex Cubbonpet Main Road Bangalore|BBMP|560002|COVAXIN|100
@@ -300,7 +300,7 @@
 297|APOLLO HOSPITAL 1|Imperial Hospital Research Centre Limited|BBMP|560076|COVAXIN|100
 300|Mallige Hospital Block 1|Crescent Rd Madhava Nagar Gandhi Nagar Bengaluru|BBMP|560001|COVISHIELD|100
 301|Narayana Multispecialty Clinic|No. 17 1 Uday House 30th Cross 8th Main Road 4th Block Jayanagar Bangalore|BBMP|560011|COVISHIELD|100
-302|MOHAMMED SAB PALYA UPHC|MOHAMED SAB PALYA|BBMP|560097|COVISHIELD|99
+302|MOHAMMED SAB PALYA UPHC|MOHAMED SAB PALYA|BBMP|560097|COVISHIELD|100
 303|Kodichikkanahalli UPHC|Rotarynagara|BBMP|560076|COVISHIELD|100
 304|WARD 93 VASANTHNAGAR UPHC|19 MV Jayaram Rd Vasanth Nagar|BBMP|560001|COVISHIELD|100
 305|Ward No 21 Old Moh Office|RBI COLONY 11 MAIN RAOD HEEBAL|BBMP|560052|COVISHIELD|100
@@ -840,7 +840,7 @@
 840|Choradi PHC|Sagara Road|Shimoga|577423|COVISHIELD|75
 839|Ayanur Community Health Centre|Sagara Road|Shimoga|577211|COVISHIELD|75
 841|Maravalli PHC|Kaginalli Main Road|Shimoga|577427|COVISHIELD|75
-842|Kote UPHC(Covishield)|Near Dho Office Kote Road|Shimoga|577201|COVISHIELD|100
+842|Kote UPHC(Covishield)|Near Dho Office Kote Road|Shimoga|577201|COVISHIELD|75
 843|Tunganagara UPHC|100 Feet Road|Shimoga|577205|COVISHIELD|75
 844|Antharagange PHC|Shivani Road Antharagange|Shimoga|577245|COVISHIELD|75
 845|Hulthikoppa PHC|Bhatkal Soraba Road|Shimoga|577429|COVISHIELD|75
@@ -886,7 +886,7 @@
 885|Thallikatte PHC|Hollehonnur Road|Shimoga|577227|COVISHIELD|75
 886|Harige PHC|Phc Harige|Shimoga|577433|COVAXIN|75
 887|Agumbe PHC|Udupi Mangalore Road|Shimoga|577411|COVISHIELD|75
-
+888|Donabhaghatta PHC|Bilki Road Tankmohalla Donabhaghatta|Shimoga|577229|COVISHIELD|75
 889|Shikaripura Taluka Hospitals|Shiralakoppa Road|Shimoga|577427|COVISHIELD|75
 890|Harishi PHC|Chandragutthi Road|Shimoga|577429|COVISHIELD|75
 891|Ghondhichatnalli PHC|Honnahalli Road|Shimoga|577216|COVISHIELD|75
@@ -1885,4 +1885,3 @@
 1885|Akkialur CHC|CHC Akkialur|Haveri|581102|COVISHIELD|95
 1886|CHC Masur|Near Bus Stand CHC Masur|Haveri|581210|COVISHIELD|95
 1887|Kaginele PHC|KAGINELE PHC|Haveri|581110|COVISHIELD|95
-

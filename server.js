@@ -282,7 +282,6 @@ app.get("/admin", function (req, res) {
 
 app.post("/adminlogin", function (req, res) {
   let password = req.body.pass;
-  console.log(password);
   let adminPassword = "";
   if (password == adminPassword) {
     res.cookie("admin", { admin: "admin-loggedin" });

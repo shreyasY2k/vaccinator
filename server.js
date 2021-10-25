@@ -3,6 +3,7 @@ const app = express();
 var cookieParser = require("cookie-parser");
 const fs = require("fs");
 const path = require("path");
+const bodyParser = require('body-parser')
 
 //check whether user is already vaccinated
 function isUserVaccinated(aadhar) {
